@@ -1,0 +1,3194 @@
+location,month,characteristic,monthly_mean,monthly_median,n_samples
+baton_rouge,2010-01-01,pH,7.95,7.95,2
+baton_rouge,2010-02-01,pH,8.0,8.0,2
+baton_rouge,2010-03-01,pH,8.0,8.0,4
+baton_rouge,2010-04-01,pH,7.975,7.95,4
+baton_rouge,2010-05-01,pH,7.95,7.95,4
+baton_rouge,2010-06-01,pH,8.0,8.0,2
+baton_rouge,2010-08-01,pH,8.149999999999999,8.149999999999999,2
+baton_rouge,2010-10-01,pH,8.05,8.05,2
+baton_rouge,2010-12-01,pH,8.05,8.05,2
+baton_rouge,2011-01-01,pH,8.05,8.05,2
+baton_rouge,2011-02-01,pH,8.2,8.2,2
+baton_rouge,2011-03-01,pH,8.0,8.0,4
+baton_rouge,2011-04-01,pH,7.95,7.95,4
+baton_rouge,2011-05-01,pH,7.8,7.85,4
+baton_rouge,2011-06-01,pH,7.925,7.9,4
+baton_rouge,2011-08-01,pH,8.1,8.1,2
+baton_rouge,2011-10-01,pH,8.149999999999999,8.149999999999999,2
+baton_rouge,2011-12-01,pH,8.0,8.0,2
+baton_rouge,2012-01-01,pH,8.0,8.0,2
+baton_rouge,2012-02-01,pH,7.9,7.9,2
+baton_rouge,2012-03-01,pH,7.975,7.95,4
+baton_rouge,2012-04-01,pH,7.95,7.9,6
+baton_rouge,2012-05-01,pH,7.966666666666666,7.9,3
+baton_rouge,2012-06-01,Chloride,4.126,4.126,1
+baton_rouge,2012-06-01,Specific conductance,132.4,132.4,1
+baton_rouge,2012-06-01,Sulfate,5.689,5.689,1
+baton_rouge,2012-06-01,pH,7.8999999999999995,7.8,3
+baton_rouge,2012-08-01,pH,7.975,7.9,4
+baton_rouge,2012-10-01,Chloride,5.75,5.75,1
+baton_rouge,2012-10-01,Phosphorus,0.315,0.315,1
+baton_rouge,2012-10-01,Sulfate,16.3,16.3,1
+baton_rouge,2012-10-01,Total dissolved solids,155.0,155.0,1
+baton_rouge,2012-10-01,pH,8.05,8.05,2
+baton_rouge,2012-11-01,Chloride,15.9,15.9,1
+baton_rouge,2012-11-01,Phosphorus,0.236,0.236,1
+baton_rouge,2012-11-01,Sulfate,19.2,19.2,1
+baton_rouge,2012-11-01,Total dissolved solids,178.0,178.0,1
+baton_rouge,2012-12-01,Chloride,19.6,19.6,1
+baton_rouge,2012-12-01,Phosphorus,0.097,0.097,1
+baton_rouge,2012-12-01,Sulfate,15.8,15.8,1
+baton_rouge,2012-12-01,Total dissolved solids,60.0,60.0,1
+baton_rouge,2012-12-01,pH,8.149999999999999,8.149999999999999,2
+baton_rouge,2013-01-01,Chloride,10.1,10.1,1
+baton_rouge,2013-01-01,Phosphorus,0.102,0.102,1
+baton_rouge,2013-01-01,Sulfate,20.0,20.0,1
+baton_rouge,2013-01-01,Total dissolved solids,180.0,180.0,1
+baton_rouge,2013-01-01,pH,8.0,8.0,2
+baton_rouge,2013-02-01,Chloride,10.5,10.5,1
+baton_rouge,2013-02-01,Phosphorus,0.176,0.176,1
+baton_rouge,2013-02-01,Sulfate,35.1,35.1,1
+baton_rouge,2013-02-01,Total dissolved solids,172.0,172.0,1
+baton_rouge,2013-02-01,pH,8.05,8.05,2
+baton_rouge,2013-03-01,Chloride,8.65,8.65,1
+baton_rouge,2013-03-01,Phosphorus,0.131,0.131,1
+baton_rouge,2013-03-01,Sulfate,26.5,26.5,1
+baton_rouge,2013-03-01,Total dissolved solids,122.0,122.0,1
+baton_rouge,2013-03-01,pH,7.975,8.0,4
+baton_rouge,2013-04-01,Chloride,15.4,15.4,1
+baton_rouge,2013-04-01,Phosphorus,0.0742,0.0742,1
+baton_rouge,2013-04-01,Sulfate,22.6,22.6,1
+baton_rouge,2013-04-01,Total dissolved solids,142.0,142.0,1
+baton_rouge,2013-04-01,pH,7.925,7.95,4
+baton_rouge,2013-05-01,Chloride,8.9,8.9,1
+baton_rouge,2013-05-01,Phosphorus,0.234,0.234,1
+baton_rouge,2013-05-01,Sulfate,17.4,17.4,1
+baton_rouge,2013-05-01,Total dissolved solids,128.0,128.0,1
+baton_rouge,2013-05-01,pH,7.7,7.7,4
+baton_rouge,2013-06-01,Chloride,9.37,9.37,1
+baton_rouge,2013-06-01,Phosphorus,0.305,0.305,1
+baton_rouge,2013-06-01,Sulfate,13.6,13.6,1
+baton_rouge,2013-06-01,Total dissolved solids,122.0,122.0,1
+baton_rouge,2013-06-01,pH,7.675000000000001,7.7,4
+baton_rouge,2013-07-01,Chloride,18.6,18.6,1
+baton_rouge,2013-07-01,Phosphorus,0.209,0.209,1
+baton_rouge,2013-07-01,Sulfate,13.4,13.4,1
+baton_rouge,2013-07-01,Total dissolved solids,148.0,148.0,1
+baton_rouge,2013-07-01,pH,7.85,7.85,2
+baton_rouge,2013-08-01,Chloride,19.9,19.9,1
+baton_rouge,2013-08-01,Phosphorus,0.262,0.262,1
+baton_rouge,2013-08-01,Sulfate,15.0,15.0,1
+baton_rouge,2013-08-01,Total dissolved solids,172.0,172.0,1
+baton_rouge,2013-08-01,pH,8.0,8.0,2
+baton_rouge,2013-09-01,Chloride,23.4,23.4,1
+baton_rouge,2013-09-01,Phosphorus,0.0853,0.0853,1
+baton_rouge,2013-09-01,Sulfate,15.9,15.9,1
+baton_rouge,2013-09-01,Total dissolved solids,205.0,205.0,1
+baton_rouge,2013-11-01,pH,8.1,8.1,2
+baton_rouge,2013-12-01,pH,8.2,8.0,4
+baton_rouge,2014-01-01,pH,7.85,7.85,2
+baton_rouge,2014-02-01,pH,7.95,7.95,2
+baton_rouge,2014-03-01,pH,7.825,7.85,4
+baton_rouge,2014-04-01,pH,7.8,7.800000000000001,4
+baton_rouge,2014-05-01,pH,7.725,7.7,4
+baton_rouge,2014-06-01,pH,7.825,7.85,4
+baton_rouge,2014-07-01,pH,8.0,8.0,2
+baton_rouge,2014-08-01,pH,8.05,8.05,2
+baton_rouge,2014-10-01,pH,7.9,7.9,2
+baton_rouge,2014-11-01,pH,8.7,8.7,1
+baton_rouge,2014-12-01,pH,8.0,8.0,2
+baton_rouge,2015-01-01,pH,8.0,8.0,2
+baton_rouge,2015-02-01,pH,8.05,8.05,2
+baton_rouge,2015-03-01,pH,7.85,7.9,4
+baton_rouge,2015-04-01,pH,7.775,7.800000000000001,4
+baton_rouge,2015-05-01,pH,7.8,7.800000000000001,4
+baton_rouge,2015-06-01,pH,7.85,7.85,4
+baton_rouge,2015-07-01,pH,7.8,7.8,2
+baton_rouge,2015-08-01,pH,7.8,7.8,2
+baton_rouge,2015-10-01,pH,8.100000000000001,8.100000000000001,2
+baton_rouge,2015-12-01,pH,8.25,8.149999999999999,4
+baton_rouge,2016-01-01,pH,7.800000000000001,7.800000000000001,2
+baton_rouge,2016-02-01,pH,8.1,8.1,2
+baton_rouge,2016-03-01,pH,8.05,8.05,4
+baton_rouge,2016-04-01,pH,7.85,7.85,4
+baton_rouge,2016-05-01,pH,7.95,7.949999999999999,4
+baton_rouge,2016-06-01,pH,7.975,7.949999999999999,4
+baton_rouge,2016-07-01,pH,8.25,8.25,2
+baton_rouge,2016-08-01,pH,8.1,8.1,2
+baton_rouge,2016-10-01,Chloride,17.6,17.6,1
+baton_rouge,2016-10-01,Phosphorus,0.3,0.3,1
+baton_rouge,2016-10-01,Sulfate,22.2,22.2,1
+baton_rouge,2016-10-01,Total dissolved solids,170.0,170.0,1
+baton_rouge,2016-10-01,pH,8.25,8.25,2
+baton_rouge,2016-11-01,Chloride,25.7,25.7,1
+baton_rouge,2016-11-01,Phosphorus,0.23,0.23,1
+baton_rouge,2016-11-01,Sulfate,22.4,22.4,1
+baton_rouge,2016-11-01,Total dissolved solids,215.0,215.0,1
+baton_rouge,2016-12-01,Chloride,7.2,7.2,1
+baton_rouge,2016-12-01,Phosphorus,0.42,0.42,1
+baton_rouge,2016-12-01,Sulfate,11.5,11.5,1
+baton_rouge,2016-12-01,Total dissolved solids,90.0,90.0,1
+baton_rouge,2016-12-01,pH,8.3,8.3,2
+baton_rouge,2017-01-01,Chloride,12.3,12.3,1
+baton_rouge,2017-01-01,Phosphorus,0.25,0.25,1
+baton_rouge,2017-01-01,Sulfate,21.5,21.5,1
+baton_rouge,2017-01-01,Total dissolved solids,190.0,190.0,1
+baton_rouge,2017-01-01,pH,7.75,7.75,2
+baton_rouge,2017-02-01,Chloride,13.9,13.9,1
+baton_rouge,2017-02-01,Phosphorus,0.11,0.11,1
+baton_rouge,2017-02-01,Sulfate,26.8,26.8,1
+baton_rouge,2017-02-01,Total dissolved solids,225.0,225.0,1
+baton_rouge,2017-02-01,pH,8.0,8.0,2
+baton_rouge,2017-03-01,Chloride,13.2,13.2,1
+baton_rouge,2017-03-01,Phosphorus,0.61,0.61,1
+baton_rouge,2017-03-01,Sulfate,21.7,21.7,1
+baton_rouge,2017-03-01,Total dissolved solids,115.0,115.0,1
+baton_rouge,2017-03-01,pH,7.9,7.9,1
+baton_rouge,2017-04-01,Chloride,8.5,8.5,1
+baton_rouge,2017-04-01,Phosphorus,0.3,0.3,1
+baton_rouge,2017-04-01,Sulfate,14.0,14.0,1
+baton_rouge,2017-04-01,Total dissolved solids,105.0,105.0,1
+baton_rouge,2017-05-01,Chloride,7.1,7.1,1
+baton_rouge,2017-05-01,Phosphorus,0.23,0.23,1
+baton_rouge,2017-05-01,Sulfate,13.3,13.3,1
+baton_rouge,2017-05-01,Total dissolved solids,70.0,70.0,1
+baton_rouge,2017-06-01,Chloride,5.696666666666666,4.745,3
+baton_rouge,2017-06-01,Phosphorus,0.3,0.3,1
+baton_rouge,2017-06-01,Sulfate,7.826,3.889,3
+baton_rouge,2017-06-01,Total dissolved solids,100.0,100.0,1
+baton_rouge,2017-07-01,Chloride,9.3,9.3,1
+baton_rouge,2017-07-01,Phosphorus,0.32,0.32,1
+baton_rouge,2017-07-01,Sulfate,13.7,13.7,1
+baton_rouge,2017-07-01,Total dissolved solids,135.0,135.0,1
+baton_rouge,2017-07-01,pH,7.4,7.4,1
+baton_rouge,2017-08-01,Chloride,13.5,13.5,1
+baton_rouge,2017-08-01,Phosphorus,0.28,0.28,1
+baton_rouge,2017-08-01,Sulfate,28.8,28.8,1
+baton_rouge,2017-08-01,Total dissolved solids,190.0,190.0,1
+baton_rouge,2017-08-01,pH,7.5,7.5,1
+baton_rouge,2017-09-01,Chloride,8.5,8.5,1
+baton_rouge,2017-09-01,Sulfate,17.8,17.8,1
+baton_rouge,2017-09-01,Total dissolved solids,145.0,145.0,1
+baton_rouge,2017-09-01,pH,7.7,7.7,1
+baton_rouge,2017-10-01,Chloride,39.3,39.3,1
+baton_rouge,2017-10-01,Phosphorus,0.24,0.24,1
+baton_rouge,2017-10-01,Sulfate,16.0,16.0,1
+baton_rouge,2017-10-01,Total dissolved solids,110.0,110.0,1
+baton_rouge,2017-10-01,pH,8.0,8.0,1
+baton_rouge,2017-11-01,Chloride,8.9,8.9,1
+baton_rouge,2017-11-01,Phosphorus,0.088,0.088,1
+baton_rouge,2017-11-01,Sulfate,3.8,3.8,1
+baton_rouge,2017-11-01,Total dissolved solids,60.0,60.0,1
+baton_rouge,2017-12-01,Chloride,17.4,17.4,1
+baton_rouge,2017-12-01,Sulfate,11.3,11.3,1
+baton_rouge,2017-12-01,Total dissolved solids,85.0,85.0,1
+baton_rouge,2017-12-01,pH,8.1,8.1,1
+baton_rouge,2018-01-01,Chloride,10.0,10.0,1
+baton_rouge,2018-01-01,Phosphorus,0.39,0.39,1
+baton_rouge,2018-01-01,Sulfate,10.0,10.0,1
+baton_rouge,2018-01-01,Total dissolved solids,145.0,145.0,1
+baton_rouge,2018-02-01,Chloride,26.4,26.4,1
+baton_rouge,2018-02-01,Phosphorus,0.086,0.086,1
+baton_rouge,2018-02-01,Sulfate,18.0,18.0,1
+baton_rouge,2018-02-01,Total dissolved solids,240.0,240.0,1
+baton_rouge,2018-03-01,Chloride,4.4,4.4,1
+baton_rouge,2018-03-01,Phosphorus,0.3,0.3,1
+baton_rouge,2018-03-01,Sulfate,1.0,1.0,1
+baton_rouge,2018-03-01,Total dissolved solids,35.0,35.0,1
+baton_rouge,2018-04-01,Chloride,47.9,47.9,1
+baton_rouge,2018-04-01,Phosphorus,0.23,0.23,1
+baton_rouge,2018-04-01,Sulfate,24.3,24.3,1
+baton_rouge,2018-04-01,Total dissolved solids,250.0,250.0,1
+baton_rouge,2018-05-01,Chloride,25.4,25.4,1
+baton_rouge,2018-05-01,Phosphorus,0.17,0.17,1
+baton_rouge,2018-05-01,Sulfate,13.0,13.0,1
+baton_rouge,2018-05-01,Total dissolved solids,195.0,195.0,1
+baton_rouge,2018-05-01,pH,7.5,7.5,1
+baton_rouge,2018-06-01,Chloride,7.2,7.2,1
+baton_rouge,2018-06-01,Phosphorus,0.42,0.42,1
+baton_rouge,2018-06-01,Sulfate,9.4,9.4,1
+baton_rouge,2018-06-01,Total dissolved solids,110.0,110.0,1
+baton_rouge,2018-07-01,Chloride,8.3,8.3,1
+baton_rouge,2018-07-01,Phosphorus,0.15,0.15,1
+baton_rouge,2018-07-01,Sulfate,9.2,9.2,1
+baton_rouge,2018-07-01,Total dissolved solids,90.0,90.0,1
+baton_rouge,2018-08-01,Chloride,6.7,6.7,1
+baton_rouge,2018-08-01,Phosphorus,0.11,0.11,1
+baton_rouge,2018-08-01,Sulfate,4.8,4.8,1
+baton_rouge,2018-08-01,Total dissolved solids,125.0,125.0,1
+baton_rouge,2018-08-01,pH,8.0,8.0,1
+baton_rouge,2018-09-01,Chloride,7.7,7.7,1
+baton_rouge,2018-09-01,Phosphorus,0.23,0.23,1
+baton_rouge,2018-09-01,Sulfate,6.9,6.9,1
+baton_rouge,2018-09-01,Total dissolved solids,150.0,150.0,1
+baton_rouge,2018-11-01,pH,7.7,7.7,1
+baton_rouge,2019-03-01,pH,7.8,7.8,1
+baton_rouge,2019-04-01,pH,7.6,7.6,1
+baton_rouge,2019-10-01,Chloride,8.2,8.2,1
+baton_rouge,2019-10-01,Phosphorus,0.13,0.13,1
+baton_rouge,2019-10-01,Sulfate,18.0,18.0,1
+baton_rouge,2019-10-01,Total dissolved solids,88.0,88.0,1
+baton_rouge,2019-11-01,Chloride,11.0,11.0,1
+baton_rouge,2019-11-01,Phosphorus,0.13,0.13,1
+baton_rouge,2019-11-01,Sulfate,23.0,23.0,1
+baton_rouge,2019-11-01,Total dissolved solids,130.0,130.0,1
+baton_rouge,2019-11-01,pH,7.9,7.9,1
+baton_rouge,2019-12-01,Chloride,6.0,6.0,1
+baton_rouge,2019-12-01,Phosphorus,0.35,0.35,1
+baton_rouge,2019-12-01,Sulfate,7.1,7.1,1
+baton_rouge,2019-12-01,Total dissolved solids,34.0,34.0,1
+baton_rouge,2020-01-01,Chloride,8.9,8.9,1
+baton_rouge,2020-01-01,Phosphorus,0.27,0.27,1
+baton_rouge,2020-01-01,Sulfate,22.0,22.0,1
+baton_rouge,2020-01-01,Total dissolved solids,110.0,110.0,1
+baton_rouge,2020-02-01,Chloride,7.2,7.2,1
+baton_rouge,2020-02-01,Phosphorus,0.12,0.12,1
+baton_rouge,2020-02-01,Sulfate,18.0,18.0,1
+baton_rouge,2020-02-01,Total dissolved solids,160.0,160.0,1
+baton_rouge,2020-03-01,Chloride,12.0,12.0,1
+baton_rouge,2020-03-01,Phosphorus,0.11,0.11,1
+baton_rouge,2020-03-01,Sulfate,23.0,23.0,1
+baton_rouge,2020-03-01,Total dissolved solids,110.0,110.0,1
+baton_rouge,2020-04-01,Chloride,14.0,14.0,1
+baton_rouge,2020-04-01,Phosphorus,0.28,0.28,1
+baton_rouge,2020-04-01,Sulfate,15.0,15.0,1
+baton_rouge,2020-04-01,Total dissolved solids,150.0,150.0,1
+baton_rouge,2020-05-01,Chloride,5.7,5.7,1
+baton_rouge,2020-05-01,Phosphorus,0.35,0.35,1
+baton_rouge,2020-05-01,Sulfate,16.0,16.0,1
+baton_rouge,2020-05-01,Total dissolved solids,140.0,140.0,1
+baton_rouge,2020-06-01,Chloride,8.0,8.0,1
+baton_rouge,2020-06-01,Phosphorus,0.31,0.31,1
+baton_rouge,2020-06-01,Sulfate,12.0,12.0,1
+baton_rouge,2020-06-01,Total dissolved solids,150.0,150.0,1
+baton_rouge,2020-07-01,Chloride,3.6,3.6,1
+baton_rouge,2020-07-01,Phosphorus,0.21,0.21,1
+baton_rouge,2020-07-01,Sulfate,12.0,12.0,1
+baton_rouge,2020-07-01,Total dissolved solids,100.0,100.0,1
+baton_rouge,2020-08-01,Chloride,8.7,8.7,1
+baton_rouge,2020-08-01,Phosphorus,0.34,0.34,1
+baton_rouge,2020-08-01,Sulfate,16.0,16.0,1
+baton_rouge,2020-08-01,Total dissolved solids,180.0,180.0,1
+baton_rouge,2020-09-01,Chloride,7.6,7.6,1
+baton_rouge,2020-09-01,Phosphorus,0.33,0.33,1
+baton_rouge,2020-09-01,Sulfate,14.0,14.0,1
+baton_rouge,2020-09-01,Total dissolved solids,170.0,170.0,1
+baton_rouge,2020-10-01,pH,7.7,7.7,1
+columbus,2012-04-01,Chloride,81.0,81.0,1
+columbus,2012-04-01,Phosphorus,0.019,0.019,1
+columbus,2012-04-01,Sulfate,62.6,62.6,1
+columbus,2012-04-01,Total dissolved solids,627.5,627.5,2
+columbus,2012-11-01,Chloride,78.3,78.3,1
+columbus,2012-11-01,Phosphorus,0.022,0.022,1
+columbus,2012-11-01,Sulfate,60.9,60.9,1
+columbus,2012-11-01,Total dissolved solids,641.0,641.0,2
+columbus,2013-04-01,Chloride,77.2,77.2,1
+columbus,2013-04-01,Phosphorus,0.023,0.023,1
+columbus,2013-04-01,Sulfate,61.9,61.9,1
+columbus,2013-04-01,Total dissolved solids,621.0,621.0,2
+columbus,2013-10-01,Chloride,82.6,82.6,1
+columbus,2013-10-01,Sulfate,69.8,69.8,1
+columbus,2013-10-01,Total dissolved solids,660.0,660.0,2
+columbus,2014-04-01,Chloride,70.2,70.2,1
+columbus,2014-04-01,Phosphorus,0.018,0.018,1
+columbus,2014-04-01,Sulfate,63.2,63.2,1
+columbus,2014-04-01,Total dissolved solids,623.0,623.0,2
+columbus,2014-05-01,Chloride,144.0,144.0,1
+columbus,2014-05-01,Phosphorus,2.12,2.12,1
+columbus,2014-05-01,Total dissolved solids,636.0,636.0,1
+columbus,2014-10-01,Chloride,77.4,77.4,1
+columbus,2014-10-01,Sulfate,61.6,61.6,1
+columbus,2014-10-01,Total dissolved solids,640.0,640.0,2
+columbus,2015-08-01,Chloride,116.53333333333335,146.0,3
+columbus,2015-08-01,Phosphorus,0.3605,0.3605,2
+columbus,2015-08-01,Sulfate,161.46666666666667,56.2,3
+columbus,2015-08-01,Total dissolved solids,641.3333333333334,562.0,3
+columbus,2015-09-01,Chloride,51.71666666666667,52.05,12
+columbus,2015-09-01,Phosphorus,0.124,0.098,14
+columbus,2015-09-01,Sulfate,105.15714285714286,80.4,14
+columbus,2019-11-01,Chloride,115.0,115.0,2
+columbus,2019-11-01,Total dissolved solids,556.0,556.0,2
+columbus,2021-06-01,Chloride,66.7,72.4,5
+columbus,2021-06-01,Sulfate,72.7,76.9,5
+columbus,2021-06-01,Total dissolved solids,417.2,454.0,5
+columbus,2021-07-01,Chloride,45.775,42.95,4
+columbus,2021-07-01,Sulfate,58.5,58.050000000000004,4
+columbus,2021-07-01,Total dissolved solids,342.0,334.0,4
+columbus,2021-08-01,Chloride,58.42222222222222,61.9,9
+columbus,2021-08-01,Sulfate,73.72222222222223,75.1,9
+columbus,2021-08-01,Total dissolved solids,393.1111111111111,400.0,9
+columbus,2021-09-01,Chloride,56.0,55.05,4
+columbus,2021-09-01,Sulfate,83.15,83.55,4
+columbus,2021-09-01,Total dissolved solids,383.0,382.0,4
+des_moines,2011-01-01,Chloride,23.5,23.5,2
+des_moines,2011-01-01,Sulfate,50.0,50.0,2
+des_moines,2011-01-01,Total dissolved solids,495.0,495.0,2
+des_moines,2011-02-01,Chloride,64.0,65.0,4
+des_moines,2011-02-01,Sulfate,57.0,57.0,2
+des_moines,2011-02-01,Total dissolved solids,480.0,480.0,2
+des_moines,2011-03-01,Chloride,92.0,100.0,11
+des_moines,2011-03-01,Sulfate,24.5,24.5,2
+des_moines,2011-03-01,Total dissolved solids,355.0,355.0,2
+des_moines,2011-04-01,Chloride,51.166666666666664,30.0,6
+des_moines,2011-04-01,Sulfate,43.0,43.0,2
+des_moines,2011-04-01,Total dissolved solids,345.0,345.0,2
+des_moines,2011-05-01,Chloride,61.32142857142857,62.0,28
+des_moines,2011-05-01,Sulfate,32.5,32.5,2
+des_moines,2011-05-01,Total dissolved solids,385.0,385.0,2
+des_moines,2011-06-01,Chloride,66.75,54.0,12
+des_moines,2011-06-01,Sulfate,31.0,31.0,2
+des_moines,2011-06-01,Total dissolved solids,405.0,405.0,2
+des_moines,2011-07-01,Chloride,21.0,12.0,3
+des_moines,2011-07-01,Sulfate,22.0,22.0,2
+des_moines,2011-07-01,Total dissolved solids,405.0,405.0,2
+des_moines,2011-08-01,Chloride,83.81818181818181,100.0,11
+des_moines,2011-08-01,Sulfate,44.5,44.5,2
+des_moines,2011-08-01,Total dissolved solids,360.0,360.0,2
+des_moines,2011-09-01,Chloride,27.0,27.0,4
+des_moines,2011-09-01,Sulfate,54.5,54.5,2
+des_moines,2011-09-01,Total dissolved solids,380.0,380.0,2
+des_moines,2011-10-01,Chloride,66.4375,66.0,32
+des_moines,2011-10-01,Sulfate,65.0,65.0,2
+des_moines,2011-10-01,Total dissolved solids,415.0,415.0,2
+des_moines,2011-11-01,Chloride,73.25,60.5,4
+des_moines,2011-11-01,Sulfate,68.5,68.5,2
+des_moines,2011-11-01,Total dissolved solids,415.0,415.0,2
+des_moines,2011-12-01,Chloride,73.83333333333333,87.5,6
+des_moines,2011-12-01,Sulfate,65.5,65.5,2
+des_moines,2011-12-01,Total dissolved solids,415.0,415.0,2
+des_moines,2012-01-01,Chloride,34.0,34.0,2
+des_moines,2012-01-01,Sulfate,63.0,63.0,2
+des_moines,2012-01-01,Total dissolved solids,410.0,410.0,2
+des_moines,2012-02-01,Chloride,38.0,38.0,2
+des_moines,2012-02-01,Sulfate,65.5,65.5,2
+des_moines,2012-02-01,Total dissolved solids,420.0,420.0,2
+des_moines,2012-03-01,Chloride,34.5,34.5,2
+des_moines,2012-03-01,Sulfate,58.5,58.5,2
+des_moines,2012-03-01,Total dissolved solids,435.0,435.0,2
+des_moines,2012-04-01,Chloride,28.5,28.5,2
+des_moines,2012-04-01,Sulfate,46.0,46.0,2
+des_moines,2012-04-01,Total dissolved solids,355.0,355.0,2
+des_moines,2012-05-01,Chloride,25.5,25.5,2
+des_moines,2012-05-01,Sulfate,39.5,39.5,2
+des_moines,2012-05-01,Total dissolved solids,385.0,385.0,2
+des_moines,2012-06-01,Chloride,23.5,23.5,2
+des_moines,2012-06-01,Sulfate,47.5,47.5,2
+des_moines,2012-06-01,Total dissolved solids,400.0,400.0,2
+des_moines,2012-07-01,Chloride,22.5,22.5,2
+des_moines,2012-07-01,Sulfate,49.5,49.5,2
+des_moines,2012-07-01,Total dissolved solids,370.0,370.0,2
+des_moines,2012-08-01,Chloride,40.0,40.0,2
+des_moines,2012-08-01,Sulfate,66.5,66.5,2
+des_moines,2012-08-01,Total dissolved solids,420.0,420.0,2
+des_moines,2012-09-01,Chloride,65.0,65.0,2
+des_moines,2012-09-01,Sulfate,80.5,80.5,2
+des_moines,2012-09-01,Total dissolved solids,450.0,450.0,2
+des_moines,2012-10-01,Chloride,51.0,51.0,2
+des_moines,2012-10-01,Sulfate,80.5,80.5,2
+des_moines,2012-10-01,Total dissolved solids,425.0,425.0,2
+des_moines,2012-11-01,Chloride,65.0,65.0,2
+des_moines,2012-11-01,Sulfate,83.0,83.0,2
+des_moines,2012-11-01,Total dissolved solids,470.0,470.0,2
+des_moines,2012-12-01,Chloride,63.5,63.5,2
+des_moines,2012-12-01,Sulfate,87.5,87.5,2
+des_moines,2012-12-01,Total dissolved solids,480.0,480.0,2
+des_moines,2013-01-01,Chloride,78.5,78.5,2
+des_moines,2013-01-01,Sulfate,86.5,86.5,2
+des_moines,2013-01-01,Total dissolved solids,540.0,540.0,2
+des_moines,2013-02-01,Chloride,83.5,83.5,2
+des_moines,2013-02-01,Sulfate,87.0,87.0,2
+des_moines,2013-02-01,Total dissolved solids,535.0,535.0,2
+des_moines,2013-03-01,Chloride,26.0,26.0,2
+des_moines,2013-03-01,Sulfate,39.5,39.5,2
+des_moines,2013-03-01,Total dissolved solids,285.0,285.0,2
+des_moines,2013-04-01,Chloride,29.5,29.5,2
+des_moines,2013-04-01,Sulfate,49.0,49.0,2
+des_moines,2013-04-01,Total dissolved solids,320.0,320.0,2
+des_moines,2013-05-01,Chloride,31.0,31.0,2
+des_moines,2013-05-01,Sulfate,42.5,42.5,2
+des_moines,2013-05-01,Total dissolved solids,435.0,435.0,2
+des_moines,2013-06-01,Chloride,20.5,20.5,2
+des_moines,2013-06-01,Sulfate,25.5,25.5,2
+des_moines,2013-06-01,Total dissolved solids,370.0,370.0,2
+des_moines,2013-07-01,Chloride,25.5,25.5,2
+des_moines,2013-07-01,Sulfate,35.5,35.5,2
+des_moines,2013-07-01,Total dissolved solids,435.0,435.0,2
+des_moines,2013-08-01,Chloride,37.0,37.0,2
+des_moines,2013-08-01,Sulfate,71.0,71.0,2
+des_moines,2013-08-01,Total dissolved solids,385.0,385.0,2
+des_moines,2013-09-01,Chloride,106.0,106.0,2
+des_moines,2013-09-01,Sulfate,116.0,116.0,2
+des_moines,2013-09-01,Total dissolved solids,610.0,610.0,2
+des_moines,2013-10-01,Chloride,62.5,62.5,2
+des_moines,2013-10-01,Sulfate,96.5,96.5,2
+des_moines,2013-10-01,Total dissolved solids,475.0,475.0,2
+des_moines,2013-11-01,Chloride,59.0,59.0,2
+des_moines,2013-11-01,Sulfate,91.5,91.5,2
+des_moines,2013-11-01,Total dissolved solids,465.0,465.0,2
+des_moines,2013-12-01,Chloride,72.5,72.5,2
+des_moines,2013-12-01,Sulfate,97.5,97.5,2
+des_moines,2013-12-01,Total dissolved solids,500.0,500.0,2
+des_moines,2014-01-01,Chloride,99.0,99.0,2
+des_moines,2014-01-01,Sulfate,120.0,120.0,2
+des_moines,2014-01-01,Total dissolved solids,655.0,655.0,2
+des_moines,2014-02-01,Chloride,112.0,112.0,2
+des_moines,2014-02-01,Sulfate,125.0,125.0,2
+des_moines,2014-02-01,Total dissolved solids,680.0,680.0,2
+des_moines,2014-03-01,Chloride,116.5,116.5,2
+des_moines,2014-03-01,Sulfate,103.0,103.0,2
+des_moines,2014-03-01,Total dissolved solids,655.0,655.0,2
+des_moines,2014-04-01,Chloride,37.0,37.0,2
+des_moines,2014-04-01,Sulfate,48.5,48.5,2
+des_moines,2014-04-01,Total dissolved solids,310.0,310.0,2
+des_moines,2014-05-01,Chloride,42.5,42.5,2
+des_moines,2014-05-01,Sulfate,57.5,57.5,2
+des_moines,2014-05-01,Total dissolved solids,365.0,365.0,2
+des_moines,2014-06-01,Chloride,34.5,34.5,2
+des_moines,2014-06-01,Sulfate,52.0,52.0,2
+des_moines,2014-06-01,Total dissolved solids,360.0,360.0,2
+des_moines,2014-07-01,Chloride,12.0,12.0,2
+des_moines,2014-07-01,Sulfate,17.45,17.45,2
+des_moines,2014-07-01,Total dissolved solids,275.0,275.0,2
+des_moines,2014-08-01,Chloride,30.0,30.0,2
+des_moines,2014-08-01,Sulfate,55.5,55.5,2
+des_moines,2014-08-01,Total dissolved solids,405.0,405.0,2
+des_moines,2014-09-01,Chloride,22.0,22.0,2
+des_moines,2014-09-01,Sulfate,42.5,42.5,2
+des_moines,2014-09-01,Total dissolved solids,385.0,385.0,2
+des_moines,2014-10-01,Total dissolved solids,490.0,490.0,1
+des_moines,2014-11-01,Chloride,43.0,43.0,1
+des_moines,2014-11-01,Total dissolved solids,520.0,520.0,1
+des_moines,2014-12-01,Total dissolved solids,530.0,530.0,1
+des_moines,2015-01-01,Total dissolved solids,560.0,560.0,1
+des_moines,2015-02-01,Chloride,31.0,31.0,1
+des_moines,2015-02-01,Sulfate,32.0,32.0,1
+des_moines,2015-02-01,Total dissolved solids,540.0,540.0,1
+des_moines,2015-03-01,Chloride,40.0,40.0,1
+des_moines,2015-03-01,Sulfate,46.0,46.0,1
+des_moines,2015-03-01,Total dissolved solids,530.0,530.0,1
+des_moines,2015-04-01,Chloride,30.0,30.0,1
+des_moines,2015-04-01,Sulfate,33.0,33.0,1
+des_moines,2015-04-01,Total dissolved solids,410.0,410.0,1
+des_moines,2015-05-01,Chloride,26.0,26.0,1
+des_moines,2015-05-01,Sulfate,23.0,23.0,1
+des_moines,2015-05-01,Total dissolved solids,450.0,450.0,1
+des_moines,2015-06-01,Chloride,23.0,23.0,1
+des_moines,2015-06-01,Sulfate,20.0,20.0,1
+des_moines,2015-06-01,Total dissolved solids,490.0,490.0,1
+des_moines,2015-07-01,Chloride,19.0,19.0,1
+des_moines,2015-07-01,Sulfate,18.0,18.0,1
+des_moines,2015-07-01,Total dissolved solids,500.0,500.0,1
+des_moines,2015-08-01,Chloride,20.0,20.0,1
+des_moines,2015-08-01,Sulfate,22.0,22.0,1
+des_moines,2015-08-01,Total dissolved solids,480.0,480.0,1
+des_moines,2015-09-01,Chloride,12.0,12.0,1
+des_moines,2015-09-01,Sulfate,13.0,13.0,1
+des_moines,2015-09-01,Total dissolved solids,360.0,360.0,1
+des_moines,2015-10-01,Chloride,20.0,20.0,1
+des_moines,2015-10-01,Sulfate,21.0,21.0,1
+des_moines,2015-10-01,Total dissolved solids,490.0,490.0,1
+des_moines,2015-11-01,Chloride,28.0,28.0,1
+des_moines,2015-11-01,Sulfate,30.0,30.0,1
+des_moines,2015-11-01,Total dissolved solids,470.0,470.0,1
+des_moines,2015-12-01,Chloride,20.0,20.0,1
+des_moines,2015-12-01,Sulfate,22.0,22.0,1
+des_moines,2015-12-01,Total dissolved solids,490.0,490.0,1
+des_moines,2016-01-01,Chloride,20.0,20.0,1
+des_moines,2016-01-01,Sulfate,20.0,20.0,1
+des_moines,2016-01-01,Total dissolved solids,460.0,460.0,1
+des_moines,2016-02-01,Chloride,25.0,25.0,1
+des_moines,2016-02-01,Sulfate,28.0,28.0,1
+des_moines,2016-02-01,Total dissolved solids,460.0,460.0,1
+des_moines,2016-03-01,Chloride,20.0,20.0,1
+des_moines,2016-03-01,Sulfate,24.0,24.0,1
+des_moines,2016-03-01,Total dissolved solids,460.0,460.0,1
+des_moines,2016-04-01,Chloride,21.0,21.0,1
+des_moines,2016-04-01,Sulfate,21.0,21.0,1
+des_moines,2016-04-01,Total dissolved solids,400.0,400.0,1
+des_moines,2016-05-01,Chloride,21.0,21.0,1
+des_moines,2016-05-01,Sulfate,18.0,18.0,1
+des_moines,2016-05-01,Total dissolved solids,460.0,460.0,1
+des_moines,2016-06-01,Chloride,22.0,22.0,1
+des_moines,2016-06-01,Sulfate,18.0,18.0,1
+des_moines,2016-06-01,Total dissolved solids,500.0,500.0,1
+des_moines,2016-07-01,Chloride,32.0,32.0,2
+des_moines,2016-07-01,Sulfate,38.0,38.0,1
+des_moines,2016-07-01,Total dissolved solids,360.0,360.0,1
+des_moines,2016-08-01,Chloride,22.0,22.0,1
+des_moines,2016-08-01,Sulfate,28.0,28.0,1
+des_moines,2016-08-01,Total dissolved solids,440.0,440.0,1
+des_moines,2016-09-01,Chloride,37.0,37.0,1
+des_moines,2016-09-01,Sulfate,54.0,54.0,1
+des_moines,2016-09-01,Total dissolved solids,440.0,440.0,1
+des_moines,2016-10-01,Chloride,19.0,19.0,1
+des_moines,2016-10-01,Sulfate,23.0,23.0,1
+des_moines,2016-10-01,Total dissolved solids,480.0,480.0,1
+des_moines,2016-11-01,Chloride,26.0,26.0,1
+des_moines,2016-11-01,Sulfate,30.0,30.0,1
+des_moines,2016-11-01,Total dissolved solids,460.0,460.0,1
+des_moines,2016-12-01,Chloride,23.0,23.0,1
+des_moines,2016-12-01,Sulfate,25.0,25.0,1
+des_moines,2016-12-01,Total dissolved solids,490.0,490.0,1
+des_moines,2017-01-01,Chloride,24.0,24.0,1
+des_moines,2017-01-01,Sulfate,9.9,9.9,1
+des_moines,2017-01-01,Total dissolved solids,270.0,270.0,1
+des_moines,2017-02-01,Chloride,21.0,21.0,1
+des_moines,2017-02-01,Sulfate,28.0,28.0,1
+des_moines,2017-02-01,Total dissolved solids,490.0,490.0,1
+des_moines,2017-03-01,Chloride,23.0,23.0,1
+des_moines,2017-03-01,Sulfate,21.0,21.0,1
+des_moines,2017-03-01,Total dissolved solids,470.0,470.0,1
+des_moines,2017-04-01,Chloride,21.0,21.0,1
+des_moines,2017-04-01,Sulfate,19.0,19.0,1
+des_moines,2017-04-01,Total dissolved solids,500.0,500.0,1
+des_moines,2017-05-01,Chloride,56.833333333333336,33.5,6
+des_moines,2017-05-01,Sulfate,12.0,12.0,1
+des_moines,2017-05-01,Total dissolved solids,470.0,470.0,1
+des_moines,2017-06-01,Chloride,53.111111111111114,55.0,9
+des_moines,2017-06-01,Sulfate,33.0,33.0,1
+des_moines,2017-06-01,Total dissolved solids,450.0,450.0,1
+des_moines,2017-07-01,Chloride,54.8,56.5,20
+des_moines,2017-07-01,Sulfate,33.0,33.0,1
+des_moines,2017-07-01,Total dissolved solids,470.0,470.0,1
+des_moines,2017-08-01,Chloride,60.4,62.0,15
+des_moines,2017-08-01,Sulfate,160.0,160.0,1
+des_moines,2017-08-01,Total dissolved solids,620.0,620.0,1
+des_moines,2017-09-01,Chloride,66.0,71.0,21
+des_moines,2017-09-01,Sulfate,250.0,250.0,1
+des_moines,2017-09-01,Total dissolved solids,830.0,830.0,1
+des_moines,2017-10-01,Chloride,45.666666666666664,43.0,18
+des_moines,2017-10-01,Sulfate,24.0,24.0,1
+des_moines,2017-10-01,Total dissolved solids,300.0,300.0,1
+des_moines,2017-11-01,Chloride,58.523809523809526,43.0,21
+des_moines,2017-11-01,Sulfate,56.0,56.0,1
+des_moines,2017-11-01,Total dissolved solids,460.0,460.0,1
+des_moines,2017-12-01,Chloride,70.4,84.0,15
+des_moines,2017-12-01,Sulfate,72.0,72.0,1
+des_moines,2017-12-01,Total dissolved solids,510.0,510.0,1
+des_moines,2018-01-01,Chloride,277.0,277.0,2
+des_moines,2018-01-01,Sulfate,140.0,140.0,1
+des_moines,2018-01-01,Total dissolved solids,710.0,710.0,1
+des_moines,2018-02-01,Chloride,395.75,446.5,4
+des_moines,2018-02-01,Sulfate,110.0,110.0,1
+des_moines,2018-02-01,Total dissolved solids,680.0,680.0,1
+des_moines,2018-03-01,Chloride,211.26666666666668,209.0,15
+des_moines,2018-03-01,Sulfate,34.0,34.0,1
+des_moines,2018-03-01,Total dissolved solids,420.0,420.0,1
+des_moines,2018-04-01,Chloride,138.27777777777777,130.0,18
+des_moines,2018-04-01,Sulfate,33.0,33.0,1
+des_moines,2018-04-01,Total dissolved solids,440.0,440.0,1
+des_moines,2018-05-01,Chloride,74.44444444444444,77.5,18
+des_moines,2018-05-01,Sulfate,21.0,21.0,1
+des_moines,2018-05-01,Total dissolved solids,420.0,420.0,1
+des_moines,2018-06-01,Chloride,58.85,57.0,20
+des_moines,2018-06-01,Specific conductance,438.0,438.0,1
+des_moines,2018-06-01,Sulfate,12.0,12.0,1
+des_moines,2018-06-01,Total dissolved solids,297.5,297.5,2
+des_moines,2018-07-01,Chloride,59.1764705882353,51.0,17
+des_moines,2018-07-01,Specific conductance,358.0,358.0,1
+des_moines,2018-07-01,Sulfate,19.0,19.0,1
+des_moines,2018-07-01,Total dissolved solids,331.5,331.5,2
+des_moines,2018-08-01,Chloride,57.85,53.0,20
+des_moines,2018-08-01,Sulfate,39.0,39.0,1
+des_moines,2018-08-01,Total dissolved solids,360.0,360.0,1
+des_moines,2018-09-01,Chloride,47.8,49.0,20
+des_moines,2018-09-01,Specific conductance,318.0,318.0,1
+des_moines,2018-09-01,Sulfate,19.0,19.0,1
+des_moines,2018-09-01,Total dissolved solids,313.5,313.5,2
+des_moines,2018-10-01,Chloride,66.36333333333333,64.0,48
+des_moines,2018-10-01,Sulfate,42.895,42.895,2
+des_moines,2018-10-01,Total dissolved solids,430.0,430.0,1
+des_moines,2018-11-01,Chloride,67.25,57.0,24
+des_moines,2018-11-01,Sulfate,17.0,17.0,1
+des_moines,2018-11-01,Total dissolved solids,440.0,440.0,1
+des_moines,2018-12-01,Chloride,63.77777777777778,57.0,27
+des_moines,2018-12-01,Sulfate,24.0,24.0,1
+des_moines,2018-12-01,Total dissolved solids,480.0,480.0,1
+des_moines,2019-01-01,Chloride,87.61538461538461,80.0,13
+des_moines,2019-01-01,Sulfate,20.0,20.0,1
+des_moines,2019-01-01,Total dissolved solids,470.0,470.0,1
+des_moines,2019-02-01,Chloride,154.33333333333334,188.5,6
+des_moines,2019-02-01,Sulfate,33.0,33.0,1
+des_moines,2019-02-01,Total dissolved solids,480.0,480.0,1
+des_moines,2019-03-01,Chloride,171.8125,135.0,16
+des_moines,2019-03-01,Sulfate,34.0,34.0,1
+des_moines,2019-03-01,Total dissolved solids,520.0,520.0,1
+des_moines,2019-04-01,Chloride,117.0,126.0,22
+des_moines,2019-04-01,Sulfate,23.0,23.0,1
+des_moines,2019-04-01,Total dissolved solids,430.0,430.0,1
+des_moines,2019-05-01,Chloride,60.54545454545455,55.5,44
+des_moines,2019-05-01,Sulfate,27.0,27.0,1
+des_moines,2019-05-01,Total dissolved solids,380.0,380.0,1
+des_moines,2019-06-01,Chloride,69.87096774193549,62.0,31
+des_moines,2019-06-01,Specific conductance,290.0,290.0,1
+des_moines,2019-06-01,Sulfate,19.0,19.0,1
+des_moines,2019-06-01,Total dissolved solids,319.0,319.0,2
+des_moines,2019-07-01,Chloride,60.0,49.0,30
+des_moines,2019-07-01,Sulfate,19.0,19.0,1
+des_moines,2019-07-01,Total dissolved solids,470.0,470.0,1
+des_moines,2019-08-01,Chloride,61.81818181818182,50.0,33
+des_moines,2019-08-01,Specific conductance,291.0,291.0,1
+des_moines,2019-08-01,Sulfate,38.0,38.0,1
+des_moines,2019-08-01,Total dissolved solids,285.0,285.0,2
+des_moines,2019-09-01,Chloride,61.857142857142854,61.0,28
+des_moines,2019-09-01,Specific conductance,297.0,297.0,1
+des_moines,2019-09-01,Sulfate,52.0,52.0,1
+des_moines,2019-09-01,Total dissolved solids,281.5,281.5,2
+des_moines,2019-10-01,Chloride,42.91111111111111,30.0,45
+des_moines,2019-10-01,Sulfate,23.0,23.0,1
+des_moines,2019-10-01,Total dissolved solids,470.0,470.0,1
+des_moines,2019-11-01,Chloride,78.6,68.0,30
+des_moines,2019-11-01,Sulfate,24.0,24.0,1
+des_moines,2019-11-01,Total dissolved solids,480.0,480.0,1
+des_moines,2019-12-01,Chloride,87.76,91.0,25
+des_moines,2019-12-01,Sulfate,23.0,23.0,1
+des_moines,2019-12-01,Total dissolved solids,450.0,450.0,1
+des_moines,2020-01-01,Chloride,114.13333333333334,98.0,15
+des_moines,2020-01-01,Sulfate,25.0,25.0,1
+des_moines,2020-01-01,Total dissolved solids,460.0,460.0,1
+des_moines,2020-02-01,Chloride,164.92857142857142,134.5,14
+des_moines,2020-02-01,Sulfate,26.0,26.0,1
+des_moines,2020-02-01,Total dissolved solids,490.0,490.0,1
+des_moines,2020-03-01,Chloride,131.41176470588235,139.0,17
+des_moines,2020-03-01,Sulfate,27.0,27.0,1
+des_moines,2020-03-01,Total dissolved solids,490.0,490.0,1
+des_moines,2020-04-01,Chloride,103.08333333333333,106.0,24
+des_moines,2020-04-01,Sulfate,18.0,18.0,1
+des_moines,2020-04-01,Total dissolved solids,460.0,460.0,1
+des_moines,2020-05-01,Chloride,77.96428571428571,68.5,28
+des_moines,2020-05-01,Sulfate,31.0,31.0,1
+des_moines,2020-05-01,Total dissolved solids,390.0,390.0,1
+des_moines,2020-06-01,Chloride,78.7741935483871,79.0,31
+des_moines,2020-06-01,Specific conductance,399.0,399.0,1
+des_moines,2020-06-01,Sulfate,21.0,21.0,1
+des_moines,2020-06-01,Total dissolved solids,360.0,360.0,2
+des_moines,2020-07-01,Chloride,72.41935483870968,70.0,31
+des_moines,2020-07-01,Specific conductance,383.0,383.0,1
+des_moines,2020-07-01,Sulfate,41.0,41.0,1
+des_moines,2020-07-01,Total dissolved solids,349.5,349.5,2
+des_moines,2020-08-01,Chloride,75.45714285714286,71.0,35
+des_moines,2020-08-01,Sulfate,140.0,140.0,1
+des_moines,2020-08-01,Total dissolved solids,630.0,630.0,1
+des_moines,2020-09-01,Chloride,64.25925925925925,54.5,54
+des_moines,2020-09-01,Specific conductance,486.0,486.0,1
+des_moines,2020-09-01,Sulfate,60.0,60.0,1
+des_moines,2020-09-01,Total dissolved solids,328.0,328.0,2
+des_moines,2020-10-01,Chloride,79.8,74.5,30
+des_moines,2020-10-01,Sulfate,180.0,180.0,1
+des_moines,2020-10-01,Total dissolved solids,740.0,740.0,1
+des_moines,2020-11-01,Chloride,103.6,89.5,30
+des_moines,2020-11-01,Sulfate,180.0,180.0,1
+des_moines,2020-11-01,Total dissolved solids,740.0,740.0,1
+des_moines,2020-12-01,Chloride,130.04166666666666,119.0,24
+des_moines,2020-12-01,Sulfate,120.0,120.0,1
+des_moines,2020-12-01,Total dissolved solids,610.0,610.0,1
+des_moines,2021-01-01,Chloride,211.73333333333332,157.0,15
+des_moines,2021-01-01,Sulfate,220.0,220.0,1
+des_moines,2021-01-01,Total dissolved solids,840.0,840.0,1
+des_moines,2021-02-01,Chloride,249.3846153846154,187.0,13
+des_moines,2021-02-01,Sulfate,170.0,170.0,1
+des_moines,2021-02-01,Total dissolved solids,820.0,820.0,1
+des_moines,2021-03-01,Chloride,154.70967741935485,157.0,31
+des_moines,2021-03-01,Sulfate,23.0,23.0,1
+des_moines,2021-03-01,Total dissolved solids,310.0,310.0,1
+des_moines,2021-04-01,Chloride,116.87096774193549,111.0,31
+des_moines,2021-04-01,Sulfate,50.0,50.0,1
+des_moines,2021-04-01,Total dissolved solids,370.0,370.0,1
+des_moines,2021-05-01,Chloride,94.2156862745098,88.0,51
+des_moines,2021-05-01,Sulfate,59.0,59.0,1
+des_moines,2021-05-01,Total dissolved solids,420.0,420.0,1
+des_moines,2021-06-01,Chloride,83.1470588235294,72.5,34
+des_moines,2021-06-01,Specific conductance,543.0,543.0,1
+des_moines,2021-06-01,Sulfate,42.0,42.0,1
+des_moines,2021-06-01,Total dissolved solids,416.5,416.5,2
+des_moines,2021-07-01,Chloride,95.85,88.0,20
+des_moines,2021-07-01,Specific conductance,481.0,481.0,1
+des_moines,2021-07-01,Sulfate,180.0,180.0,1
+des_moines,2021-07-01,Total dissolved solids,486.5,486.5,2
+des_moines,2021-08-01,Chloride,88.0,79.0,30
+des_moines,2021-08-01,Sulfate,80.0,80.0,1
+des_moines,2021-08-01,Total dissolved solids,470.0,470.0,1
+des_moines,2021-09-01,Chloride,73.14583333333333,67.0,48
+des_moines,2021-09-01,Specific conductance,364.0,364.0,1
+des_moines,2021-09-01,Sulfate,140.0,140.0,1
+des_moines,2021-09-01,Total dissolved solids,373.0,373.0,2
+des_moines,2021-10-01,Chloride,92.2,83.0,50
+des_moines,2021-10-01,Sulfate,480.0,480.0,1
+des_moines,2021-10-01,Total dissolved solids,1270.0,1270.0,1
+des_moines,2021-11-01,Chloride,92.44444444444444,78.0,36
+des_moines,2021-11-01,Sulfate,60.0,60.0,1
+des_moines,2021-11-01,Total dissolved solids,540.0,540.0,1
+des_moines,2021-12-01,Chloride,114.41379310344827,115.0,29
+des_moines,2021-12-01,Sulfate,48.0,48.0,1
+des_moines,2021-12-01,Total dissolved solids,500.0,500.0,1
+houston_buffalo_bayou,2013-01-01,Chloride,18.05263157894737,13.0,19
+houston_buffalo_bayou,2013-01-01,Phosphorus,0.2826315789473684,0.39,19
+houston_buffalo_bayou,2013-01-01,Specific conductance,268.42105263157896,219.0,19
+houston_buffalo_bayou,2013-01-01,Sulfate,15.473684210526315,10.0,19
+houston_buffalo_bayou,2013-02-01,Chloride,62.608695652173914,70.0,23
+houston_buffalo_bayou,2013-02-01,Phosphorus,0.696,0.845,20
+houston_buffalo_bayou,2013-02-01,Specific conductance,596.28,571.0,25
+houston_buffalo_bayou,2013-02-01,Sulfate,28.652173913043477,30.0,23
+houston_buffalo_bayou,2013-02-01,pH,7.5,7.5,1
+houston_buffalo_bayou,2013-03-01,Chloride,111.42105263157895,104.0,19
+houston_buffalo_bayou,2013-03-01,Phosphorus,0.8755555555555555,1.2149999999999999,18
+houston_buffalo_bayou,2013-03-01,Specific conductance,910.1176470588235,878.0,17
+houston_buffalo_bayou,2013-03-01,Sulfate,53.473684210526315,51.0,19
+houston_buffalo_bayou,2013-04-01,Chloride,76.65,81.0,20
+houston_buffalo_bayou,2013-04-01,Phosphorus,1.026842105263158,0.56,19
+houston_buffalo_bayou,2013-04-01,Specific conductance,590.2272727272727,709.5,22
+houston_buffalo_bayou,2013-04-01,Sulfate,33.85,37.5,20
+houston_buffalo_bayou,2013-04-01,pH,7.7,7.7,1
+houston_buffalo_bayou,2013-05-01,Chloride,45.333333333333336,53.0,3
+houston_buffalo_bayou,2013-05-01,Phosphorus,0.4185263157894737,0.352,19
+houston_buffalo_bayou,2013-05-01,Specific conductance,138.1578947368421,73.0,19
+houston_buffalo_bayou,2013-05-01,Sulfate,26.333333333333332,31.0,3
+houston_buffalo_bayou,2013-06-01,Chloride,49.10526315789474,32.0,19
+houston_buffalo_bayou,2013-06-01,Phosphorus,0.4889473684210527,0.42,19
+houston_buffalo_bayou,2013-06-01,Specific conductance,444.57894736842104,388.0,19
+houston_buffalo_bayou,2013-06-01,Sulfate,23.210526315789473,21.0,19
+houston_buffalo_bayou,2013-06-01,pH,7.5,7.5,1
+houston_buffalo_bayou,2013-07-01,Chloride,51.388888888888886,46.5,18
+houston_buffalo_bayou,2013-07-01,Phosphorus,0.4677777777777778,0.25,18
+houston_buffalo_bayou,2013-07-01,Specific conductance,460.36842105263156,456.0,19
+houston_buffalo_bayou,2013-07-01,Sulfate,27.38888888888889,23.0,18
+houston_buffalo_bayou,2013-08-01,Chloride,108.68181818181819,103.5,22
+houston_buffalo_bayou,2013-08-01,Phosphorus,0.8813043478260869,1.18,23
+houston_buffalo_bayou,2013-08-01,Specific conductance,1129.8333333333333,783.5,24
+houston_buffalo_bayou,2013-08-01,Sulfate,38.5,40.5,22
+houston_buffalo_bayou,2013-08-01,pH,7.2,7.2,1
+houston_buffalo_bayou,2013-10-01,Chloride,51.1578947368421,50.0,19
+houston_buffalo_bayou,2013-10-01,Phosphorus,0.5442105263157895,0.64,19
+houston_buffalo_bayou,2013-10-01,Specific conductance,493.5263157894737,531.0,19
+houston_buffalo_bayou,2013-10-01,Sulfate,26.473684210526315,26.0,19
+houston_buffalo_bayou,2013-11-01,Chloride,58.68181818181818,54.0,22
+houston_buffalo_bayou,2013-11-01,Phosphorus,0.6113636363636363,0.655,22
+houston_buffalo_bayou,2013-11-01,Specific conductance,541.92,535.0,25
+houston_buffalo_bayou,2013-11-01,Sulfate,33.27272727272727,31.5,22
+houston_buffalo_bayou,2013-11-01,pH,7.6,7.6,1
+houston_buffalo_bayou,2014-01-01,Chloride,64.05,48.5,20
+houston_buffalo_bayou,2014-01-01,Phosphorus,0.607,0.72,20
+houston_buffalo_bayou,2014-01-01,Specific conductance,1976.4545454545455,492.0,22
+houston_buffalo_bayou,2014-01-01,Sulfate,30.75,24.0,20
+houston_buffalo_bayou,2014-01-01,pH,7.5,7.5,1
+houston_buffalo_bayou,2014-02-01,Chloride,58.61904761904762,65.0,21
+houston_buffalo_bayou,2014-02-01,Phosphorus,0.7975000000000001,1.0750000000000002,20
+houston_buffalo_bayou,2014-02-01,Specific conductance,525.8571428571429,538.0,21
+houston_buffalo_bayou,2014-02-01,Sulfate,29.333333333333332,26.0,21
+houston_buffalo_bayou,2014-03-01,Chloride,28.789473684210527,22.0,19
+houston_buffalo_bayou,2014-03-01,Phosphorus,0.31526315789473686,0.44,19
+houston_buffalo_bayou,2014-03-01,Specific conductance,366.5263157894737,301.0,19
+houston_buffalo_bayou,2014-03-01,Sulfate,18.94736842105263,15.0,19
+houston_buffalo_bayou,2014-03-01,pH,7.3,7.3,1
+houston_buffalo_bayou,2014-04-01,Chloride,116.0,91.0,20
+houston_buffalo_bayou,2014-04-01,Phosphorus,1.0736842105263158,1.24,19
+houston_buffalo_bayou,2014-04-01,Specific conductance,1740.0454545454545,830.0,22
+houston_buffalo_bayou,2014-04-01,Sulfate,47.4,44.0,20
+houston_buffalo_bayou,2014-05-01,Chloride,118.5,118.5,2
+houston_buffalo_bayou,2014-05-01,Specific conductance,906.5,906.5,2
+houston_buffalo_bayou,2014-05-01,Sulfate,46.0,46.0,2
+houston_buffalo_bayou,2014-05-01,pH,7.5,7.5,1
+houston_buffalo_bayou,2014-06-01,Chloride,29.31578947368421,23.0,19
+houston_buffalo_bayou,2014-06-01,Phosphorus,0.18473684210526314,0.18,19
+houston_buffalo_bayou,2014-06-01,Specific conductance,401.4736842105263,461.0,19
+houston_buffalo_bayou,2014-06-01,Sulfate,34.09090909090909,34.0,11
+houston_buffalo_bayou,2014-06-01,pH,7.8,7.800000000000001,6
+houston_buffalo_bayou,2014-07-01,Chloride,34.3,30.5,20
+houston_buffalo_bayou,2014-07-01,Phosphorus,0.3725,0.5,20
+houston_buffalo_bayou,2014-07-01,Specific conductance,386.72727272727275,371.0,22
+houston_buffalo_bayou,2014-07-01,Sulfate,19.95,15.0,20
+houston_buffalo_bayou,2014-07-01,pH,7.2,7.2,1
+houston_buffalo_bayou,2014-08-01,Chloride,44.666666666666664,39.5,18
+houston_buffalo_bayou,2014-08-01,Phosphorus,0.5868421052631579,0.6,19
+houston_buffalo_bayou,2014-08-01,Specific conductance,439.9047619047619,431.0,21
+houston_buffalo_bayou,2014-08-01,Sulfate,19.88888888888889,20.5,18
+houston_buffalo_bayou,2014-09-01,pH,7.7,7.7,1
+houston_buffalo_bayou,2014-10-01,Chloride,89.35,83.5,20
+houston_buffalo_bayou,2014-10-01,Phosphorus,0.9215,1.23,20
+houston_buffalo_bayou,2014-10-01,Specific conductance,709.8181818181819,658.5,22
+houston_buffalo_bayou,2014-10-01,Sulfate,36.2,34.0,20
+houston_buffalo_bayou,2014-11-01,Chloride,60.61904761904762,55.0,21
+houston_buffalo_bayou,2014-11-01,Phosphorus,1.0663157894736843,0.63,19
+houston_buffalo_bayou,2014-11-01,Specific conductance,516.2272727272727,455.5,22
+houston_buffalo_bayou,2014-11-01,Sulfate,27.045454545454547,21.5,22
+houston_buffalo_bayou,2014-11-01,pH,7.7,7.7,1
+houston_buffalo_bayou,2014-12-01,pH,7.5,7.5,1
+houston_buffalo_bayou,2015-01-01,Chloride,44.05263157894737,38.0,19
+houston_buffalo_bayou,2015-01-01,Phosphorus,0.4447368421052631,0.58,19
+houston_buffalo_bayou,2015-01-01,Specific conductance,507.63157894736844,386.0,19
+houston_buffalo_bayou,2015-01-01,Sulfate,28.36842105263158,19.0,19
+houston_buffalo_bayou,2015-01-01,pH,7.5,7.5,1
+houston_buffalo_bayou,2015-02-01,Chloride,104.91304347826087,95.0,23
+houston_buffalo_bayou,2015-02-01,Phosphorus,1.2617391304347827,1.55,23
+houston_buffalo_bayou,2015-02-01,Specific conductance,1085.32,782.0,25
+houston_buffalo_bayou,2015-02-01,Sulfate,45.43478260869565,41.0,23
+houston_buffalo_bayou,2015-03-01,Chloride,56.8421052631579,42.0,19
+houston_buffalo_bayou,2015-03-01,Phosphorus,0.5405,0.405,20
+houston_buffalo_bayou,2015-03-01,Specific conductance,570.2,655.0,20
+houston_buffalo_bayou,2015-03-01,Sulfate,29.473684210526315,34.0,19
+houston_buffalo_bayou,2015-03-01,pH,7.4,7.4,1
+houston_buffalo_bayou,2015-04-01,Chloride,50.73684210526316,29.0,19
+houston_buffalo_bayou,2015-04-01,Phosphorus,0.7257142857142858,0.52,21
+houston_buffalo_bayou,2015-04-01,Specific conductance,492.3809523809524,395.0,21
+houston_buffalo_bayou,2015-04-01,Sulfate,28.57894736842105,24.0,19
+houston_buffalo_bayou,2015-04-01,pH,7.5,7.5,1
+houston_buffalo_bayou,2015-05-01,Chloride,18.0,16.0,3
+houston_buffalo_bayou,2015-05-01,Phosphorus,0.3675,0.37,4
+houston_buffalo_bayou,2015-05-01,Specific conductance,191.0,214.0,4
+houston_buffalo_bayou,2015-05-01,Sulfate,12.333333333333334,12.0,3
+houston_buffalo_bayou,2015-05-01,pH,7.75,7.75,2
+houston_buffalo_bayou,2015-06-01,Chloride,35.3,14.5,20
+houston_buffalo_bayou,2015-06-01,Phosphorus,0.3155,0.355,20
+houston_buffalo_bayou,2015-06-01,Specific conductance,424.54545454545456,177.0,22
+houston_buffalo_bayou,2015-06-01,Sulfate,38.833333333333336,44.0,12
+houston_buffalo_bayou,2015-07-01,Chloride,59.73684210526316,59.0,19
+houston_buffalo_bayou,2015-07-01,Phosphorus,0.5911111111111111,0.265,18
+houston_buffalo_bayou,2015-07-01,Specific conductance,600.8421052631579,691.0,19
+houston_buffalo_bayou,2015-07-01,Sulfate,34.88235294117647,36.0,17
+houston_buffalo_bayou,2015-07-01,pH,7.922222222222222,7.8,9
+houston_buffalo_bayou,2015-08-01,Chloride,59.65909090909091,62.0,22
+houston_buffalo_bayou,2015-08-01,Phosphorus,0.7713636363636364,0.825,22
+houston_buffalo_bayou,2015-08-01,Specific conductance,509.8181818181818,483.0,22
+houston_buffalo_bayou,2015-08-01,Sulfate,26.718181818181815,23.0,22
+houston_buffalo_bayou,2015-10-01,Chloride,71.21052631578948,48.0,19
+houston_buffalo_bayou,2015-10-01,Phosphorus,0.6285000000000001,0.375,20
+houston_buffalo_bayou,2015-10-01,Specific conductance,607.9,594.5,20
+houston_buffalo_bayou,2015-10-01,Sulfate,39.86666666666667,37.0,15
+houston_buffalo_bayou,2015-10-01,pH,7.8,7.8,2
+houston_buffalo_bayou,2015-11-01,Chloride,28.736363636363638,16.0,22
+houston_buffalo_bayou,2015-11-01,Phosphorus,0.2887826086956522,0.23,23
+houston_buffalo_bayou,2015-11-01,Specific conductance,376.30434782608694,304.0,23
+houston_buffalo_bayou,2015-11-01,Sulfate,22.66722222222222,20.200000000000003,18
+houston_buffalo_bayou,2015-12-01,pH,7.5,7.5,1
+houston_buffalo_bayou,2016-01-01,Chloride,48.388888888888886,61.0,18
+houston_buffalo_bayou,2016-01-01,Phosphorus,0.5026315789473684,0.38,19
+houston_buffalo_bayou,2016-01-01,Specific conductance,508.8421052631579,622.0,19
+houston_buffalo_bayou,2016-01-01,Sulfate,25.68421052631579,27.0,19
+houston_buffalo_bayou,2016-02-01,Chloride,66.77272727272727,73.0,22
+houston_buffalo_bayou,2016-02-01,Phosphorus,0.868,0.66,20
+houston_buffalo_bayou,2016-02-01,Specific conductance,642.2272727272727,753.0,22
+houston_buffalo_bayou,2016-02-01,Sulfate,34.36363636363637,35.5,22
+houston_buffalo_bayou,2016-02-01,pH,7.5,7.5,1
+houston_buffalo_bayou,2016-03-01,Chloride,35.31578947368421,14.0,19
+houston_buffalo_bayou,2016-03-01,Phosphorus,0.2931578947368421,0.3,19
+houston_buffalo_bayou,2016-03-01,Specific conductance,571.2173913043479,575.0,23
+houston_buffalo_bayou,2016-03-01,Sulfate,26.266666666666666,32.0,15
+houston_buffalo_bayou,2016-03-01,pH,7.5,7.5,1
+houston_buffalo_bayou,2016-04-01,Chloride,44.61538461538461,44.0,13
+houston_buffalo_bayou,2016-04-01,Phosphorus,0.6315384615384615,0.67,13
+houston_buffalo_bayou,2016-04-01,Specific conductance,470.3076923076923,395.0,13
+houston_buffalo_bayou,2016-04-01,Sulfate,25.153846153846153,19.0,13
+houston_buffalo_bayou,2016-04-01,pH,8.4,8.4,1
+houston_buffalo_bayou,2016-05-01,Chloride,39.5,47.5,6
+houston_buffalo_bayou,2016-05-01,Phosphorus,0.1974,0.125,10
+houston_buffalo_bayou,2016-05-01,Specific conductance,286.46153846153845,176.0,13
+houston_buffalo_bayou,2016-05-01,Sulfate,26.0,31.0,5
+houston_buffalo_bayou,2016-05-01,pH,8.1,8.1,1
+houston_buffalo_bayou,2016-06-01,Chloride,23.68421052631579,11.0,19
+houston_buffalo_bayou,2016-06-01,Phosphorus,0.209,0.21,20
+houston_buffalo_bayou,2016-06-01,Specific conductance,341.85,223.5,20
+houston_buffalo_bayou,2016-06-01,Sulfate,26.5,23.0,10
+houston_buffalo_bayou,2016-06-01,pH,7.5,7.5,2
+houston_buffalo_bayou,2016-07-01,Chloride,65.94736842105263,54.0,19
+houston_buffalo_bayou,2016-07-01,Phosphorus,0.41105263157894734,0.26,19
+houston_buffalo_bayou,2016-07-01,Specific conductance,622.2105263157895,695.0,19
+houston_buffalo_bayou,2016-07-01,Sulfate,31.263157894736842,37.0,19
+houston_buffalo_bayou,2016-08-01,Chloride,59.08695652173913,36.0,23
+houston_buffalo_bayou,2016-08-01,Phosphorus,0.41391304347826086,0.35,23
+houston_buffalo_bayou,2016-08-01,Specific conductance,1203.0384615384614,606.0,26
+houston_buffalo_bayou,2016-08-01,Sulfate,26.90909090909091,25.5,22
+houston_buffalo_bayou,2016-09-01,pH,7.7,7.7,1
+houston_buffalo_bayou,2016-10-01,Chloride,91.42105263157895,103.0,19
+houston_buffalo_bayou,2016-10-01,Phosphorus,0.9736842105263158,0.93,19
+houston_buffalo_bayou,2016-10-01,Specific conductance,774.8947368421053,818.0,19
+houston_buffalo_bayou,2016-10-01,Sulfate,39.73684210526316,39.0,19
+houston_buffalo_bayou,2016-11-01,Chloride,52.68260869565218,32.0,23
+houston_buffalo_bayou,2016-11-01,Phosphorus,0.6354166666666666,0.58,24
+houston_buffalo_bayou,2016-11-01,Specific conductance,956.3571428571429,501.0,28
+houston_buffalo_bayou,2016-11-01,Sulfate,23.426086956521736,26.0,23
+houston_buffalo_bayou,2017-01-01,Chloride,29.331578947368417,23.0,19
+houston_buffalo_bayou,2017-01-01,Phosphorus,0.3382857142857143,0.39,21
+houston_buffalo_bayou,2017-01-01,Specific conductance,295.2608695652174,207.0,23
+houston_buffalo_bayou,2017-01-01,Sulfate,15.7995,9.0,20
+houston_buffalo_bayou,2017-01-01,pH,7.8999999999999995,7.8999999999999995,2
+houston_buffalo_bayou,2017-02-01,Chloride,64.95454545454545,63.0,22
+houston_buffalo_bayou,2017-02-01,Phosphorus,0.6645454545454546,0.61,22
+houston_buffalo_bayou,2017-02-01,Specific conductance,639.7272727272727,614.0,22
+houston_buffalo_bayou,2017-02-01,Sulfate,37.88636363636363,39.5,22
+houston_buffalo_bayou,2017-02-01,pH,7.6,7.6,1
+houston_buffalo_bayou,2017-03-01,Chloride,64.73684210526316,67.0,19
+houston_buffalo_bayou,2017-03-01,Phosphorus,0.6668421052631579,0.73,19
+houston_buffalo_bayou,2017-03-01,Specific conductance,637.421052631579,636.0,19
+houston_buffalo_bayou,2017-03-01,Sulfate,34.78947368421053,32.0,19
+houston_buffalo_bayou,2017-03-01,pH,7.7,7.7,1
+houston_buffalo_bayou,2017-04-01,Chloride,76.17999999999999,72.5,20
+houston_buffalo_bayou,2017-04-01,Phosphorus,0.76885,0.7885,20
+houston_buffalo_bayou,2017-04-01,Specific conductance,647.2608695652174,613.0,23
+houston_buffalo_bayou,2017-04-01,Sulfate,36.25,37.0,20
+houston_buffalo_bayou,2017-05-01,Chloride,96.86666666666667,99.7,3
+houston_buffalo_bayou,2017-05-01,Phosphorus,1.2833333333333334,1.27,3
+houston_buffalo_bayou,2017-05-01,Specific conductance,775.3333333333334,823.0,3
+houston_buffalo_bayou,2017-05-01,Sulfate,53.9,59.5,3
+houston_buffalo_bayou,2017-06-01,Chloride,79.89473684210526,92.0,19
+houston_buffalo_bayou,2017-06-01,Phosphorus,0.5372222222222223,0.565,18
+houston_buffalo_bayou,2017-06-01,Specific conductance,727.1578947368421,802.0,19
+houston_buffalo_bayou,2017-06-01,Sulfate,40.421052631578945,41.0,19
+houston_buffalo_bayou,2017-06-01,pH,7.6,7.6,1
+houston_buffalo_bayou,2017-07-01,Chloride,43.635000000000005,33.35,20
+houston_buffalo_bayou,2017-07-01,Phosphorus,0.51115,0.6000000000000001,20
+houston_buffalo_bayou,2017-07-01,Specific conductance,432.17391304347825,319.0,23
+houston_buffalo_bayou,2017-07-01,Sulfate,25.54,16.4,20
+houston_buffalo_bayou,2017-07-01,pH,7.8,7.8,1
+houston_buffalo_bayou,2017-08-01,Chloride,43.695454545454545,32.0,22
+houston_buffalo_bayou,2017-08-01,Phosphorus,0.48000000000000004,0.255,22
+houston_buffalo_bayou,2017-08-01,Specific conductance,560.5,277.0,22
+houston_buffalo_bayou,2017-08-01,Sulfate,24.222727272727273,17.0,22
+houston_buffalo_bayou,2017-08-01,pH,7.9,7.9,1
+houston_buffalo_bayou,2017-10-01,Chloride,56.8421052631579,58.0,19
+houston_buffalo_bayou,2017-10-01,Phosphorus,0.431578947368421,0.23,19
+houston_buffalo_bayou,2017-10-01,Specific conductance,533.421052631579,624.0,19
+houston_buffalo_bayou,2017-10-01,Sulfate,27.57894736842105,34.0,19
+houston_buffalo_bayou,2017-11-01,Chloride,111.1875,98.75,24
+houston_buffalo_bayou,2017-11-01,Phosphorus,0.9674999999999999,1.125,24
+houston_buffalo_bayou,2017-11-01,Specific conductance,1872.1666666666667,765.0,30
+houston_buffalo_bayou,2017-11-01,Sulfate,40.92916666666667,36.5,24
+houston_buffalo_bayou,2017-11-01,pH,7.4,7.4,1
+houston_buffalo_bayou,2018-01-01,Chloride,39.388888888888886,39.5,18
+houston_buffalo_bayou,2018-01-01,Phosphorus,0.4884210526315789,0.46,19
+houston_buffalo_bayou,2018-01-01,Specific conductance,370.5263157894737,348.0,19
+houston_buffalo_bayou,2018-01-01,Sulfate,18.842105263157894,16.0,19
+houston_buffalo_bayou,2018-02-01,Chloride,39.755,28.5,20
+houston_buffalo_bayou,2018-02-01,Phosphorus,0.4805,0.325,20
+houston_buffalo_bayou,2018-02-01,Specific conductance,1008.1363636363636,414.5,22
+houston_buffalo_bayou,2018-02-01,Sulfate,22.625,24.75,20
+houston_buffalo_bayou,2018-02-01,pH,6.7,6.7,1
+houston_buffalo_bayou,2018-03-01,Chloride,57.11,59.85,20
+houston_buffalo_bayou,2018-03-01,Phosphorus,0.5165217391304348,0.47,23
+houston_buffalo_bayou,2018-03-01,Specific conductance,484.3333333333333,599.0,24
+houston_buffalo_bayou,2018-03-01,Sulfate,25.51304347826087,30.0,23
+houston_buffalo_bayou,2018-04-01,Chloride,48.473684210526315,42.0,19
+houston_buffalo_bayou,2018-04-01,Phosphorus,0.45736842105263154,0.57,19
+houston_buffalo_bayou,2018-04-01,Specific conductance,518.3157894736842,556.0,19
+houston_buffalo_bayou,2018-04-01,Sulfate,26.57894736842105,25.0,19
+houston_buffalo_bayou,2018-04-01,pH,7.7,7.7,1
+houston_buffalo_bayou,2018-06-01,Chloride,58.73913043478261,53.0,23
+houston_buffalo_bayou,2018-06-01,Phosphorus,0.5829166666666666,0.28500000000000003,24
+houston_buffalo_bayou,2018-06-01,Specific conductance,512.1612903225806,576.0,31
+houston_buffalo_bayou,2018-06-01,Sulfate,25.833333333333332,29.5,24
+houston_buffalo_bayou,2018-06-01,pH,7.7,7.7,1
+houston_buffalo_bayou,2018-07-01,Chloride,36.73684210526316,39.0,19
+houston_buffalo_bayou,2018-07-01,Phosphorus,0.3168421052631579,0.36,19
+houston_buffalo_bayou,2018-07-01,Specific conductance,415.2631578947368,493.0,19
+houston_buffalo_bayou,2018-07-01,Sulfate,19.05263157894737,21.0,19
+houston_buffalo_bayou,2018-07-01,pH,7.7,7.7,1
+houston_buffalo_bayou,2018-08-01,Chloride,73.43478260869566,89.0,23
+houston_buffalo_bayou,2018-08-01,Phosphorus,0.802608695652174,0.8,23
+houston_buffalo_bayou,2018-08-01,Specific conductance,630.8461538461538,684.0,26
+houston_buffalo_bayou,2018-08-01,Sulfate,31.17391304347826,32.0,23
+houston_buffalo_bayou,2018-08-01,pH,7.7,7.7,1
+houston_buffalo_bayou,2018-09-01,pH,7.4,7.4,1
+houston_buffalo_bayou,2018-10-01,Chloride,37.526315789473685,32.0,19
+houston_buffalo_bayou,2018-10-01,Phosphorus,0.5368421052631579,0.47,19
+houston_buffalo_bayou,2018-10-01,Specific conductance,406.57894736842104,449.0,19
+houston_buffalo_bayou,2018-10-01,Sulfate,20.736842105263158,22.0,19
+houston_buffalo_bayou,2018-11-01,Chloride,42.30434782608695,42.0,23
+houston_buffalo_bayou,2018-11-01,Phosphorus,0.5230434782608696,0.44,23
+houston_buffalo_bayou,2018-11-01,Specific conductance,447.69565217391306,514.0,23
+houston_buffalo_bayou,2018-11-01,Sulfate,23.652173913043477,24.0,23
+houston_buffalo_bayou,2018-12-01,pH,7.3,7.3,1
+houston_buffalo_bayou,2019-01-01,Chloride,43.578947368421055,42.0,19
+houston_buffalo_bayou,2019-01-01,Phosphorus,0.4489473684210526,0.61,19
+houston_buffalo_bayou,2019-01-01,Specific conductance,489.0,453.0,19
+houston_buffalo_bayou,2019-01-01,Sulfate,25.57894736842105,20.0,19
+houston_buffalo_bayou,2019-02-01,Chloride,62.416666666666664,58.0,24
+houston_buffalo_bayou,2019-02-01,Phosphorus,0.7695833333333333,0.8049999999999999,24
+houston_buffalo_bayou,2019-02-01,Specific conductance,743.625,557.0,32
+houston_buffalo_bayou,2019-02-01,Sulfate,30.083333333333332,34.0,24
+houston_buffalo_bayou,2019-02-01,pH,7.8,7.8,1
+houston_buffalo_bayou,2019-03-01,Chloride,88.21052631578948,94.0,19
+houston_buffalo_bayou,2019-03-01,Phosphorus,0.8036842105263158,1.05,19
+houston_buffalo_bayou,2019-03-01,Specific conductance,811.2631578947369,766.0,19
+houston_buffalo_bayou,2019-03-01,Sulfate,46.10526315789474,40.0,19
+houston_buffalo_bayou,2019-04-01,Chloride,35.75,36.0,8
+houston_buffalo_bayou,2019-04-01,Phosphorus,0.49,0.495,8
+houston_buffalo_bayou,2019-04-01,Specific conductance,396.125,393.5,8
+houston_buffalo_bayou,2019-04-01,Sulfate,18.625,15.5,8
+houston_buffalo_bayou,2019-05-01,Chloride,86.27272727272727,96.0,11
+houston_buffalo_bayou,2019-05-01,Phosphorus,0.8754545454545455,1.34,11
+houston_buffalo_bayou,2019-05-01,Specific conductance,865.5454545454545,844.0,11
+houston_buffalo_bayou,2019-05-01,Sulfate,47.63636363636363,45.0,11
+houston_buffalo_bayou,2019-05-01,pH,7.7,7.7,1
+houston_buffalo_bayou,2019-06-01,Chloride,61.75,57.0,16
+houston_buffalo_bayou,2019-06-01,Phosphorus,0.5375,0.365,16
+houston_buffalo_bayou,2019-06-01,Specific conductance,551.3,486.0,20
+houston_buffalo_bayou,2019-06-01,Sulfate,27.5625,26.5,16
+houston_buffalo_bayou,2019-06-01,pH,7.5,7.5,1
+houston_buffalo_bayou,2019-07-01,Chloride,92.53846153846153,90.0,26
+houston_buffalo_bayou,2019-07-01,Phosphorus,0.8757692307692307,1.025,26
+houston_buffalo_bayou,2019-07-01,Specific conductance,973.6896551724138,809.0,29
+houston_buffalo_bayou,2019-07-01,Sulfate,38.73076923076923,37.5,26
+houston_buffalo_bayou,2019-08-01,Chloride,66.14285714285714,62.0,21
+houston_buffalo_bayou,2019-08-01,Phosphorus,0.7942857142857143,0.81,21
+houston_buffalo_bayou,2019-08-01,Specific conductance,539.1428571428571,534.5,28
+houston_buffalo_bayou,2019-08-01,Sulfate,28.047619047619047,29.0,21
+houston_buffalo_bayou,2019-08-01,pH,7.45,7.45,2
+houston_buffalo_bayou,2019-09-01,pH,7.95,7.95,2
+houston_buffalo_bayou,2019-10-01,Chloride,50.81818181818182,57.0,11
+houston_buffalo_bayou,2019-10-01,Phosphorus,0.6027272727272727,0.49,11
+houston_buffalo_bayou,2019-10-01,Specific conductance,469.6363636363636,532.0,11
+houston_buffalo_bayou,2019-10-01,Sulfate,23.181818181818183,24.0,11
+houston_buffalo_bayou,2019-11-01,Phosphorus,1.128,1.22,5
+houston_buffalo_bayou,2019-11-01,Specific conductance,557.6923076923077,582.0,13
+houston_buffalo_bayou,2019-11-01,Sulfate,23.0,23.0,1
+houston_buffalo_bayou,2019-11-01,pH,7.8,7.8,1
+houston_buffalo_bayou,2019-12-01,Chloride,101.57142857142857,130.0,7
+houston_buffalo_bayou,2019-12-01,Phosphorus,1.26,1.91,7
+houston_buffalo_bayou,2019-12-01,Specific conductance,790.4285714285714,880.0,7
+houston_buffalo_bayou,2019-12-01,Sulfate,38.285714285714285,43.0,7
+houston_buffalo_bayou,2020-01-01,Chloride,38.0,38.0,1
+houston_buffalo_bayou,2020-01-01,Phosphorus,0.76,0.76,1
+houston_buffalo_bayou,2020-01-01,Specific conductance,355.0,355.0,1
+houston_buffalo_bayou,2020-01-01,Sulfate,20.0,20.0,1
+houston_buffalo_bayou,2020-01-01,pH,7.6,7.6,1
+houston_buffalo_bayou,2020-03-01,Chloride,106.0,109.0,5
+houston_buffalo_bayou,2020-03-01,Phosphorus,1.552,1.68,5
+houston_buffalo_bayou,2020-03-01,Specific conductance,800.9090909090909,777.0,11
+houston_buffalo_bayou,2020-03-01,Sulfate,48.0,49.0,5
+houston_buffalo_bayou,2020-04-01,Chloride,31.285714285714285,21.0,7
+houston_buffalo_bayou,2020-04-01,Phosphorus,0.59,0.64,7
+houston_buffalo_bayou,2020-04-01,Sulfate,18.142857142857142,10.0,7
+houston_buffalo_bayou,2020-05-01,Chloride,58.916666666666664,50.0,12
+houston_buffalo_bayou,2020-05-01,Phosphorus,0.6166666666666667,0.16,12
+houston_buffalo_bayou,2020-05-01,Specific conductance,575.5833333333334,639.5,12
+houston_buffalo_bayou,2020-05-01,Sulfate,29.5,34.0,12
+houston_buffalo_bayou,2020-06-01,Chloride,42.76923076923077,58.0,13
+houston_buffalo_bayou,2020-06-01,Phosphorus,0.4507692307692308,0.25,13
+houston_buffalo_bayou,2020-06-01,Specific conductance,412.9230769230769,503.0,13
+houston_buffalo_bayou,2020-06-01,Sulfate,25.666666666666668,25.0,9
+houston_buffalo_bayou,2020-07-01,Chloride,47.36363636363637,47.0,11
+houston_buffalo_bayou,2020-07-01,Phosphorus,0.29307692307692307,0.32,13
+houston_buffalo_bayou,2020-07-01,Specific conductance,425.46153846153845,386.0,13
+houston_buffalo_bayou,2020-07-01,Sulfate,20.615384615384617,17.0,13
+houston_buffalo_bayou,2020-07-01,pH,8.4,8.4,1
+houston_buffalo_bayou,2020-08-01,pH,7.6,7.6,1
+houston_buffalo_bayou,2020-09-01,Chloride,74.05555555555556,55.5,18
+houston_buffalo_bayou,2020-09-01,Phosphorus,0.7388888888888889,0.885,18
+houston_buffalo_bayou,2020-09-01,Specific conductance,617.0526315789474,580.0,19
+houston_buffalo_bayou,2020-09-01,Sulfate,28.27777777777778,26.0,18
+houston_buffalo_bayou,2020-09-01,pH,7.45,7.45,2
+houston_buffalo_bayou,2020-11-01,Chloride,121.36842105263158,120.0,19
+houston_buffalo_bayou,2020-11-01,Phosphorus,1.308421052631579,1.47,19
+houston_buffalo_bayou,2020-11-01,Specific conductance,866.0,879.0,19
+houston_buffalo_bayou,2020-11-01,Sulfate,46.68421052631579,45.0,19
+houston_buffalo_bayou,2020-12-01,Chloride,64.25,63.0,4
+houston_buffalo_bayou,2020-12-01,Phosphorus,0.855,0.865,4
+houston_buffalo_bayou,2020-12-01,Specific conductance,421.0,312.0,7
+houston_buffalo_bayou,2020-12-01,Sulfate,32.75,32.0,4
+houston_buffalo_bayou,2020-12-01,pH,8.1,8.1,1
+houston_buffalo_bayou,2021-02-01,Chloride,59.0,59.0,2
+houston_buffalo_bayou,2021-02-01,Phosphorus,0.095,0.095,2
+houston_buffalo_bayou,2021-02-01,Specific conductance,688.0,688.0,2
+houston_buffalo_bayou,2021-02-01,Sulfate,52.5,52.5,2
+houston_buffalo_bayou,2021-03-01,Chloride,79.52380952380952,91.0,21
+houston_buffalo_bayou,2021-03-01,Phosphorus,0.9247619047619049,1.04,21
+houston_buffalo_bayou,2021-03-01,Specific conductance,657.9166666666666,673.5,24
+houston_buffalo_bayou,2021-03-01,Sulfate,36.285714285714285,37.0,21
+houston_buffalo_bayou,2021-04-01,Chloride,100.0,106.0,19
+houston_buffalo_bayou,2021-04-01,Phosphorus,1.1963157894736842,1.54,19
+houston_buffalo_bayou,2021-04-01,Specific conductance,855.4736842105264,873.0,19
+houston_buffalo_bayou,2021-04-01,Sulfate,46.63157894736842,46.0,19
+houston_buffalo_bayou,2021-05-01,Chloride,21.133333333333333,16.0,15
+houston_buffalo_bayou,2021-05-01,Phosphorus,0.29333333333333333,0.28,15
+houston_buffalo_bayou,2021-05-01,Specific conductance,326.92857142857144,304.5,14
+houston_buffalo_bayou,2021-05-01,Sulfate,14.466666666666667,14.0,15
+houston_buffalo_bayou,2021-05-01,pH,7.6,7.6,2
+houston_buffalo_bayou,2021-06-01,Chloride,17.31578947368421,16.0,19
+houston_buffalo_bayou,2021-06-01,Phosphorus,0.22789473684210526,0.26,19
+houston_buffalo_bayou,2021-06-01,Specific conductance,270.06666666666666,226.0,15
+houston_buffalo_bayou,2021-06-01,Sulfate,12.421052631578947,11.0,19
+houston_buffalo_bayou,2021-07-01,Chloride,57.94736842105263,63.0,19
+houston_buffalo_bayou,2021-07-01,Phosphorus,0.4063157894736842,0.32,19
+houston_buffalo_bayou,2021-07-01,Specific conductance,766.0833333333334,743.0,12
+houston_buffalo_bayou,2021-07-01,Sulfate,30.789473684210527,30.0,19
+houston_buffalo_bayou,2021-07-01,pH,7.6,7.6,2
+houston_buffalo_bayou,2021-08-01,Chloride,75.0,75.0,10
+houston_buffalo_bayou,2021-08-01,Phosphorus,0.773,0.84,10
+houston_buffalo_bayou,2021-08-01,Specific conductance,605.2307692307693,550.0,13
+houston_buffalo_bayou,2021-08-01,Sulfate,34.7,27.0,10
+houston_buffalo_bayou,2021-08-01,pH,7.5,7.5,1
+houston_buffalo_bayou,2021-09-01,pH,7.9,7.9,1
+houston_buffalo_bayou,2021-10-01,Chloride,71.0625,79.0,16
+houston_buffalo_bayou,2021-10-01,Phosphorus,0.6775,0.77,16
+houston_buffalo_bayou,2021-10-01,Specific conductance,541.0454545454545,579.0,22
+houston_buffalo_bayou,2021-10-01,Sulfate,28.5625,25.5,16
+houston_buffalo_bayou,2021-11-01,Chloride,63.1625,71.5,8
+houston_buffalo_bayou,2021-11-01,Phosphorus,0.802125,1.0,8
+houston_buffalo_bayou,2021-11-01,Specific conductance,738.5,544.0,12
+houston_buffalo_bayou,2021-11-01,Sulfate,31.175,31.0,8
+houston_buffalo_bayou,2022-01-01,Chloride,95.07692307692308,57.0,13
+houston_buffalo_bayou,2022-01-01,Phosphorus,0.7638461538461538,0.66,13
+houston_buffalo_bayou,2022-01-01,Specific conductance,677.4615384615385,796.0,13
+houston_buffalo_bayou,2022-01-01,Sulfate,43.53846153846154,46.0,13
+houston_buffalo_bayou,2022-01-01,pH,7.8,7.8,1
+houston_buffalo_bayou,2022-02-01,Chloride,115.0625,78.0,16
+houston_buffalo_bayou,2022-02-01,Phosphorus,0.788125,0.97,16
+houston_buffalo_bayou,2022-02-01,Specific conductance,1428.9444444444443,778.5,18
+houston_buffalo_bayou,2022-02-01,Sulfate,44.625,44.5,16
+houston_buffalo_bayou,2022-03-01,Chloride,72.78947368421052,69.0,19
+houston_buffalo_bayou,2022-03-01,Phosphorus,0.7247368421052631,0.94,19
+houston_buffalo_bayou,2022-03-01,Specific conductance,606.7894736842105,632.0,19
+houston_buffalo_bayou,2022-03-01,Sulfate,33.21052631578947,38.0,19
+houston_buffalo_bayou,2022-04-01,Chloride,109.88235294117646,121.0,17
+houston_buffalo_bayou,2022-04-01,Phosphorus,1.2835294117647058,1.53,17
+houston_buffalo_bayou,2022-04-01,Specific conductance,845.8823529411765,862.0,17
+houston_buffalo_bayou,2022-04-01,Sulfate,49.470588235294116,50.0,17
+houston_buffalo_bayou,2022-05-01,Chloride,91.8125,101.0,16
+houston_buffalo_bayou,2022-05-01,Phosphorus,0.891875,1.07,16
+houston_buffalo_bayou,2022-05-01,Specific conductance,737.8695652173913,730.0,23
+houston_buffalo_bayou,2022-05-01,Sulfate,44.5625,49.0,16
+houston_buffalo_bayou,2022-07-01,Chloride,91.78947368421052,93.0,19
+houston_buffalo_bayou,2022-07-01,Phosphorus,1.0094736842105263,1.38,19
+houston_buffalo_bayou,2022-07-01,Specific conductance,716.7272727272727,704.0,22
+houston_buffalo_bayou,2022-07-01,Sulfate,38.0,36.0,19
+houston_buffalo_bayou,2022-09-01,Chloride,104.8,115.0,5
+houston_buffalo_bayou,2022-09-01,Phosphorus,0.48600000000000004,0.16,5
+houston_buffalo_bayou,2022-09-01,Specific conductance,3782.777777777778,891.0,9
+houston_buffalo_bayou,2022-09-01,Sulfate,47.4,40.0,5
+houston_buffalo_bayou,2022-10-01,Chloride,126.8,129.0,15
+houston_buffalo_bayou,2022-10-01,Phosphorus,1.4631578947368422,1.03,19
+houston_buffalo_bayou,2022-10-01,Specific conductance,741.9615384615385,784.5,26
+houston_buffalo_bayou,2022-10-01,Sulfate,56.333333333333336,52.0,15
+houston_buffalo_bayou,2022-11-01,Chloride,32.46666666666667,30.0,15
+houston_buffalo_bayou,2022-11-01,Phosphorus,0.3233333333333333,0.43,15
+houston_buffalo_bayou,2022-11-01,Specific conductance,357.46666666666664,303.0,15
+houston_buffalo_bayou,2022-11-01,Sulfate,19.8,14.0,15
+houston_buffalo_bayou,2022-12-01,Chloride,39.25,27.5,4
+houston_buffalo_bayou,2022-12-01,Phosphorus,0.1925,0.12,4
+houston_buffalo_bayou,2022-12-01,Specific conductance,441.5,356.5,4
+houston_buffalo_bayou,2022-12-01,Sulfate,25.0,20.0,4
+houston_buffalo_bayou,2023-01-01,Chloride,29.0,17.0,4
+houston_buffalo_bayou,2023-01-01,Phosphorus,0.1825,0.14,4
+houston_buffalo_bayou,2023-01-01,Specific conductance,383.14285714285717,337.0,7
+houston_buffalo_bayou,2023-01-01,Sulfate,19.5,17.0,4
+houston_buffalo_bayou,2023-02-01,Chloride,62.8,67.0,15
+houston_buffalo_bayou,2023-02-01,Phosphorus,0.6746666666666667,0.39,15
+houston_buffalo_bayou,2023-02-01,Specific conductance,585.2666666666667,751.0,15
+houston_buffalo_bayou,2023-02-01,Sulfate,36.93333333333333,45.0,15
+houston_buffalo_bayou,2023-03-01,Chloride,89.5,90.0,4
+houston_buffalo_bayou,2023-03-01,Phosphorus,0.4175,0.07,4
+houston_buffalo_bayou,2023-03-01,Specific conductance,860.0,854.5,4
+houston_buffalo_bayou,2023-03-01,Sulfate,54.75,53.0,4
+houston_buffalo_bayou,2023-04-01,Chloride,38.21052631578947,28.0,19
+houston_buffalo_bayou,2023-04-01,Phosphorus,0.5768421052631579,0.59,19
+houston_buffalo_bayou,2023-04-01,Specific conductance,590.0909090909091,339.5,22
+houston_buffalo_bayou,2023-04-01,Sulfate,21.736842105263158,13.0,19
+houston_buffalo_bayou,2023-05-01,Chloride,80.58333333333333,84.0,12
+houston_buffalo_bayou,2023-05-01,Phosphorus,0.6366666666666667,0.215,12
+houston_buffalo_bayou,2023-05-01,Specific conductance,706.6666666666666,618.0,15
+houston_buffalo_bayou,2023-05-01,Sulfate,44.833333333333336,39.5,12
+houston_buffalo_bayou,2023-06-01,Chloride,52.857142857142854,58.0,7
+houston_buffalo_bayou,2023-06-01,Phosphorus,0.8585714285714285,0.92,7
+houston_buffalo_bayou,2023-06-01,Specific conductance,441.57142857142856,472.0,7
+houston_buffalo_bayou,2023-06-01,Sulfate,21.0,24.0,7
+houston_buffalo_bayou,2023-07-01,Chloride,121.11111111111111,128.5,18
+houston_buffalo_bayou,2023-07-01,Phosphorus,0.9149999999999999,1.15,18
+houston_buffalo_bayou,2023-07-01,Specific conductance,875.1666666666666,898.0,18
+houston_buffalo_bayou,2023-07-01,Sulfate,50.611111111111114,47.0,18
+houston_buffalo_bayou,2023-08-01,Chloride,130.75,123.0,4
+houston_buffalo_bayou,2023-08-01,Phosphorus,1.4874999999999998,1.435,4
+houston_buffalo_bayou,2023-08-01,Specific conductance,2536.125,991.5,8
+houston_buffalo_bayou,2023-08-01,Sulfate,56.0,58.0,4
+houston_buffalo_bayou,2023-10-01,Chloride,89.15,68.5,20
+houston_buffalo_bayou,2023-10-01,Phosphorus,0.882,1.2149999999999999,20
+houston_buffalo_bayou,2023-10-01,Specific conductance,931.8846153846154,598.5,26
+houston_buffalo_bayou,2023-10-01,Sulfate,41.45,42.0,20
+houston_buffalo_bayou,2023-11-01,Chloride,154.25,123.5,4
+houston_buffalo_bayou,2023-11-01,Phosphorus,2.065,1.98,4
+houston_buffalo_bayou,2023-11-01,Specific conductance,8242.0,1435.0,8
+houston_buffalo_bayou,2023-11-01,Sulfate,62.0,59.0,4
+houston_buffalo_bayou,2023-12-01,Chloride,102.06666666666666,95.0,15
+houston_buffalo_bayou,2023-12-01,Phosphorus,1.3419999999999999,1.72,15
+houston_buffalo_bayou,2023-12-01,Specific conductance,752.8666666666667,678.0,15
+houston_buffalo_bayou,2023-12-01,Sulfate,49.2,50.0,15
+kansas_city,2010-01-01,Chloride,70.0,70.0,1
+kansas_city,2010-01-01,Phosphorus,0.31,0.31,1
+kansas_city,2010-01-01,Sulfate,130.0,130.0,1
+kansas_city,2010-01-01,Total dissolved solids,540.0,540.0,1
+kansas_city,2010-01-01,pH,7.95,7.95,2
+kansas_city,2010-03-01,pH,7.9,7.9,2
+kansas_city,2010-04-01,Chloride,29.0,29.0,1
+kansas_city,2010-04-01,Phosphorus,0.64,0.64,1
+kansas_city,2010-04-01,Sulfate,69.0,69.0,1
+kansas_city,2010-04-01,Total dissolved solids,410.0,410.0,1
+kansas_city,2010-04-01,pH,7.9,7.9,2
+kansas_city,2010-05-01,pH,7.866666666666667,7.9,3
+kansas_city,2010-06-01,Phosphorus,0.1908,0.177,10
+kansas_city,2010-07-01,Chloride,29.0,29.0,1
+kansas_city,2010-07-01,Phosphorus,0.57,0.57,1
+kansas_city,2010-07-01,Sulfate,68.0,68.0,1
+kansas_city,2010-07-01,Total dissolved solids,350.0,350.0,1
+kansas_city,2010-07-01,pH,7.7,7.7,1
+kansas_city,2010-08-01,Phosphorus,0.2109,0.1875,10
+kansas_city,2010-09-01,pH,7.8,7.8,1
+kansas_city,2010-10-01,Chloride,93.0,93.0,1
+kansas_city,2010-10-01,Phosphorus,0.21475,0.1655,12
+kansas_city,2010-10-01,Sulfate,130.0,130.0,1
+kansas_city,2010-10-01,Total dissolved solids,570.0,570.0,1
+kansas_city,2010-10-01,pH,7.9,7.9,2
+kansas_city,2010-11-01,pH,7.5,7.5,1
+kansas_city,2010-12-01,pH,7.1,7.1,1
+kansas_city,2011-01-01,pH,7.2,7.2,1
+kansas_city,2011-02-01,Chloride,65.0,65.0,1
+kansas_city,2011-02-01,Phosphorus,0.75,0.75,1
+kansas_city,2011-02-01,Sulfate,67.0,67.0,1
+kansas_city,2011-02-01,pH,6.949999999999999,6.949999999999999,2
+kansas_city,2011-03-01,pH,6.7,6.7,2
+kansas_city,2011-04-01,pH,7.75,7.75,2
+kansas_city,2011-05-01,Chloride,80.0,80.0,1
+kansas_city,2011-05-01,Phosphorus,0.28,0.28,1
+kansas_city,2011-05-01,Sulfate,94.0,94.0,1
+kansas_city,2011-06-01,Phosphorus,0.26075,0.1445,4
+kansas_city,2011-06-01,pH,7.3,7.3,2
+kansas_city,2011-07-01,Chloride,102.0,102.0,2
+kansas_city,2011-07-01,Sulfate,44.5,44.5,2
+kansas_city,2011-08-01,Chloride,68.9875,60.9,8
+kansas_city,2011-08-01,Phosphorus,0.32,0.32,1
+kansas_city,2011-08-01,Sulfate,136.15,133.0,8
+kansas_city,2011-08-01,pH,6.9,6.9,1
+kansas_city,2011-09-01,pH,7.7,7.7,1
+kansas_city,2011-11-01,Chloride,80.0,80.0,1
+kansas_city,2011-11-01,Phosphorus,0.31,0.31,1
+kansas_city,2011-11-01,Sulfate,83.0,83.0,1
+kansas_city,2011-11-01,pH,7.5,7.5,4
+kansas_city,2011-12-01,pH,7.7,7.7,1
+kansas_city,2012-01-01,pH,7.8,7.8,1
+kansas_city,2012-02-01,pH,7.75,7.75,2
+kansas_city,2012-03-01,Chloride,51.0,51.0,1
+kansas_city,2012-03-01,Phosphorus,0.33,0.33,1
+kansas_city,2012-03-01,Sulfate,87.0,87.0,1
+kansas_city,2012-03-01,Total dissolved solids,430.0,430.0,1
+kansas_city,2012-05-01,pH,7.5,7.5,1
+kansas_city,2012-06-01,Chloride,106.0,108.0,5
+kansas_city,2012-06-01,Phosphorus,0.39,0.39,1
+kansas_city,2012-06-01,Sulfate,47.32,31.6,5
+kansas_city,2012-06-01,Total dissolved solids,550.0,550.0,1
+kansas_city,2012-06-01,pH,7.7,7.7,2
+kansas_city,2012-09-01,Chloride,100.0,100.0,1
+kansas_city,2012-09-01,Phosphorus,0.43,0.43,1
+kansas_city,2012-09-01,Sulfate,110.0,110.0,1
+kansas_city,2012-09-01,Total dissolved solids,510.0,510.0,1
+kansas_city,2012-09-01,pH,7.4,7.4,2
+kansas_city,2012-11-01,pH,7.6,7.6,1
+kansas_city,2012-12-01,Chloride,120.0,120.0,1
+kansas_city,2012-12-01,Phosphorus,0.31,0.31,1
+kansas_city,2012-12-01,Sulfate,120.0,120.0,1
+kansas_city,2012-12-01,Total dissolved solids,600.0,600.0,1
+kansas_city,2013-01-01,Chloride,130.0,130.0,1
+kansas_city,2013-01-01,Phosphorus,0.31,0.31,1
+kansas_city,2013-01-01,Sulfate,140.0,140.0,1
+kansas_city,2013-01-01,pH,7.949999999999999,7.949999999999999,2
+kansas_city,2013-02-01,pH,8.4,8.4,1
+kansas_city,2013-03-01,pH,8.025,8.0,4
+kansas_city,2013-04-01,Chloride,75.0,75.0,1
+kansas_city,2013-04-01,Phosphorus,0.4,0.4,1
+kansas_city,2013-04-01,Sulfate,100.0,100.0,1
+kansas_city,2013-05-01,pH,7.725,7.75,4
+kansas_city,2013-06-01,pH,7.625,7.6,4
+kansas_city,2013-07-01,Chloride,100.66666666666667,134.0,3
+kansas_city,2013-07-01,Phosphorus,0.5,0.5,1
+kansas_city,2013-07-01,Sulfate,47.9,47.2,3
+kansas_city,2013-07-01,Total dissolved solids,493.0,493.0,2
+kansas_city,2013-07-01,pH,7.7,7.7,5
+kansas_city,2013-08-01,Chloride,91.95714285714287,104.0,7
+kansas_city,2013-08-01,Sulfate,97.45714285714287,92.5,7
+kansas_city,2013-08-01,Total dissolved solids,602.5714285714286,615.0,7
+kansas_city,2013-08-01,pH,7.6,7.6,1
+kansas_city,2013-09-01,pH,7.8,7.8,1
+kansas_city,2013-10-01,Chloride,110.0,110.0,1
+kansas_city,2013-10-01,Phosphorus,0.32,0.32,1
+kansas_city,2013-10-01,Sulfate,110.0,110.0,1
+kansas_city,2013-10-01,pH,7.8,7.8,1
+kansas_city,2013-11-01,pH,8.05,8.05,2
+kansas_city,2013-12-01,pH,7.7,7.7,1
+kansas_city,2014-01-01,pH,7.9,7.9,1
+kansas_city,2014-02-01,Chloride,110.0,110.0,1
+kansas_city,2014-02-01,Phosphorus,0.44,0.44,1
+kansas_city,2014-02-01,Sulfate,120.0,120.0,1
+kansas_city,2014-04-01,pH,7.45,7.45,2
+kansas_city,2014-05-01,Chloride,46.0,46.0,1
+kansas_city,2014-05-01,Phosphorus,0.39,0.39,1
+kansas_city,2014-05-01,Sulfate,61.0,61.0,1
+kansas_city,2014-06-01,Chloride,109.03333333333335,77.5,3
+kansas_city,2014-06-01,Sulfate,55.633333333333326,43.0,3
+kansas_city,2014-06-01,Total dissolved solids,528.0,429.0,3
+kansas_city,2014-07-01,Chloride,96.95,109.0,6
+kansas_city,2014-07-01,Sulfate,90.39999999999999,94.8,6
+kansas_city,2014-07-01,Total dissolved solids,645.0,632.5,6
+kansas_city,2014-07-01,pH,7.5,7.5,1
+kansas_city,2014-08-01,Chloride,88.0,88.0,1
+kansas_city,2014-08-01,Phosphorus,0.42,0.42,1
+kansas_city,2014-08-01,Sulfate,100.0,100.0,1
+kansas_city,2014-08-01,pH,8.1,8.1,2
+kansas_city,2014-10-01,pH,7.9,7.9,2
+kansas_city,2014-11-01,Chloride,81.0,81.0,1
+kansas_city,2014-11-01,Phosphorus,0.43,0.43,1
+kansas_city,2014-11-01,Sulfate,76.0,76.0,1
+kansas_city,2014-11-01,pH,8.1,8.1,1
+kansas_city,2015-02-01,pH,8.1,8.1,1
+kansas_city,2015-03-01,Chloride,130.0,130.0,1
+kansas_city,2015-03-01,Phosphorus,0.33,0.33,1
+kansas_city,2015-03-01,Sulfate,95.0,95.0,1
+kansas_city,2015-04-01,pH,8.0,8.0,1
+kansas_city,2015-05-01,pH,8.1,8.1,1
+kansas_city,2015-06-01,Chloride,14.0,14.0,1
+kansas_city,2015-06-01,Phosphorus,0.57,0.57,1
+kansas_city,2015-06-01,Sulfate,37.0,37.0,1
+kansas_city,2015-06-01,pH,7.8,7.8,1
+kansas_city,2015-07-01,pH,8.05,8.05,4
+kansas_city,2015-08-01,Chloride,91.92,99.8,5
+kansas_city,2015-08-01,Sulfate,66.26,66.1,5
+kansas_city,2015-08-01,Total dissolved solids,555.0,551.0,5
+kansas_city,2015-08-01,pH,7.8,7.8,1
+kansas_city,2015-09-01,Chloride,111.6,121.0,5
+kansas_city,2015-09-01,Phosphorus,0.36,0.36,1
+kansas_city,2015-09-01,Sulfate,95.86,97.7,5
+kansas_city,2015-09-01,Total dissolved solids,652.75,658.0,4
+kansas_city,2015-09-01,pH,7.7,7.7,5
+kansas_city,2015-10-01,pH,8.0,8.0,1
+kansas_city,2015-11-01,pH,7.8,7.8,1
+kansas_city,2015-12-01,Chloride,54.0,54.0,1
+kansas_city,2015-12-01,Phosphorus,0.4,0.4,1
+kansas_city,2015-12-01,Sulfate,59.0,59.0,1
+kansas_city,2016-01-01,Chloride,55.0,55.0,1
+kansas_city,2016-01-01,Phosphorus,0.28,0.28,1
+kansas_city,2016-01-01,Sulfate,99.0,99.0,1
+kansas_city,2016-01-01,pH,8.0,8.0,1
+kansas_city,2016-03-01,pH,7.9,7.9,1
+kansas_city,2016-04-01,Chloride,86.0,86.0,1
+kansas_city,2016-04-01,Phosphorus,0.1,0.1,1
+kansas_city,2016-04-01,Sulfate,110.0,110.0,1
+kansas_city,2016-04-01,pH,7.9,7.9,1
+kansas_city,2016-05-01,pH,8.1,8.1,1
+kansas_city,2016-06-01,pH,7.8,7.8,1
+kansas_city,2016-07-01,Chloride,74.0,74.0,1
+kansas_city,2016-07-01,Phosphorus,0.32,0.32,1
+kansas_city,2016-07-01,Sulfate,91.0,91.0,1
+kansas_city,2016-07-01,pH,7.9,7.9,1
+kansas_city,2016-08-01,pH,7.779999999999999,7.7,5
+kansas_city,2016-09-01,Chloride,85.96666666666665,58.7,3
+kansas_city,2016-09-01,Sulfate,47.099999999999994,31.8,3
+kansas_city,2016-09-01,Total dissolved solids,429.6666666666667,348.0,3
+kansas_city,2016-09-01,pH,7.8,7.8,1
+kansas_city,2016-10-01,Chloride,84.08571428571429,91.0,7
+kansas_city,2016-10-01,Phosphorus,0.34,0.34,1
+kansas_city,2016-10-01,Sulfate,84.11428571428571,80.2,7
+kansas_city,2016-10-01,Total dissolved solids,567.8333333333334,568.5,6
+kansas_city,2016-10-01,pH,8.0,8.0,1
+kansas_city,2016-12-01,pH,7.2,7.2,1
+kansas_city,2017-01-01,pH,8.0,8.0,1
+kansas_city,2017-02-01,pH,8.1,8.1,1
+kansas_city,2017-04-01,pH,8.1,8.1,1
+kansas_city,2017-05-01,pH,7.959999999999999,7.9,5
+kansas_city,2017-06-01,pH,7.8,7.8,1
+kansas_city,2017-07-01,pH,7.92,7.9,5
+kansas_city,2017-08-01,pH,7.8,7.8,1
+kansas_city,2017-09-01,pH,7.65,7.65,2
+kansas_city,2017-10-01,Chloride,52.7,52.7,1
+kansas_city,2017-10-01,Sulfate,34.7,34.7,1
+kansas_city,2017-10-01,Total dissolved solids,343.0,343.0,1
+kansas_city,2017-10-01,pH,7.8,7.8,1
+kansas_city,2017-11-01,pH,7.7,7.7,1
+kansas_city,2018-02-01,pH,7.9,7.9,1
+kansas_city,2018-03-01,pH,8.149999999999999,8.149999999999999,2
+kansas_city,2018-04-01,pH,7.8,7.8,1
+kansas_city,2018-05-01,pH,8.15,8.15,2
+kansas_city,2018-06-01,pH,7.566666666666666,7.7,3
+kansas_city,2018-07-01,pH,7.6,7.6,1
+kansas_city,2018-08-01,pH,7.949999999999999,7.949999999999999,2
+kansas_city,2018-09-01,pH,7.933333333333334,8.0,3
+kansas_city,2018-10-01,pH,7.8,7.8,1
+kansas_city,2018-11-01,pH,8.0,8.0,1
+kansas_city,2018-12-01,pH,7.0,7.0,1
+kansas_city,2019-02-01,pH,8.0,8.0,1
+kansas_city,2019-04-01,pH,8.0,8.0,1
+kansas_city,2019-05-01,pH,7.9,7.9,1
+kansas_city,2019-06-01,pH,7.8,7.8,1
+kansas_city,2019-07-01,pH,7.5,7.5,1
+kansas_city,2019-08-01,pH,7.6,7.6,1
+kansas_city,2019-09-01,pH,7.833333333333333,7.8,3
+kansas_city,2019-10-01,pH,7.5,7.5,1
+kansas_city,2019-11-01,pH,7.4,7.4,1
+kansas_city,2020-06-01,pH,7.5,7.5,1
+kansas_city,2020-07-01,pH,7.6,7.6,2
+kansas_city,2020-08-01,pH,7.1,7.1,1
+kansas_city,2020-09-01,pH,7.8,7.8,2
+kansas_city,2020-10-01,pH,7.5,7.5,1
+memphis,2011-01-01,Chloride,25.425,26.0,4
+memphis,2011-01-01,Phosphorus,0.18,0.18,4
+memphis,2011-01-01,Sulfate,20.916666666666668,18.5,12
+memphis,2011-02-01,Chloride,32.125,23.0,4
+memphis,2011-02-01,Phosphorus,0.14636363636363636,0.14,11
+memphis,2011-02-01,Sulfate,24.48888888888889,11.0,9
+memphis,2011-03-01,Chloride,4.62,5.5,5
+memphis,2011-03-01,Phosphorus,0.16571428571428573,0.15500000000000003,14
+memphis,2011-03-01,Sulfate,13.441666666666668,8.35,12
+memphis,2011-03-01,Total dissolved solids,81.0,81.0,2
+memphis,2011-04-01,Chloride,3.12,2.7,5
+memphis,2011-04-01,Phosphorus,0.24166666666666667,0.22999999999999998,6
+memphis,2011-04-01,Sulfate,5.6000000000000005,5.4,6
+memphis,2011-04-01,pH,6.5,6.5,4
+memphis,2011-05-01,Chloride,5.866666666666666,4.7,3
+memphis,2011-05-01,Phosphorus,0.18636363636363634,0.14,11
+memphis,2011-05-01,Sulfate,10.077777777777778,6.6,9
+memphis,2011-05-01,Total dissolved solids,87.5,87.5,2
+memphis,2011-05-01,pH,7.575,7.55,4
+memphis,2011-06-01,Chloride,5.3,5.5,5
+memphis,2011-06-01,Phosphorus,0.19657142857142856,0.1145,14
+memphis,2011-06-01,Sulfate,15.881818181818181,9.7,11
+memphis,2011-06-01,Total dissolved solids,103.0,103.0,2
+memphis,2011-06-01,pH,6.6,6.6,1
+memphis,2011-07-01,Chloride,5.616666666666667,6.15,6
+memphis,2011-07-01,Phosphorus,0.20784615384615385,0.21,13
+memphis,2011-07-01,Sulfate,7.2,6.8,5
+memphis,2011-08-01,Chloride,6.728571428571429,6.5,7
+memphis,2011-08-01,Phosphorus,0.19046666666666667,0.22,15
+memphis,2011-08-01,Sulfate,6.833333333333333,5.85,6
+memphis,2011-08-01,pH,6.0625,6.1,8
+memphis,2011-09-01,Chloride,6.866666666666667,7.6,6
+memphis,2011-09-01,Phosphorus,1.187642857142857,0.185,14
+memphis,2011-09-01,Sulfate,9.216666666666667,10.5,6
+memphis,2011-09-01,Total dissolved solids,61.0,61.0,1
+memphis,2011-10-01,Chloride,9.625,9.5,4
+memphis,2011-10-01,Phosphorus,0.22066666666666668,0.24,9
+memphis,2011-10-01,Sulfate,10.4,11.0,3
+memphis,2011-11-01,Chloride,8.3,7.85,4
+memphis,2011-11-01,Phosphorus,0.22636363636363638,0.16,11
+memphis,2011-11-01,Sulfate,11.066666666666668,13.0,3
+memphis,2011-12-01,Chloride,7.824999999999999,7.199999999999999,4
+memphis,2011-12-01,Phosphorus,0.18380000000000002,0.16,15
+memphis,2011-12-01,Sulfate,9.85,10.2,4
+memphis,2011-12-01,Total dissolved solids,59.0,59.0,1
+memphis,2012-01-01,Chloride,2.75,2.75,2
+memphis,2012-01-01,Phosphorus,0.18923076923076923,0.19,13
+memphis,2012-01-01,Sulfate,4.866666666666666,4.7,3
+memphis,2012-02-01,Chloride,7.6,7.6,4
+memphis,2012-02-01,Phosphorus,0.18999999999999997,0.16,11
+memphis,2012-02-01,Sulfate,11.933333333333332,13.0,3
+memphis,2012-03-01,Chloride,9.225,8.85,4
+memphis,2012-03-01,Phosphorus,0.194,0.16,14
+memphis,2012-03-01,Sulfate,13.275,13.7,4
+memphis,2012-03-01,Total dissolved solids,61.0,61.0,1
+memphis,2012-04-01,Chloride,8.35,8.85,4
+memphis,2012-04-01,Phosphorus,0.17266666666666666,0.16,9
+memphis,2012-04-01,Sulfate,10.0,10.0,3
+memphis,2012-05-01,Chloride,3.7,3.7,1
+memphis,2012-05-01,Phosphorus,0.22412500000000002,0.235,8
+memphis,2012-06-01,Chloride,8.166666666666666,9.0,3
+memphis,2012-06-01,Phosphorus,0.21046153846153848,0.16,13
+memphis,2012-06-01,Sulfate,5.52,6.2,5
+memphis,2012-06-01,Total dissolved solids,62.0,62.0,2
+memphis,2012-07-01,pH,6.075,6.05,4
+memphis,2012-08-01,Chloride,7.3,7.7,3
+memphis,2012-08-01,Phosphorus,0.20333333333333334,0.22,3
+memphis,2012-08-01,Sulfate,6.766666666666667,6.2,3
+memphis,2012-08-01,pH,6.225,6.25,4
+memphis,2012-09-01,Phosphorus,0.12000000000000001,0.12000000000000001,2
+memphis,2012-09-01,Sulfate,9.9,9.9,2
+memphis,2012-09-01,Total dissolved solids,115.0,115.0,2
+memphis,2012-10-01,Chloride,7.35,7.35,2
+memphis,2012-10-01,Phosphorus,0.27,0.27,2
+memphis,2012-10-01,Sulfate,8.649999999999999,8.649999999999999,2
+memphis,2012-12-01,Chloride,31.400000000000002,40.0,3
+memphis,2012-12-01,Phosphorus,0.238,0.22,5
+memphis,2012-12-01,Sulfate,5.84,5.0,5
+memphis,2012-12-01,Total dissolved solids,114.5,114.5,2
+memphis,2013-02-01,Chloride,5.8999999999999995,6.2,3
+memphis,2013-02-01,Phosphorus,0.25,0.25,3
+memphis,2013-02-01,Sulfate,10.200000000000001,11.0,3
+memphis,2013-03-01,Phosphorus,0.18,0.18,2
+memphis,2013-03-01,Sulfate,3.85,3.85,2
+memphis,2013-03-01,Total dissolved solids,79.5,79.5,2
+memphis,2013-05-01,Chloride,5.5,5.5,1
+memphis,2013-05-01,Phosphorus,0.31,0.31,1
+memphis,2013-05-01,Sulfate,7.1,7.1,1
+memphis,2013-06-01,Chloride,4.5,4.5,2
+memphis,2013-06-01,Phosphorus,0.19925,0.199,4
+memphis,2013-06-01,Sulfate,7.325,7.85,4
+memphis,2013-06-01,Total dissolved solids,94.0,94.0,2
+memphis,2013-07-01,Phosphorus,0.30666666666666664,0.34,6
+memphis,2013-08-01,Chloride,6.6,6.6,2
+memphis,2013-08-01,Phosphorus,0.26571428571428574,0.25,7
+memphis,2013-08-01,Sulfate,7.35,7.35,2
+memphis,2013-08-01,pH,6.13125,6.15,16
+memphis,2013-09-01,Chloride,15.735,15.735,1
+memphis,2013-09-01,Phosphorus,0.19785714285714287,0.21,7
+memphis,2013-09-01,Specific conductance,372.0,372.0,1
+memphis,2013-09-01,Sulfate,29.4905,29.4905,2
+memphis,2013-09-01,Total dissolved solids,220.0,220.0,1
+memphis,2013-10-01,Chloride,7.833333333333333,6.9,3
+memphis,2013-10-01,Phosphorus,0.195,0.20500000000000002,8
+memphis,2013-10-01,Sulfate,7.066666666666666,6.8,3
+memphis,2013-11-01,Phosphorus,0.26166666666666666,0.225,6
+memphis,2013-11-01,pH,6.375,6.5,4
+memphis,2013-12-01,Phosphorus,0.304,0.31,5
+memphis,2013-12-01,Sulfate,6.9,6.9,1
+memphis,2013-12-01,Total dissolved solids,120.0,120.0,1
+memphis,2013-12-01,pH,6.2,6.2,4
+memphis,2014-01-01,Phosphorus,0.3016666666666667,0.32,6
+memphis,2014-02-01,Chloride,9.8,9.8,2
+memphis,2014-02-01,Phosphorus,0.31,0.32,5
+memphis,2014-02-01,Sulfate,10.8,10.8,2
+memphis,2014-02-01,pH,6.25,6.300000000000001,4
+memphis,2014-04-01,Phosphorus,0.25666666666666665,0.24,6
+memphis,2014-04-01,pH,6.2,6.199999999999999,4
+memphis,2014-05-01,Phosphorus,0.21666666666666667,0.19,6
+memphis,2014-06-01,Phosphorus,0.20142857142857146,0.2,7
+memphis,2014-06-01,Sulfate,4.1,4.1,1
+memphis,2014-06-01,Total dissolved solids,72.0,72.0,1
+memphis,2014-06-01,pH,6.225,6.3,4
+memphis,2014-07-01,Chloride,11.93125,13.0,4
+memphis,2014-07-01,Phosphorus,0.24,0.23,3
+memphis,2014-07-01,Specific conductance,132.8,132.8,1
+memphis,2014-07-01,Sulfate,18.0625,20.5,4
+memphis,2014-08-01,pH,6.2250000000000005,6.15,12
+memphis,2014-09-01,Phosphorus,0.10350000000000001,0.10350000000000001,2
+memphis,2014-10-01,pH,7.8,7.8,1
+memphis,2014-11-01,pH,6.6,6.3,5
+memphis,2014-12-01,pH,6.459999999999999,6.2,5
+memphis,2015-01-01,Chloride,7.7,8.7,3
+memphis,2015-01-01,Phosphorus,0.2084,0.23,5
+memphis,2015-01-01,Sulfate,9.6,11.0,3
+memphis,2015-01-01,pH,7.7,7.7,1
+memphis,2015-02-01,pH,6.3,6.25,4
+memphis,2015-03-01,pH,7.6,7.6,2
+memphis,2015-04-01,pH,6.35,6.35,4
+memphis,2015-05-01,pH,7.5,7.5,1
+memphis,2015-06-01,Phosphorus,0.19333333333333333,0.11,3
+memphis,2015-06-01,Sulfate,24.95,24.95,2
+memphis,2015-06-01,Total dissolved solids,185.0,185.0,2
+memphis,2015-06-01,pH,6.459999999999999,6.6,5
+memphis,2015-07-01,Phosphorus,0.08771428571428572,0.042,7
+memphis,2015-07-01,Sulfate,32.0,32.0,1
+memphis,2015-07-01,Total dissolved solids,210.0,210.0,1
+memphis,2015-07-01,pH,7.65,7.65,4
+memphis,2015-08-01,Phosphorus,0.13199999999999998,0.083,7
+memphis,2015-08-01,Sulfate,34.0,34.0,1
+memphis,2015-08-01,Total dissolved solids,140.0,140.0,1
+memphis,2015-08-01,pH,6.375,6.4,12
+memphis,2015-09-01,Phosphorus,0.13466666666666666,0.13,9
+memphis,2015-09-01,Sulfate,23.0,13.0,3
+memphis,2015-09-01,Total dissolved solids,165.33333333333334,160.0,3
+memphis,2015-09-01,pH,7.8,7.8,1
+memphis,2015-10-01,Phosphorus,0.17833333333333334,0.16499999999999998,6
+memphis,2015-10-01,pH,6.58,6.4,5
+memphis,2015-11-01,Phosphorus,0.39999999999999997,0.43000000000000005,6
+memphis,2015-11-01,pH,8.1,8.1,1
+memphis,2015-12-01,Phosphorus,0.19555555555555557,0.17,9
+memphis,2015-12-01,Sulfate,17.233333333333334,7.0,3
+memphis,2015-12-01,Total dissolved solids,74.0,75.0,3
+memphis,2015-12-01,pH,6.666666666666667,6.6,3
+memphis,2016-01-01,Phosphorus,0.20857142857142857,0.16,7
+memphis,2016-01-01,Sulfate,25.0,25.0,1
+memphis,2016-01-01,Total dissolved solids,130.0,130.0,1
+memphis,2016-01-01,pH,7.6,7.6,1
+memphis,2016-02-01,Phosphorus,0.152,0.16,5
+memphis,2016-02-01,pH,6.533333333333334,6.5,3
+memphis,2016-03-01,Phosphorus,0.197,0.225,10
+memphis,2016-03-01,Sulfate,17.166666666666668,14.0,3
+memphis,2016-03-01,Total dissolved solids,128.0,130.0,3
+memphis,2016-03-01,pH,7.3,7.3,1
+memphis,2016-04-01,Phosphorus,0.1510877192982456,0.14,57
+memphis,2016-04-01,Sulfate,51.0,51.0,1
+memphis,2016-04-01,Total dissolved solids,260.0,260.0,1
+memphis,2016-04-01,pH,6.659999999999999,6.6,5
+memphis,2016-05-01,Phosphorus,0.16377777777777777,0.12,9
+memphis,2016-05-01,Sulfate,45.0,45.0,1
+memphis,2016-05-01,Total dissolved solids,240.0,240.0,1
+memphis,2016-05-01,pH,7.3,7.3,1
+memphis,2016-06-01,Phosphorus,0.09925,0.10350000000000001,8
+memphis,2016-06-01,Sulfate,5.45,5.45,2
+memphis,2016-06-01,Total dissolved solids,104.0,104.0,2
+memphis,2016-06-01,pH,6.659999999999999,6.7,5
+memphis,2016-07-01,Phosphorus,0.20727272727272725,0.21,11
+memphis,2016-07-01,Sulfate,29.75,29.75,2
+memphis,2016-07-01,Total dissolved solids,250.0,250.0,1
+memphis,2016-07-01,pH,7.7,7.7,1
+memphis,2016-08-01,Phosphorus,0.2918181818181818,0.22,11
+memphis,2016-08-01,Sulfate,24.03333333333333,23.0,3
+memphis,2016-08-01,Total dissolved solids,167.33333333333334,200.0,3
+memphis,2016-08-01,pH,6.5,6.4,13
+memphis,2016-09-01,Phosphorus,0.28022222222222226,0.21,9
+memphis,2016-09-01,Sulfate,30.5,30.5,2
+memphis,2016-09-01,Total dissolved solids,235.0,235.0,2
+memphis,2016-09-01,pH,7.9,7.9,1
+memphis,2016-10-01,Phosphorus,0.1872,0.15000000000000002,10
+memphis,2016-10-01,Sulfate,38.5,38.5,2
+memphis,2016-10-01,Total dissolved solids,275.0,275.0,2
+memphis,2016-10-01,pH,6.42,6.5,5
+memphis,2016-11-01,Phosphorus,0.2299,0.16,10
+memphis,2016-11-01,Sulfate,14.3,14.3,2
+memphis,2016-11-01,Total dissolved solids,157.0,157.0,2
+memphis,2016-12-01,Phosphorus,0.46444444444444444,0.51,9
+memphis,2016-12-01,Sulfate,3.05,3.05,2
+memphis,2016-12-01,Total dissolved solids,102.0,102.0,2
+memphis,2016-12-01,pH,6.375,6.4,4
+memphis,2017-01-01,Phosphorus,0.24727272727272728,0.23,11
+memphis,2017-01-01,Sulfate,15.700000000000001,7.0,3
+memphis,2017-01-01,Total dissolved solids,103.33333333333333,120.0,3
+memphis,2017-01-01,pH,6.6,6.6,1
+memphis,2017-02-01,Phosphorus,1.0300000000000002,0.12,9
+memphis,2017-02-01,Sulfate,9.6,9.6,1
+memphis,2017-02-01,Total dissolved solids,140.0,140.0,1
+memphis,2017-02-01,pH,6.659999999999999,6.6,5
+memphis,2017-03-01,Phosphorus,0.17033333333333334,0.15,9
+memphis,2017-03-01,Sulfate,7.8,7.8,1
+memphis,2017-03-01,Total dissolved solids,110.0,110.0,1
+memphis,2017-03-01,pH,8.1,8.1,1
+memphis,2017-04-01,Phosphorus,0.28700000000000003,0.24,8
+memphis,2017-04-01,Sulfate,3.9,3.9,1
+memphis,2017-04-01,Total dissolved solids,98.0,98.0,1
+memphis,2017-04-01,pH,6.0,6.199999999999999,4
+memphis,2017-05-01,Phosphorus,0.2281818181818182,0.2,11
+memphis,2017-05-01,Sulfate,4.2,4.2,2
+memphis,2017-05-01,Total dissolved solids,73.5,73.5,2
+memphis,2017-05-01,pH,6.4,6.300000000000001,10
+memphis,2017-06-01,Phosphorus,0.4086666666666667,0.36,9
+memphis,2017-06-01,Sulfate,3.2,3.2,1
+memphis,2017-06-01,Total dissolved solids,87.0,87.0,1
+memphis,2017-06-01,pH,6.685714285714285,6.7,7
+memphis,2017-08-01,pH,6.441666666666666,6.4,12
+memphis,2017-09-01,Phosphorus,0.10704999999999999,0.10704999999999999,2
+memphis,2017-09-01,Sulfate,9.870000000000001,9.870000000000001,2
+memphis,2017-09-01,Total dissolved solids,122.0,122.0,2
+memphis,2017-09-01,pH,6.94,6.949999999999999,20
+memphis,2017-10-01,pH,8.1,8.1,1
+memphis,2017-11-01,Phosphorus,0.10935,0.10935,2
+memphis,2017-11-01,Sulfate,10.219999999999999,10.219999999999999,2
+memphis,2017-11-01,Total dissolved solids,128.0,128.0,2
+memphis,2017-11-01,pH,7.066666666666666,6.9,3
+memphis,2018-01-01,pH,8.2,8.2,1
+memphis,2018-02-01,pH,7.9,7.9,1
+memphis,2018-03-01,pH,8.4,8.4,1
+memphis,2018-04-01,Phosphorus,0.1225,0.1225,2
+memphis,2018-04-01,Sulfate,5.99,5.99,2
+memphis,2018-04-01,Total dissolved solids,102.0,102.0,2
+memphis,2018-06-01,pH,7.7,7.7,1
+memphis,2018-07-01,Chloride,5.46325,5.62,4
+memphis,2018-07-01,Phosphorus,0.20522,0.20950000000000002,10
+memphis,2018-07-01,Specific conductance,100.9,100.9,1
+memphis,2018-07-01,Sulfate,5.945,6.845,4
+memphis,2018-07-01,Total dissolved solids,88.5,88.5,2
+memphis,2018-08-01,Chloride,7.8999999999999995,7.3,3
+memphis,2018-08-01,Phosphorus,0.2058888888888889,0.184,9
+memphis,2018-08-01,Sulfate,7.043333333333334,6.44,3
+memphis,2018-08-01,Total dissolved solids,58.0,58.0,1
+memphis,2018-08-01,pH,6.408333333333334,6.35,12
+memphis,2018-09-01,Phosphorus,0.2668333333333333,0.2005,6
+memphis,2018-09-01,Total dissolved solids,61.0,61.0,1
+memphis,2018-10-01,Phosphorus,0.24486666666666668,0.237,9
+memphis,2018-10-01,Sulfate,8.263333333333334,7.99,3
+memphis,2018-10-01,Total dissolved solids,55.0,55.0,1
+memphis,2018-10-01,pH,7.050000000000001,7.050000000000001,2
+memphis,2018-11-01,Chloride,7.31,7.63,3
+memphis,2018-11-01,Phosphorus,0.2869333333333333,0.216,9
+memphis,2018-11-01,Sulfate,8.299999999999999,8.7,3
+memphis,2018-11-01,Total dissolved solids,52.0,52.0,2
+memphis,2018-12-01,Chloride,3.4766666666666666,3.48,3
+memphis,2018-12-01,Phosphorus,0.323875,0.3405,8
+memphis,2018-12-01,Sulfate,4.243333333333333,4.24,3
+memphis,2018-12-01,Total dissolved solids,60.0,60.0,1
+memphis,2019-01-01,Chloride,5.6,5.6,1
+memphis,2019-01-01,Phosphorus,0.35014285714285714,0.215,7
+memphis,2019-01-01,Sulfate,6.36,6.36,1
+memphis,2019-01-01,Total dissolved solids,65.0,65.0,1
+memphis,2019-02-01,Phosphorus,0.15775,0.1585,4
+memphis,2019-03-01,Phosphorus,0.194,0.195,4
+memphis,2019-04-01,Phosphorus,0.364575,0.352,4
+memphis,2019-05-01,Phosphorus,0.1474,0.138,5
+memphis,2019-06-01,Phosphorus,0.13762000000000002,0.128,5
+memphis,2019-06-01,Total dissolved solids,89.0,89.0,1
+memphis,2019-06-01,pH,6.720000000000001,6.7,5
+memphis,2019-08-01,Phosphorus,0.1565,0.1565,2
+memphis,2019-08-01,Total dissolved solids,68.0,68.0,2
+memphis,2019-08-01,pH,6.575,6.65,8
+memphis,2019-09-01,pH,7.5,7.5,1
+memphis,2019-11-01,Phosphorus,0.253,0.253,2
+memphis,2019-11-01,Total dissolved solids,68.5,68.5,2
+memphis,2020-01-01,Phosphorus,0.209,0.209,1
+memphis,2020-01-01,Total dissolved solids,46.0,46.0,1
+memphis,2020-07-01,Phosphorus,0.0857,0.07120000000000001,6
+memphis,2020-08-01,Phosphorus,0.14833333333333334,0.161,3
+memphis,2020-08-01,Total dissolved solids,108.5,108.5,2
+memphis,2020-08-01,pH,6.6875,6.65,8
+memphis,2020-09-01,Phosphorus,0.11497142857142857,0.0974,7
+memphis,2020-10-01,Phosphorus,0.14716666666666667,0.1575,6
+memphis,2020-10-01,Total dissolved solids,125.5,125.5,2
+memphis,2020-11-01,Phosphorus,0.1252285714285714,0.101,7
+memphis,2020-12-01,Phosphorus,0.15563333333333332,0.124,6
+memphis,2021-01-01,Phosphorus,0.22083333333333333,0.2005,6
+memphis,2021-02-01,Phosphorus,0.16633333333333333,0.121,3
+memphis,2021-02-01,Total dissolved solids,111.5,111.5,2
+memphis,2021-03-01,Phosphorus,0.1466,0.1385,10
+memphis,2021-04-01,Phosphorus,0.13143333333333332,0.1295,6
+memphis,2021-05-01,Phosphorus,0.11203333333333333,0.0912,9
+memphis,2021-05-01,Total dissolved solids,132.0,132.0,2
+memphis,2021-06-01,Phosphorus,0.14055714285714285,0.114,7
+memphis,2021-07-01,Chloride,3.43,3.43,2
+memphis,2021-07-01,Phosphorus,0.22047777777777777,0.226,9
+memphis,2021-07-01,Total dissolved solids,135.8111111111111,123.0,9
+memphis,2021-08-01,Chloride,7.95,7.95,1
+memphis,2021-08-01,Phosphorus,0.32468888888888886,0.13,9
+memphis,2021-08-01,Total dissolved solids,176.88888888888889,172.0,9
+memphis,2021-08-01,pH,6.357142857142857,6.2,7
+memphis,2021-09-01,Chloride,12.7,12.7,1
+memphis,2021-09-01,Phosphorus,0.1937888888888889,0.15,9
+memphis,2021-09-01,Total dissolved solids,157.55555555555554,168.0,9
+memphis,2021-10-01,Chloride,4.72,4.72,1
+memphis,2021-10-01,Phosphorus,0.23835555555555554,0.21,9
+memphis,2021-10-01,Total dissolved solids,144.33333333333334,125.0,9
+memphis,2021-11-01,Chloride,4.05,4.05,1
+memphis,2021-11-01,Phosphorus,0.52041,0.20750000000000002,10
+memphis,2021-11-01,Total dissolved solids,133.2,149.0,10
+memphis,2021-12-01,Chloride,6.14,6.14,1
+memphis,2021-12-01,Phosphorus,0.33135,0.3275,8
+memphis,2021-12-01,Total dissolved solids,171.375,165.5,8
+riverview,2012-01-01,Chloride,28.7,28.7,1
+riverview,2012-01-01,Specific conductance,491.65,491.65,2
+riverview,2012-01-01,Sulfate,65.8,65.8,2
+riverview,2012-01-01,Total dissolved solids,298.0,298.0,1
+riverview,2012-02-01,Sulfate,67.0,67.0,1
+riverview,2012-03-01,Chloride,33.0,32.0,3
+riverview,2012-03-01,Sulfate,24.0,24.0,4
+riverview,2012-03-01,Total dissolved solids,195.33333333333334,188.0,3
+riverview,2012-04-01,Chloride,32.4,32.4,2
+riverview,2012-04-01,Specific conductance,485.3,485.3,2
+riverview,2012-04-01,Sulfate,47.4,53.0,3
+riverview,2012-04-01,Total dissolved solids,276.5,276.5,2
+riverview,2012-05-01,Chloride,69.0,69.0,1
+riverview,2012-05-01,Sulfate,25.0,25.0,2
+riverview,2012-05-01,Total dissolved solids,297.0,297.0,1
+riverview,2012-06-01,Chloride,51.0,51.0,1
+riverview,2012-06-01,Sulfate,40.0,40.0,2
+riverview,2012-06-01,Total dissolved solids,304.0,304.0,1
+riverview,2012-07-01,Chloride,24.4,24.4,2
+riverview,2012-07-01,Specific conductance,499.5,499.5,2
+riverview,2012-07-01,Sulfate,54.300000000000004,68.9,3
+riverview,2012-07-01,Total dissolved solids,213.0,213.0,2
+riverview,2012-08-01,Chloride,7.8,7.8,1
+riverview,2012-08-01,Sulfate,18.45,18.45,2
+riverview,2012-08-01,Total dissolved solids,101.0,101.0,1
+riverview,2012-09-01,Chloride,15.0,15.0,1
+riverview,2012-09-01,Sulfate,40.5,40.5,2
+riverview,2012-09-01,Total dissolved solids,126.0,126.0,1
+riverview,2012-10-01,Chloride,24.95,24.95,2
+riverview,2012-10-01,Specific conductance,503.0,503.0,2
+riverview,2012-10-01,Sulfate,54.699999999999996,67.1,3
+riverview,2012-10-01,Total dissolved solids,219.0,219.0,2
+riverview,2012-11-01,Chloride,20.0,20.0,2
+riverview,2012-11-01,Sulfate,39.666666666666664,16.0,3
+riverview,2012-11-01,Total dissolved solids,127.0,127.0,2
+riverview,2012-12-01,Chloride,41.0,41.0,1
+riverview,2012-12-01,Sulfate,57.5,57.5,2
+riverview,2012-12-01,Total dissolved solids,209.0,209.0,1
+riverview,2013-01-01,Chloride,30.0,30.0,1
+riverview,2013-01-01,Specific conductance,498.85,498.85,2
+riverview,2013-01-01,Sulfate,71.5,71.5,2
+riverview,2013-01-01,Total dissolved solids,316.0,316.0,1
+riverview,2013-02-01,Sulfate,83.0,83.0,1
+riverview,2013-03-01,Sulfate,75.0,75.0,1
+riverview,2013-04-01,Chloride,27.633333333333336,27.0,3
+riverview,2013-04-01,Specific conductance,493.7,493.7,2
+riverview,2013-04-01,Sulfate,93.05,93.05,2
+riverview,2013-04-01,Total dissolved solids,318.3333333333333,332.0,3
+riverview,2013-05-01,Sulfate,102.0,102.0,1
+riverview,2013-06-01,Chloride,45.0,45.0,2
+riverview,2013-06-01,Sulfate,161.0,161.0,1
+riverview,2013-06-01,Total dissolved solids,316.0,316.0,2
+riverview,2013-07-01,Chloride,30.2,30.2,1
+riverview,2013-07-01,Specific conductance,504.25,504.25,2
+riverview,2013-07-01,Sulfate,64.55,64.55,2
+riverview,2013-07-01,Total dissolved solids,296.0,296.0,1
+riverview,2013-08-01,Sulfate,48.0,48.0,1
+riverview,2013-09-01,Sulfate,50.0,50.0,1
+riverview,2013-10-01,Chloride,31.7,31.7,1
+riverview,2013-10-01,Specific conductance,506.8,506.8,2
+riverview,2013-10-01,Sulfate,75.35,75.35,2
+riverview,2013-10-01,Total dissolved solids,301.0,301.0,1
+riverview,2013-11-01,Sulfate,76.0,76.0,1
+riverview,2013-12-01,Sulfate,77.0,77.0,1
+riverview,2014-01-01,Sulfate,126.0,126.0,2
+riverview,2014-02-01,Chloride,30.2,30.2,1
+riverview,2014-02-01,Specific conductance,505.0,505.0,2
+riverview,2014-02-01,Sulfate,65.6,65.6,1
+riverview,2014-02-01,Total dissolved solids,297.0,297.0,1
+riverview,2014-05-01,Chloride,30.8,30.8,1
+riverview,2014-05-01,Specific conductance,504.75,504.75,2
+riverview,2014-05-01,Sulfate,76.25,76.25,2
+riverview,2014-05-01,Total dissolved solids,299.0,299.0,1
+riverview,2014-06-01,Sulfate,80.0,80.0,1
+riverview,2014-07-01,Chloride,25.25,25.25,2
+riverview,2014-07-01,Specific conductance,309.74,185.0,5
+riverview,2014-07-01,Sulfate,50.13333333333333,67.4,3
+riverview,2014-07-01,Total dissolved solids,220.5,220.5,2
+riverview,2014-08-01,Sulfate,78.0,78.0,1
+riverview,2014-09-01,Sulfate,55.0,55.0,1
+riverview,2014-10-01,Chloride,31.7,31.7,1
+riverview,2014-10-01,Specific conductance,505.8,505.8,2
+riverview,2014-10-01,Sulfate,85.45,85.45,2
+riverview,2014-10-01,Total dissolved solids,310.0,310.0,1
+riverview,2014-11-01,Sulfate,91.0,91.0,1
+riverview,2014-12-01,Sulfate,77.0,77.0,1
+riverview,2015-01-01,Chloride,31.8,31.8,1
+riverview,2015-01-01,Specific conductance,509.4,509.4,2
+riverview,2015-01-01,Sulfate,74.7,74.7,2
+riverview,2015-01-01,Total dissolved solids,298.0,298.0,1
+riverview,2015-02-01,Sulfate,92.0,92.0,1
+riverview,2015-03-01,Sulfate,110.0,110.0,1
+riverview,2015-04-01,Chloride,32.4,32.4,1
+riverview,2015-04-01,Specific conductance,511.7,511.7,2
+riverview,2015-04-01,Sulfate,99.5,99.5,2
+riverview,2015-04-01,Total dissolved solids,301.0,301.0,1
+riverview,2015-05-01,Sulfate,86.0,86.0,1
+riverview,2015-06-01,Sulfate,119.0,119.0,1
+riverview,2015-07-01,Chloride,30.6,30.6,1
+riverview,2015-07-01,Specific conductance,497.6,497.6,2
+riverview,2015-07-01,Sulfate,71.4,71.4,2
+riverview,2015-07-01,Total dissolved solids,296.0,296.0,1
+riverview,2015-08-01,Sulfate,45.0,45.0,1
+riverview,2015-09-01,Sulfate,71.0,71.0,1
+riverview,2015-10-01,Chloride,33.5,33.5,1
+riverview,2015-10-01,Specific conductance,502.35,502.35,2
+riverview,2015-10-01,Sulfate,78.15,78.15,2
+riverview,2015-10-01,Total dissolved solids,298.0,298.0,1
+riverview,2015-11-01,Sulfate,80.0,80.0,1
+riverview,2015-12-01,Sulfate,100.0,100.0,1
+riverview,2016-01-01,Chloride,32.7,32.7,1
+riverview,2016-01-01,Phosphorus,0.041,0.041,1
+riverview,2016-01-01,Specific conductance,504.4,504.4,2
+riverview,2016-01-01,Sulfate,73.8,73.8,2
+riverview,2016-02-01,Chloride,28.0,28.0,2
+riverview,2016-02-01,Specific conductance,573.0,573.0,4
+riverview,2016-02-01,Sulfate,57.800000000000004,41.2,3
+riverview,2016-02-01,Total dissolved solids,347.0,347.0,1
+riverview,2016-03-01,Chloride,29.2,29.2,2
+riverview,2016-03-01,Specific conductance,588.55,588.55,4
+riverview,2016-03-01,Sulfate,82.66666666666667,83.5,3
+riverview,2016-03-01,Total dissolved solids,394.0,394.0,1
+riverview,2016-04-01,Chloride,32.5,32.5,1
+riverview,2016-04-01,Phosphorus,0.041,0.041,1
+riverview,2016-04-01,Specific conductance,506.95,506.95,2
+riverview,2016-04-01,Sulfate,76.65,76.65,2
+riverview,2016-05-01,Sulfate,78.0,78.0,1
+riverview,2016-06-01,Sulfate,95.0,95.0,1
+riverview,2016-07-01,Chloride,32.8,32.8,1
+riverview,2016-07-01,Phosphorus,0.044,0.044,1
+riverview,2016-07-01,Specific conductance,501.15,501.15,2
+riverview,2016-07-01,Sulfate,74.15,74.15,2
+riverview,2016-08-01,Sulfate,89.0,89.0,1
+riverview,2016-09-01,Sulfate,57.0,57.0,1
+riverview,2016-10-01,Chloride,33.0,33.0,1
+riverview,2016-10-01,Phosphorus,1.0676666666666668,1.21,9
+riverview,2016-10-01,Specific conductance,3715.783146067416,480.0,89
+riverview,2016-10-01,Sulfate,80.3,80.3,2
+riverview,2016-11-01,Phosphorus,0.865375,0.837,8
+riverview,2016-11-01,Specific conductance,12727.138888888889,7534.0,72
+riverview,2016-11-01,Sulfate,99.0,99.0,1
+riverview,2016-12-01,Phosphorus,0.7967500000000001,0.8015000000000001,8
+riverview,2016-12-01,Specific conductance,14936.739726027397,11662.0,73
+riverview,2016-12-01,Sulfate,116.0,116.0,1
+riverview,2017-01-01,Phosphorus,0.66525,0.7175,8
+riverview,2017-01-01,Specific conductance,14707.39175257732,13114.0,97
+riverview,2017-01-01,Sulfate,96.0,96.0,1
+riverview,2017-02-01,Chloride,29.333333333333332,28.4,3
+riverview,2017-02-01,Phosphorus,0.6432222222222221,0.69,9
+riverview,2017-02-01,Specific conductance,17322.080412371135,17339.0,97
+riverview,2017-02-01,Sulfate,62.025,54.15,4
+riverview,2017-02-01,Total dissolved solids,348.0,348.0,1
+riverview,2017-03-01,Chloride,26.53333333333333,33.3,3
+riverview,2017-03-01,Phosphorus,0.94275,0.64,4
+riverview,2017-03-01,Specific conductance,17949.459285714285,18308.0,98
+riverview,2017-03-01,Sulfate,68.55,84.1,4
+riverview,2017-03-01,Total dissolved solids,235.0,235.0,2
+riverview,2017-04-01,Chloride,31.133333333333336,30.9,3
+riverview,2017-04-01,Phosphorus,0.5846666666666667,0.7455,6
+riverview,2017-04-01,Specific conductance,12907.647252747252,11465.0,91
+riverview,2017-04-01,Sulfate,67.675,72.35,4
+riverview,2017-04-01,Total dissolved solids,243.0,243.0,2
+riverview,2017-05-01,Chloride,31.3,31.3,2
+riverview,2017-05-01,Phosphorus,0.47359999999999997,0.471,5
+riverview,2017-05-01,Specific conductance,23094.640625,23146.0,64
+riverview,2017-05-01,Sulfate,90.66666666666667,113.0,3
+riverview,2017-05-01,Total dissolved solids,274.0,274.0,2
+riverview,2017-06-01,Chloride,32.93333333333333,36.0,3
+riverview,2017-06-01,Phosphorus,0.6432,0.633,5
+riverview,2017-06-01,Specific conductance,12424.42857142857,7631.0,91
+riverview,2017-06-01,Sulfate,125.25,141.0,4
+riverview,2017-06-01,Total dissolved solids,316.0,337.0,3
+riverview,2017-07-01,Chloride,26.766666666666666,29.0,3
+riverview,2017-07-01,Phosphorus,1.3297,1.1785,10
+riverview,2017-07-01,Specific conductance,3567.8506329113925,326.0,79
+riverview,2017-07-01,Sulfate,60.724999999999994,67.44999999999999,4
+riverview,2017-07-01,Total dissolved solids,246.66666666666666,260.0,3
+riverview,2017-08-01,Chloride,16.115000000000002,16.115000000000002,2
+riverview,2017-08-01,Phosphorus,0.9036428571428571,1.044,14
+riverview,2017-08-01,Specific conductance,1585.6707317073171,331.0,82
+riverview,2017-08-01,Sulfate,45.5,49.0,3
+riverview,2017-08-01,Total dissolved solids,167.0,167.0,2
+riverview,2017-09-01,Chloride,26.8,26.8,1
+riverview,2017-09-01,Phosphorus,1.4402222222222223,1.461,9
+riverview,2017-09-01,Specific conductance,1015.8703703703703,420.0,81
+riverview,2017-09-01,Sulfate,57.95,57.95,2
+riverview,2017-09-01,Total dissolved solids,257.0,257.0,1
+riverview,2017-10-01,Chloride,34.86666666666667,36.0,3
+riverview,2017-10-01,Phosphorus,0.9701818181818183,1.1,11
+riverview,2017-10-01,Specific conductance,3937.897590361446,378.0,83
+riverview,2017-10-01,Sulfate,57.0,63.0,4
+riverview,2017-10-01,Total dissolved solids,262.0,306.0,3
+riverview,2017-11-01,Chloride,34.4,34.4,1
+riverview,2017-11-01,Phosphorus,0.5531538461538461,0.65,13
+riverview,2017-11-01,Specific conductance,20093.275862068964,21922.0,87
+riverview,2017-11-01,Sulfate,80.15,80.15,2
+riverview,2017-11-01,Total dissolved solids,278.0,278.0,1
+riverview,2017-12-01,Chloride,30.4,30.4,1
+riverview,2017-12-01,Phosphorus,0.7278888888888889,0.696,9
+riverview,2017-12-01,Specific conductance,10681.781333333332,4041.0,75
+riverview,2017-12-01,Sulfate,111.9,111.9,2
+riverview,2017-12-01,Total dissolved solids,307.0,307.0,1
+riverview,2018-01-01,Chloride,25.55,25.55,2
+riverview,2018-01-01,Phosphorus,0.6369,0.611,10
+riverview,2018-01-01,Specific conductance,9295.19696969697,5981.0,66
+riverview,2018-01-01,Sulfate,80.60000000000001,69.8,3
+riverview,2018-01-01,Total dissolved solids,236.0,236.0,2
+riverview,2018-02-01,Chloride,31.266666666666666,31.0,3
+riverview,2018-02-01,Phosphorus,0.6062,0.76,15
+riverview,2018-02-01,Specific conductance,1859.625,345.25,60
+riverview,2018-02-01,Sulfate,91.075,92.0,4
+riverview,2018-02-01,Total dissolved solids,294.0,307.0,3
+riverview,2018-03-01,Chloride,35.05,35.05,2
+riverview,2018-03-01,Phosphorus,0.4852,0.483,10
+riverview,2018-03-01,Specific conductance,20407.2125,22484.5,80
+riverview,2018-03-01,Sulfate,80.73333333333333,77.0,3
+riverview,2018-03-01,Total dissolved solids,324.5,324.5,2
+riverview,2018-04-01,Chloride,31.400000000000002,33.6,3
+riverview,2018-04-01,Phosphorus,0.5394444444444444,0.583,9
+riverview,2018-04-01,Specific conductance,6817.974358974359,5312.0,78
+riverview,2018-04-01,Sulfate,88.075,92.65,4
+riverview,2018-04-01,Total dissolved solids,348.3333333333333,345.0,3
+riverview,2018-05-01,Chloride,26.05,25.35,4
+riverview,2018-05-01,Phosphorus,0.640375,0.5565,16
+riverview,2018-05-01,Specific conductance,5786.807804878049,342.45,82
+riverview,2018-05-01,Sulfate,59.5,64.0,5
+riverview,2018-05-01,Total dissolved solids,273.0,254.5,4
+riverview,2018-06-01,Chloride,12.5,12.5,1
+riverview,2018-06-01,Phosphorus,1.154777777777778,1.22,9
+riverview,2018-06-01,Specific conductance,2238.8761904761905,366.2,84
+riverview,2018-06-01,Sulfate,33.25,33.25,2
+riverview,2018-06-01,Total dissolved solids,164.0,164.0,1
+riverview,2018-07-01,Chloride,25.8,25.8,2
+riverview,2018-07-01,Phosphorus,1.0295,1.1015000000000001,10
+riverview,2018-07-01,Specific conductance,254.81704545454548,252.55,88
+riverview,2018-07-01,Sulfate,40.300000000000004,39.0,3
+riverview,2018-07-01,Total dissolved solids,222.5,222.5,2
+riverview,2018-08-01,Chloride,31.15,31.15,2
+riverview,2018-08-01,Phosphorus,0.7664285714285713,0.9804999999999999,14
+riverview,2018-08-01,Specific conductance,286.04146341463417,285.4,82
+riverview,2018-08-01,Sulfate,50.166666666666664,45.5,3
+riverview,2018-08-01,Total dissolved solids,195.0,195.0,2
+riverview,2018-09-01,Chloride,24.1,24.1,1
+riverview,2018-09-01,Phosphorus,1.0515555555555556,1.08,9
+riverview,2018-09-01,Specific conductance,1148.2173913043478,315.0,92
+riverview,2018-09-01,Sulfate,65.65,65.65,2
+riverview,2018-09-01,Total dissolved solids,232.0,232.0,1
+riverview,2018-10-01,Chloride,31.45,31.45,2
+riverview,2018-10-01,Phosphorus,0.7574,0.7535000000000001,10
+riverview,2018-10-01,Specific conductance,9186.70588235294,5337.0,85
+riverview,2018-10-01,Sulfate,72.43333333333334,72.0,3
+riverview,2018-10-01,Total dissolved solids,306.0,306.0,2
+riverview,2018-11-01,Chloride,27.4,27.4,1
+riverview,2018-11-01,Phosphorus,0.6004999999999999,0.716,12
+riverview,2018-11-01,Specific conductance,8623.03947368421,4797.0,76
+riverview,2018-11-01,Sulfate,90.4,90.4,2
+riverview,2018-11-01,Total dissolved solids,26.0,26.0,1
+riverview,2018-12-01,Chloride,19.266666666666666,17.2,3
+riverview,2018-12-01,Phosphorus,0.643090909090909,0.673,11
+riverview,2018-12-01,Specific conductance,17712.26966292135,15441.0,89
+riverview,2018-12-01,Sulfate,66.325,65.8,4
+riverview,2018-12-01,Total dissolved solids,220.66666666666666,198.0,3
+riverview,2019-01-01,Chloride,19.7,19.7,1
+riverview,2019-01-01,Phosphorus,0.8507777777777777,0.727,9
+riverview,2019-01-01,Specific conductance,1098.3174999999999,489.4,40
+riverview,2019-01-01,Sulfate,38.0,38.0,2
+riverview,2019-01-01,Total dissolved solids,170.0,170.0,1
+riverview,2019-02-01,Chloride,32.65,32.65,2
+riverview,2019-02-01,Phosphorus,0.581857142857143,0.749,14
+riverview,2019-02-01,Specific conductance,3476.0677966101694,541.0,59
+riverview,2019-02-01,Sulfate,68.7,67.8,3
+riverview,2019-02-01,Total dissolved solids,285.0,285.0,2
+riverview,2019-03-01,Chloride,27.96666666666667,28.0,3
+riverview,2019-03-01,Phosphorus,0.6628999999999999,0.6910000000000001,10
+riverview,2019-03-01,Specific conductance,453.9942307692308,379.35,52
+riverview,2019-03-01,Sulfate,57.975,58.45,4
+riverview,2019-03-01,Total dissolved solids,227.66666666666666,185.0,3
+riverview,2019-04-01,Chloride,86.64,32.3,5
+riverview,2019-04-01,Phosphorus,0.43524999999999997,0.502,12
+riverview,2019-04-01,Specific conductance,9276.553846153845,7349.0,65
+riverview,2019-04-01,Sulfate,82.05,78.0,6
+riverview,2019-04-01,Total dissolved solids,450.0,340.0,5
+riverview,2019-05-01,Chloride,35.3,35.3,2
+riverview,2019-05-01,Phosphorus,0.35185714285714287,0.4185,14
+riverview,2019-05-01,Specific conductance,13437.068965517241,11537.0,58
+riverview,2019-05-01,Sulfate,67.3,85.9,3
+riverview,2019-05-01,Total dissolved solids,256.5,256.5,2
+riverview,2019-06-01,Chloride,19.6,19.6,1
+riverview,2019-06-01,Phosphorus,0.816,0.86,9
+riverview,2019-06-01,Specific conductance,8531.066666666668,5578.5,60
+riverview,2019-06-01,Sulfate,82.85,82.85,2
+riverview,2019-06-01,Total dissolved solids,268.0,268.0,1
+riverview,2019-07-01,Chloride,23.45,23.45,2
+riverview,2019-07-01,Phosphorus,0.8237,0.863,10
+riverview,2019-07-01,Specific conductance,12255.525408163265,5346.0,98
+riverview,2019-07-01,Sulfate,43.23333333333334,39.0,3
+riverview,2019-07-01,Total dissolved solids,240.0,240.0,2
+riverview,2019-08-01,Chloride,9.6,9.6,1
+riverview,2019-08-01,Phosphorus,0.889,0.99,13
+riverview,2019-08-01,Specific conductance,294.9938271604938,299.0,81
+riverview,2019-08-01,Sulfate,28.5,28.5,2
+riverview,2019-08-01,Total dissolved solids,138.0,138.0,1
+riverview,2019-09-01,Chloride,31.3,31.3,1
+riverview,2019-09-01,Phosphorus,0.8561111111111112,0.803,9
+riverview,2019-09-01,Specific conductance,2296.89693877551,473.35,98
+riverview,2019-09-01,Sulfate,70.95,70.95,2
+riverview,2019-09-01,Total dissolved solids,154.0,154.0,1
+riverview,2019-10-01,Chloride,27.1,27.1,2
+riverview,2019-10-01,Phosphorus,0.7288,0.7785,10
+riverview,2019-10-01,Specific conductance,21142.759493670885,22555.0,79
+riverview,2019-10-01,Sulfate,63.0,65.6,3
+riverview,2019-10-01,Total dissolved solids,283.5,283.5,2
+riverview,2019-11-01,Chloride,27.4,27.4,1
+riverview,2019-11-01,Phosphorus,0.5494166666666667,0.5465,12
+riverview,2019-11-01,Specific conductance,7908.51294117647,1930.0,85
+riverview,2019-11-01,Sulfate,71.15,71.15,2
+riverview,2019-11-01,Total dissolved solids,272.0,272.0,1
+riverview,2019-12-01,Chloride,26.0,26.0,1
+riverview,2019-12-01,Phosphorus,0.5416000000000001,0.5814999999999999,10
+riverview,2019-12-01,Specific conductance,13982.539325842698,10905.0,89
+riverview,2019-12-01,Sulfate,78.35,78.35,2
+riverview,2019-12-01,Total dissolved solids,268.0,268.0,1
+riverview,2020-01-01,Chloride,33.349999999999994,33.349999999999994,2
+riverview,2020-01-01,Phosphorus,0.5417,0.608,10
+riverview,2020-01-01,Specific conductance,9872.965517241379,7897.0,87
+riverview,2020-01-01,Sulfate,90.43333333333334,97.1,3
+riverview,2020-01-01,Total dissolved solids,327.0,327.0,2
+riverview,2020-02-01,Chloride,26.8,26.8,1
+riverview,2020-02-01,Phosphorus,0.4090833333333333,0.4905,12
+riverview,2020-02-01,Specific conductance,10784.22972972973,8245.5,74
+riverview,2020-02-01,Sulfate,85.35,85.35,2
+riverview,2020-02-01,Total dissolved solids,296.0,296.0,1
+riverview,2020-03-01,Chloride,30.3,32.8,5
+riverview,2020-03-01,Phosphorus,0.37083333333333335,0.476,6
+riverview,2020-03-01,Specific conductance,11691.628571428571,6626.0,70
+riverview,2020-03-01,Sulfate,64.66,83.2,5
+riverview,2020-03-01,Total dissolved solids,364.0,348.0,5
+riverview,2020-04-01,Chloride,31.45,31.45,2
+riverview,2020-04-01,Phosphorus,0.32166666666666666,0.3625,6
+riverview,2020-04-01,Specific conductance,18767.376811594204,17952.0,69
+riverview,2020-04-01,Sulfate,115.7,115.7,2
+riverview,2020-04-01,Total dissolved solids,365.5,365.5,2
+riverview,2020-05-01,Chloride,37.4,37.4,1
+riverview,2020-05-01,Phosphorus,0.8542000000000002,0.4,5
+riverview,2020-05-01,Specific conductance,12224.925925925925,11100.0,54
+riverview,2020-05-01,Sulfate,110.0,110.0,1
+riverview,2020-05-01,Total dissolved solids,372.0,372.0,1
+riverview,2020-06-01,Chloride,47.6,47.6,1
+riverview,2020-06-01,Phosphorus,0.6035999999999999,0.629,10
+riverview,2020-06-01,Specific conductance,6399.50655737705,396.2,61
+riverview,2020-06-01,Sulfate,146.0,146.0,1
+riverview,2020-06-01,Total dissolved solids,433.0,433.0,1
+riverview,2020-07-01,Chloride,33.8,33.8,1
+riverview,2020-07-01,Phosphorus,0.85675,0.8255,8
+riverview,2020-07-01,Specific conductance,9974.527027027027,5309.0,74
+riverview,2020-07-01,Sulfate,71.6,71.6,1
+riverview,2020-07-01,Total dissolved solids,303.0,303.0,1
+riverview,2020-08-01,Chloride,30.5,30.5,2
+riverview,2020-08-01,Phosphorus,1.1289166666666668,1.411,12
+riverview,2020-08-01,Specific conductance,8162.527397260274,1044.0,73
+riverview,2020-08-01,Sulfate,67.6,67.6,2
+riverview,2020-08-01,Total dissolved solids,308.0,308.0,2
+riverview,2020-09-01,Chloride,13.0,13.0,1
+riverview,2020-09-01,Phosphorus,1.4121000000000001,1.5415,10
+riverview,2020-09-01,Specific conductance,907.1,335.8,69
+riverview,2020-09-01,Sulfate,24.0,24.0,1
+riverview,2020-09-01,Total dissolved solids,183.0,183.0,1
+riverview,2020-10-01,Chloride,32.45,32.45,2
+riverview,2020-10-01,Phosphorus,0.9355,0.991,14
+riverview,2020-10-01,Specific conductance,9868.940983606557,2266.0,183
+riverview,2020-10-01,Sulfate,64.25,64.25,2
+riverview,2020-10-01,Total dissolved solids,313.0,313.0,2
+riverview,2020-11-01,Chloride,21.9,21.9,1
+riverview,2020-11-01,Phosphorus,0.8913076923076922,0.916,13
+riverview,2020-11-01,Specific conductance,6207.186111111111,426.7,144
+riverview,2020-11-01,Sulfate,56.0,56.0,1
+riverview,2020-11-01,Total dissolved solids,277.0,277.0,1
+riverview,2020-12-01,Chloride,17.8,17.8,1
+riverview,2020-12-01,Phosphorus,0.7470666666666667,0.785,15
+riverview,2020-12-01,Specific conductance,3295.3916666666664,428.05,156
+riverview,2020-12-01,Sulfate,34.9,34.9,1
+riverview,2020-12-01,Total dissolved solids,189.0,189.0,1
+riverview,2021-01-01,Chloride,29.75,29.75,2
+riverview,2021-01-01,Phosphorus,0.8654285714285714,0.9470000000000001,14
+riverview,2021-01-01,Specific conductance,8230.81856287425,1953.0,167
+riverview,2021-01-01,Sulfate,74.85,74.85,2
+riverview,2021-01-01,Total dissolved solids,323.0,323.0,2
+riverview,2021-02-01,Chloride,24.0,24.0,2
+riverview,2021-02-01,Phosphorus,0.8867857142857142,0.9644999999999999,14
+riverview,2021-02-01,Specific conductance,2213.9935064935066,464.8,154
+riverview,2021-02-01,Sulfate,86.8,86.8,2
+riverview,2021-02-01,Total dissolved solids,322.0,322.0,2
+riverview,2021-03-01,Chloride,28.5,27.0,3
+riverview,2021-03-01,Phosphorus,0.8429333333333333,0.951,15
+riverview,2021-03-01,Specific conductance,3040.5666666666666,586.5,150
+riverview,2021-03-01,Sulfate,74.43333333333334,88.8,3
+riverview,2021-03-01,Total dissolved solids,357.6666666666667,369.0,3
+riverview,2021-04-01,Chloride,28.85,28.85,2
+riverview,2021-04-01,Phosphorus,0.6611538461538462,0.691,13
+riverview,2021-04-01,Specific conductance,9014.915625,1718.5,160
+riverview,2021-04-01,Sulfate,88.25,88.25,2
+riverview,2021-04-01,Total dissolved solids,341.0,341.0,2
+riverview,2021-05-01,Chloride,26.0,26.0,1
+riverview,2021-05-01,Phosphorus,0.49778571428571433,0.5185,14
+riverview,2021-05-01,Specific conductance,15654.434782608696,15039.0,161
+riverview,2021-05-01,Sulfate,100.0,100.0,1
+riverview,2021-05-01,Total dissolved solids,88.8,88.8,1
+riverview,2021-06-01,Chloride,21.0,21.0,1
+riverview,2021-06-01,Phosphorus,0.5420769230769231,0.552,13
+riverview,2021-06-01,Specific conductance,11174.6615,7969.0,180
+riverview,2021-06-01,Sulfate,66.0,66.0,1
+riverview,2021-06-01,Total dissolved solids,236.0,236.0,1
+riverview,2021-07-01,Chloride,27.0,27.0,1
+riverview,2021-07-01,Phosphorus,0.9495384615384617,0.926,13
+riverview,2021-07-01,Specific conductance,806.4530201342282,374.2,149
+riverview,2021-07-01,Sulfate,78.5,78.5,2
+riverview,2021-07-01,Total dissolved solids,270.0,270.0,1
+riverview,2021-08-01,Chloride,31.0,31.0,1
+riverview,2021-08-01,Phosphorus,0.77675,0.8140000000000001,16
+riverview,2021-08-01,Specific conductance,3601.8691358024694,510.5,162
+riverview,2021-08-01,Sulfate,67.5,67.5,2
+riverview,2021-08-01,Total dissolved solids,303.0,303.0,1
+riverview,2021-09-01,Chloride,22.0,22.0,1
+riverview,2021-09-01,Phosphorus,0.9142857142857144,1.0150000000000001,14
+riverview,2021-09-01,Specific conductance,2299.2483695652177,330.5,184
+riverview,2021-09-01,Sulfate,58.0,58.0,2
+riverview,2021-09-01,Total dissolved solids,241.0,241.0,1
+riverview,2021-10-01,Chloride,26.0,26.0,1
+riverview,2021-10-01,Phosphorus,0.8913846153846154,0.886,13
+riverview,2021-10-01,Specific conductance,7535.092500000001,2601.5,160
+riverview,2021-10-01,Sulfate,69.0,69.0,2
+riverview,2021-10-01,Total dissolved solids,274.0,274.0,1
+riverview,2021-11-01,Chloride,24.6,24.6,1
+riverview,2021-11-01,Phosphorus,0.6463125,0.7284999999999999,16
+riverview,2021-11-01,Specific conductance,2581.392156862745,307.0,153
+riverview,2021-11-01,Sulfate,67.25,67.25,2
+riverview,2021-11-01,Total dissolved solids,271.0,271.0,1
+riverview,2021-12-01,Chloride,26.0,26.0,1
+riverview,2021-12-01,Phosphorus,0.5566428571428571,0.6365000000000001,14
+riverview,2021-12-01,Specific conductance,10686.57818181818,7500.0,165
+riverview,2021-12-01,Sulfate,74.8,74.8,2
+riverview,2021-12-01,Total dissolved solids,306.0,306.0,1
+riverview,2022-01-01,Chloride,31.133333333333336,33.4,3
+riverview,2022-01-01,Phosphorus,0.5001333333333333,0.564,15
+riverview,2022-01-01,Specific conductance,5755.2835820895525,1141.0,134
+riverview,2022-01-01,Sulfate,67.7,67.1,4
+riverview,2022-01-01,Total dissolved solids,290.6666666666667,309.0,3
+riverview,2022-02-01,Chloride,29.6,29.6,1
+riverview,2022-02-01,Phosphorus,0.4285,0.469,16
+riverview,2022-02-01,Specific conductance,12345.427215189873,9585.5,158
+riverview,2022-02-01,Sulfate,78.1,78.1,2
+riverview,2022-02-01,Total dissolved solids,298.0,298.0,1
+riverview,2022-03-01,Chloride,33.3,33.3,1
+riverview,2022-03-01,Phosphorus,0.5843571428571428,0.6034999999999999,14
+riverview,2022-03-01,Specific conductance,8649.356666666667,6164.5,150
+riverview,2022-03-01,Sulfate,87.0,87.0,2
+riverview,2022-03-01,Total dissolved solids,354.0,354.0,1
+riverview,2022-04-01,Chloride,42.6,42.6,2
+riverview,2022-04-01,Phosphorus,0.6545714285714286,0.6825000000000001,14
+riverview,2022-04-01,Specific conductance,16849.691852150536,17001.33,186
+riverview,2022-04-01,Sulfate,73.93333333333334,71.0,3
+riverview,2022-04-01,Total dissolved solids,333.5,333.5,2
+riverview,2022-05-01,Chloride,64.9,64.9,1
+riverview,2022-05-01,Phosphorus,0.7996666666666666,0.82,15
+riverview,2022-05-01,Specific conductance,15897.082363725489,16759.25,204
+riverview,2022-05-01,Sulfate,62.2,62.2,2
+riverview,2022-05-01,Total dissolved solids,354.0,354.0,1
+riverview,2022-06-01,Chloride,28.2,28.2,1
+riverview,2022-06-01,Phosphorus,0.6353571428571428,0.698,14
+riverview,2022-06-01,Specific conductance,12474.9213836478,7035.0,159
+riverview,2022-06-01,Sulfate,74.65,74.65,2
+riverview,2022-06-01,Total dissolved solids,335.0,335.0,1
+riverview,2022-07-01,Chloride,29.2,29.2,2
+riverview,2022-07-01,Phosphorus,0.5767857142857142,0.6475,14
+riverview,2022-07-01,Specific conductance,13140.103089784945,8240.499,186
+riverview,2022-07-01,Sulfate,88.36666666666667,96.0,3
+riverview,2022-07-01,Total dissolved solids,337.5,337.5,2
+riverview,2022-08-01,Chloride,18.8,18.8,1
+riverview,2022-08-01,Phosphorus,0.8885882352941177,0.81,17
+riverview,2022-08-01,Specific conductance,12142.166950314466,7715.359,159
+riverview,2022-08-01,Sulfate,59.6,59.6,2
+riverview,2022-08-01,Total dissolved solids,209.0,209.0,1
+riverview,2022-09-01,Chloride,18.35,18.35,2
+riverview,2022-09-01,Phosphorus,1.2164545454545455,1.35,11
+riverview,2022-09-01,Specific conductance,2821.0016400000004,354.9706,195
+riverview,2022-09-01,Sulfate,24.900000000000002,24.900000000000002,2
+riverview,2022-09-01,Total dissolved solids,10.0,10.0,1
+riverview,2022-10-01,Chloride,29.85,29.85,2
+riverview,2022-10-01,Phosphorus,0.9990714285714286,0.9904999999999999,14
+riverview,2022-10-01,Specific conductance,4427.560883792049,396.9874,327
+riverview,2022-10-01,Sulfate,56.300000000000004,52.0,3
+riverview,2022-10-01,Total dissolved solids,284.0,284.0,2
+riverview,2022-11-01,Chloride,32.2,32.2,1
+riverview,2022-11-01,Phosphorus,0.7835,0.8594999999999999,16
+riverview,2022-11-01,Specific conductance,10769.752624242425,6363.752,330
+riverview,2022-11-01,Sulfate,67.75,67.75,2
+riverview,2022-11-01,Total dissolved solids,292.0,292.0,1
+riverview,2022-12-01,Chloride,34.7,34.7,1
+riverview,2022-12-01,Phosphorus,0.6846428571428572,0.733,14
+riverview,2022-12-01,Specific conductance,12839.354731481482,8174.0535,324
+riverview,2022-12-01,Sulfate,64.85,64.85,2
+riverview,2022-12-01,Total dissolved solids,284.0,284.0,1
+sacramento,2011-01-01,Chloride,7.6,5.0,5
+sacramento,2011-01-01,Specific conductance,147.93333333333334,131.55,6
+sacramento,2011-01-01,Sulfate,7.2,6.0,5
+sacramento,2011-01-01,Total dissolved solids,97.75,95.0,4
+sacramento,2011-01-01,pH,7.766666666666667,7.7,6
+sacramento,2011-02-01,Chloride,4.0,4.0,2
+sacramento,2011-02-01,Specific conductance,119.75,120.5,4
+sacramento,2011-02-01,Sulfate,5.0,5.0,2
+sacramento,2011-02-01,Total dissolved solids,73.5,73.5,2
+sacramento,2011-02-01,pH,7.733333333333333,7.8,6
+sacramento,2011-03-01,Specific conductance,97.5,92.5,4
+sacramento,2011-03-01,pH,7.7,7.6,3
+sacramento,2011-04-01,Specific conductance,88.81666666666666,92.0,6
+sacramento,2011-04-01,pH,7.566666666666667,7.4,3
+sacramento,2011-05-01,Chloride,2.0,2.0,2
+sacramento,2011-05-01,Specific conductance,81.5,75.5,4
+sacramento,2011-05-01,Sulfate,3.0,3.0,2
+sacramento,2011-05-01,Total dissolved solids,55.0,55.0,2
+sacramento,2011-05-01,pH,7.7,7.7,4
+sacramento,2011-06-01,Chloride,2.5,2.5,2
+sacramento,2011-06-01,Specific conductance,82.8,78.0,5
+sacramento,2011-06-01,Sulfate,4.5,4.5,2
+sacramento,2011-06-01,Total dissolved solids,59.0,59.0,2
+sacramento,2011-06-01,pH,7.625,7.6,4
+sacramento,2011-07-01,Chloride,2.5,2.5,2
+sacramento,2011-07-01,Specific conductance,101.8,118.0,5
+sacramento,2011-07-01,Sulfate,3.0,3.0,2
+sacramento,2011-07-01,Total dissolved solids,50.5,50.5,2
+sacramento,2011-07-01,pH,7.5,7.5,2
+sacramento,2011-08-01,Chloride,2.0,2.0,2
+sacramento,2011-08-01,Specific conductance,121.4,136.0,5
+sacramento,2011-08-01,Sulfate,2.5,2.5,2
+sacramento,2011-08-01,Total dissolved solids,56.5,56.5,2
+sacramento,2011-08-01,pH,7.8,7.7,3
+sacramento,2011-09-01,Chloride,2.5,2.5,2
+sacramento,2011-09-01,Specific conductance,125.4,135.0,5
+sacramento,2011-09-01,Sulfate,3.0,3.0,2
+sacramento,2011-09-01,Total dissolved solids,61.5,61.5,2
+sacramento,2011-09-01,pH,7.7,7.7,1
+sacramento,2011-10-01,Chloride,2.0,2.0,2
+sacramento,2011-10-01,Specific conductance,251.92857142857142,100.0,7
+sacramento,2011-10-01,Sulfate,2.5,2.5,2
+sacramento,2011-10-01,Total dissolved solids,52.0,52.0,2
+sacramento,2011-10-01,pH,7.800000000000001,7.800000000000001,2
+sacramento,2011-11-01,Chloride,2.5,2.5,2
+sacramento,2011-11-01,Specific conductance,98.0,102.0,5
+sacramento,2011-11-01,Sulfate,2.5,2.5,2
+sacramento,2011-11-01,Total dissolved solids,53.0,53.0,2
+sacramento,2011-12-01,Chloride,3.0,3.0,2
+sacramento,2011-12-01,Specific conductance,115.5,126.5,4
+sacramento,2011-12-01,Sulfate,4.0,4.0,2
+sacramento,2011-12-01,Total dissolved solids,72.5,72.5,2
+sacramento,2011-12-01,pH,7.7,7.7,6
+sacramento,2012-01-01,Chloride,4.333333333333333,6.0,3
+sacramento,2012-01-01,Specific conductance,132.4,132.0,5
+sacramento,2012-01-01,Sulfate,6.0,8.0,3
+sacramento,2012-01-01,Total dissolved solids,72.0,72.0,2
+sacramento,2012-01-01,pH,7.85,7.85,4
+sacramento,2012-02-01,Chloride,4.5,4.5,2
+sacramento,2012-02-01,Specific conductance,136.25,141.5,4
+sacramento,2012-02-01,Sulfate,6.0,6.0,2
+sacramento,2012-02-01,Total dissolved solids,79.5,79.5,2
+sacramento,2012-02-01,pH,7.85,7.85,4
+sacramento,2012-03-01,Chloride,4.0,4.0,2
+sacramento,2012-03-01,Specific conductance,123.0,128.5,4
+sacramento,2012-03-01,Sulfate,3.5,3.5,2
+sacramento,2012-03-01,Total dissolved solids,67.5,67.5,2
+sacramento,2012-03-01,pH,7.85,7.85,2
+sacramento,2012-04-01,Chloride,3.3333333333333335,4.0,3
+sacramento,2012-04-01,Specific conductance,92.0,88.0,5
+sacramento,2012-04-01,Sulfate,5.0,6.0,3
+sacramento,2012-04-01,Total dissolved solids,58.0,58.0,2
+sacramento,2012-04-01,pH,7.7,7.7,2
+sacramento,2012-05-01,Chloride,2.3333333333333335,2.0,3
+sacramento,2012-05-01,Specific conductance,103.5,107.0,6
+sacramento,2012-05-01,Sulfate,2.6666666666666665,2.0,3
+sacramento,2012-05-01,Total dissolved solids,57.5,57.5,2
+sacramento,2012-05-01,pH,7.833333333333333,7.8,3
+sacramento,2012-06-01,Chloride,11.1,12.35,4
+sacramento,2012-06-01,Phosphorus,0.0385,0.0385,2
+sacramento,2012-06-01,Specific conductance,117.0,108.5,4
+sacramento,2012-06-01,Sulfate,5.4425,4.385,4
+sacramento,2012-06-01,Total dissolved solids,74.5,74.5,2
+sacramento,2012-06-01,pH,7.7,7.6,3
+sacramento,2012-07-01,Chloride,15.040000000000001,2.0,5
+sacramento,2012-07-01,Phosphorus,0.688,0.688,1
+sacramento,2012-07-01,Specific conductance,210.16666666666666,107.0,6
+sacramento,2012-07-01,Sulfate,9.24,3.0,5
+sacramento,2012-07-01,Total dissolved solids,52.5,52.5,2
+sacramento,2012-07-01,pH,7.55,7.55,2
+sacramento,2012-08-01,Chloride,1.6666666666666667,2.0,3
+sacramento,2012-08-01,Specific conductance,192.66666666666666,130.5,6
+sacramento,2012-08-01,Sulfate,3.3333333333333335,4.0,3
+sacramento,2012-08-01,Total dissolved solids,60.0,60.0,2
+sacramento,2012-08-01,pH,7.8,7.8,3
+sacramento,2012-09-01,Chloride,2.6666666666666665,2.0,3
+sacramento,2012-09-01,Specific conductance,373.90909090909093,508.0,11
+sacramento,2012-09-01,Sulfate,4.0,2.0,3
+sacramento,2012-09-01,Total dissolved solids,72.0,72.0,2
+sacramento,2012-09-01,pH,7.275,7.15,8
+sacramento,2012-10-01,Chloride,2.5,2.5,4
+sacramento,2012-10-01,Specific conductance,99.55,106.5,6
+sacramento,2012-10-01,Sulfate,3.0,3.0,4
+sacramento,2012-10-01,Total dissolved solids,60.5,60.5,2
+sacramento,2012-10-01,pH,7.75,7.7,4
+sacramento,2012-11-01,Chloride,3.5,3.5,2
+sacramento,2012-11-01,Specific conductance,125.8,134.0,5
+sacramento,2012-11-01,Sulfate,4.0,4.0,2
+sacramento,2012-11-01,Total dissolved solids,67.0,67.0,2
+sacramento,2012-11-01,pH,7.5,7.5,1
+sacramento,2012-12-01,Chloride,3.5,3.5,2
+sacramento,2012-12-01,Specific conductance,92.5,91.0,4
+sacramento,2012-12-01,Sulfate,4.5,4.5,2
+sacramento,2012-12-01,Total dissolved solids,56.5,56.5,2
+sacramento,2012-12-01,pH,7.483333333333333,7.65,6
+sacramento,2013-01-01,Chloride,5.5,5.5,2
+sacramento,2013-01-01,Specific conductance,134.42857142857142,119.0,7
+sacramento,2013-01-01,Sulfate,7.5,7.5,2
+sacramento,2013-01-01,Total dissolved solids,79.5,79.5,2
+sacramento,2013-01-01,pH,7.833333333333333,7.9,6
+sacramento,2013-02-01,Chloride,4.0,4.0,2
+sacramento,2013-02-01,Specific conductance,130.0,130.0,6
+sacramento,2013-02-01,Sulfate,6.0,6.0,2
+sacramento,2013-02-01,Total dissolved solids,81.0,81.0,2
+sacramento,2013-02-01,pH,7.733333333333333,7.8,6
+sacramento,2013-03-01,Chloride,3.3333333333333335,2.0,3
+sacramento,2013-03-01,Specific conductance,278.41499999999996,118.5,8
+sacramento,2013-03-01,Sulfate,4.333333333333333,3.0,3
+sacramento,2013-03-01,Total dissolved solids,68.0,68.0,2
+sacramento,2013-03-01,pH,7.95,8.0,4
+sacramento,2013-04-01,Chloride,3.0,3.0,2
+sacramento,2013-04-01,Specific conductance,266.22222222222223,127.0,9
+sacramento,2013-04-01,Sulfate,4.5,4.5,2
+sacramento,2013-04-01,Total dissolved solids,63.5,63.5,2
+sacramento,2013-04-01,pH,7.966666666666667,8.0,9
+sacramento,2013-05-01,Chloride,3.5,3.5,2
+sacramento,2013-05-01,Specific conductance,291.8333333333333,144.5,6
+sacramento,2013-05-01,Sulfate,4.0,4.0,2
+sacramento,2013-05-01,Total dissolved solids,60.5,60.5,2
+sacramento,2013-05-01,pH,7.766666666666667,7.65,6
+sacramento,2013-06-01,Chloride,3.5,3.5,2
+sacramento,2013-06-01,Specific conductance,356.6666666666667,137.5,6
+sacramento,2013-06-01,Sulfate,5.0,5.0,2
+sacramento,2013-06-01,Total dissolved solids,66.0,66.0,2
+sacramento,2013-06-01,pH,7.833333333333333,7.75,6
+sacramento,2013-07-01,Chloride,7.0,3.0,3
+sacramento,2013-07-01,Specific conductance,320.75,207.0,8
+sacramento,2013-07-01,Sulfate,3.5,3.5,2
+sacramento,2013-07-01,Total dissolved solids,71.6,55.0,5
+sacramento,2013-07-01,pH,7.75,7.7,4
+sacramento,2013-08-01,Chloride,10.285714285714286,4.0,7
+sacramento,2013-08-01,Specific conductance,399.0,313.0,11
+sacramento,2013-08-01,Sulfate,3.5,3.5,4
+sacramento,2013-08-01,Total dissolved solids,88.45454545454545,74.0,11
+sacramento,2013-08-01,pH,7.8,7.8,2
+sacramento,2013-09-01,Chloride,44.0,33.5,10
+sacramento,2013-09-01,Specific conductance,551.32775,739.5,16
+sacramento,2013-09-01,Sulfate,4.0,5.0,5
+sacramento,2013-09-01,Total dissolved solids,181.66666666666666,49.0,21
+sacramento,2013-10-01,Chloride,9.571428571428571,4.0,7
+sacramento,2013-10-01,Specific conductance,376.5217391304348,471.0,23
+sacramento,2013-10-01,Sulfate,3.3333333333333335,4.0,6
+sacramento,2013-10-01,Total dissolved solids,103.28571428571429,86.0,7
+sacramento,2013-10-01,pH,7.75,7.75,2
+sacramento,2013-11-01,Chloride,4.5,5.0,4
+sacramento,2013-11-01,Specific conductance,178.375,169.5,8
+sacramento,2013-11-01,Sulfate,4.5,5.0,4
+sacramento,2013-11-01,Total dissolved solids,82.25,90.0,4
+sacramento,2013-12-01,Chloride,16.375,7.5,8
+sacramento,2013-12-01,Specific conductance,204.5,191.5,8
+sacramento,2013-12-01,Sulfate,6.6,8.0,5
+sacramento,2013-12-01,Total dissolved solids,89.5,39.5,12
+sacramento,2013-12-01,pH,7.9,7.9,2
+sacramento,2014-01-01,Chloride,23.0,7.0,7
+sacramento,2014-01-01,Specific conductance,368.46153846153845,205.0,13
+sacramento,2014-01-01,Sulfate,5.2,6.0,5
+sacramento,2014-01-01,Total dissolved solids,103.85714285714286,25.0,14
+sacramento,2014-01-01,pH,8.0,8.0,4
+sacramento,2014-02-01,Chloride,20.333333333333332,9.0,9
+sacramento,2014-02-01,Phosphorus,5.4,5.4,1
+sacramento,2014-02-01,Specific conductance,474.64285714285717,628.5,14
+sacramento,2014-02-01,Sulfate,7.571428571428571,7.0,7
+sacramento,2014-02-01,Total dissolved solids,131.69230769230768,66.0,13
+sacramento,2014-02-01,pH,7.85,7.9,4
+sacramento,2014-03-01,Chloride,21.5,8.0,8
+sacramento,2014-03-01,Phosphorus,0.815,0.815,2
+sacramento,2014-03-01,Specific conductance,439.09090909090907,206.0,11
+sacramento,2014-03-01,Sulfate,9.666666666666666,12.0,6
+sacramento,2014-03-01,Total dissolved solids,157.6,68.0,15
+sacramento,2014-03-01,pH,7.8,7.800000000000001,4
+sacramento,2014-04-01,Chloride,20.0,7.0,7
+sacramento,2014-04-01,Specific conductance,301.6,172.5,10
+sacramento,2014-04-01,Sulfate,7.2,7.0,5
+sacramento,2014-04-01,Total dissolved solids,150.69230769230768,49.0,13
+sacramento,2014-04-01,pH,8.1,8.1,2
+sacramento,2014-05-01,Chloride,4.833333333333333,5.5,6
+sacramento,2014-05-01,Specific conductance,262.125,147.0,8
+sacramento,2014-05-01,Sulfate,5.166666666666667,5.5,6
+sacramento,2014-05-01,Total dissolved solids,81.75,89.5,4
+sacramento,2014-05-01,pH,7.925,7.95,4
+sacramento,2014-06-01,Chloride,14.444444444444445,6.0,9
+sacramento,2014-06-01,Specific conductance,216.5,152.5,10
+sacramento,2014-06-01,Sulfate,4.0,4.0,5
+sacramento,2014-06-01,Total dissolved solids,85.61538461538461,80.0,13
+sacramento,2014-06-01,pH,7.75,7.699999999999999,4
+sacramento,2014-07-01,Chloride,6.333333333333333,4.0,6
+sacramento,2014-07-01,Specific conductance,165.71428571428572,135.0,7
+sacramento,2014-07-01,Sulfate,3.8,4.0,5
+sacramento,2014-07-01,Total dissolved solids,73.6,77.0,10
+sacramento,2014-07-01,pH,7.85,7.85,2
+sacramento,2014-08-01,Chloride,17.25,5.0,8
+sacramento,2014-08-01,Specific conductance,387.6666666666667,250.0,15
+sacramento,2014-08-01,Sulfate,4.2,5.0,5
+sacramento,2014-08-01,Total dissolved solids,120.2,70.5,10
+sacramento,2014-08-01,pH,8.0,8.0,2
+sacramento,2014-09-01,Chloride,40.53846153846154,20.0,13
+sacramento,2014-09-01,Specific conductance,479.14285714285717,387.0,14
+sacramento,2014-09-01,Sulfate,6.2,7.0,5
+sacramento,2014-09-01,Total dissolved solids,157.42424242424244,59.0,33
+sacramento,2014-10-01,Chloride,25.05,18.0,20
+sacramento,2014-10-01,Specific conductance,331.35,265.5,18
+sacramento,2014-10-01,Sulfate,4.285714285714286,5.0,7
+sacramento,2014-10-01,Total dissolved solids,112.1891891891892,40.0,37
+sacramento,2014-10-01,pH,7.85,7.85,2
+sacramento,2014-11-01,Chloride,11.0,7.0,7
+sacramento,2014-11-01,Specific conductance,187.33333333333334,161.0,9
+sacramento,2014-11-01,Sulfate,4.6,5.0,5
+sacramento,2014-11-01,Total dissolved solids,67.6,70.5,10
+sacramento,2014-12-01,Chloride,15.75,8.0,12
+sacramento,2014-12-01,Phosphorus,1.6,1.6,1
+sacramento,2014-12-01,Specific conductance,235.0,197.0,15
+sacramento,2014-12-01,Sulfate,13.222222222222221,7.0,9
+sacramento,2014-12-01,Total dissolved solids,98.95652173913044,58.0,23
+sacramento,2014-12-01,pH,8.15,8.15,2
+sacramento,2015-01-01,Chloride,19.0,10.0,8
+sacramento,2015-01-01,Specific conductance,285.7,230.0,10
+sacramento,2015-01-01,Sulfate,14.5,17.0,6
+sacramento,2015-01-01,Total dissolved solids,137.83333333333334,141.5,12
+sacramento,2015-01-01,pH,7.95,7.95,4
+sacramento,2015-02-01,Chloride,13.0,9.0,6
+sacramento,2015-02-01,Specific conductance,272.625,211.0,8
+sacramento,2015-02-01,Sulfate,10.0,11.0,5
+sacramento,2015-02-01,Total dissolved solids,99.33333333333333,50.0,9
+sacramento,2015-02-01,pH,8.0,8.0,4
+sacramento,2015-03-01,Chloride,15.142857142857142,8.0,7
+sacramento,2015-03-01,Specific conductance,327.125,200.5,8
+sacramento,2015-03-01,Sulfate,9.333333333333334,10.0,6
+sacramento,2015-03-01,Total dissolved solids,124.0,85.5,10
+sacramento,2015-03-01,pH,8.0,8.0,2
+sacramento,2015-04-01,Chloride,14.166666666666666,6.5,6
+sacramento,2015-04-01,Specific conductance,306.84166666666664,168.5,12
+sacramento,2015-04-01,Sulfate,6.4,7.0,5
+sacramento,2015-04-01,Total dissolved solids,100.8,73.5,10
+sacramento,2015-04-01,pH,7.85,7.85,2
+sacramento,2015-05-01,Chloride,13.833333333333334,5.5,6
+sacramento,2015-05-01,Specific conductance,169.83333333333334,133.5,6
+sacramento,2015-05-01,Sulfate,4.75,5.0,4
+sacramento,2015-05-01,Total dissolved solids,84.66666666666667,83.0,9
+sacramento,2015-05-01,pH,7.75,7.85,4
+sacramento,2015-06-01,Chloride,14.88888888888889,6.0,9
+sacramento,2015-06-01,Specific conductance,205.55555555555554,136.0,9
+sacramento,2015-06-01,Sulfate,4.6,5.0,5
+sacramento,2015-06-01,Total dissolved solids,71.6,63.5,20
+sacramento,2015-06-01,pH,7.85,7.85,4
+sacramento,2015-07-01,Chloride,13.125,5.0,8
+sacramento,2015-07-01,Specific conductance,170.0,120.5,10
+sacramento,2015-07-01,Sulfate,3.8,4.0,5
+sacramento,2015-07-01,Total dissolved solids,64.08333333333333,48.5,12
+sacramento,2015-07-01,pH,8.0,8.0,1
+sacramento,2015-08-01,Chloride,27.76923076923077,27.0,13
+sacramento,2015-08-01,Specific conductance,387.93333333333334,268.0,15
+sacramento,2015-08-01,Sulfate,4.25,4.0,4
+sacramento,2015-08-01,Total dissolved solids,109.06060606060606,40.0,33
+sacramento,2015-08-01,pH,7.8,7.8,2
+sacramento,2015-09-01,Chloride,24.0,32.0,3
+sacramento,2015-09-01,Specific conductance,356.8,150.0,5
+sacramento,2015-09-01,Sulfate,5.0,5.0,1
+sacramento,2015-09-01,Total dissolved solids,126.57142857142857,17.0,7
+sacramento,2015-10-01,Chloride,22.77777777777778,26.0,9
+sacramento,2015-10-01,Specific conductance,334.8888888888889,141.0,9
+sacramento,2015-10-01,Sulfate,3.75,4.0,4
+sacramento,2015-10-01,Total dissolved solids,126.13333333333334,43.0,15
+sacramento,2015-10-01,pH,7.65,7.65,2
+sacramento,2015-11-01,Specific conductance,122.0,143.0,3
+sacramento,2015-12-01,Chloride,4.333333333333333,3.0,3
+sacramento,2015-12-01,Specific conductance,114.0,114.0,2
+sacramento,2015-12-01,Sulfate,4.0,3.0,3
+sacramento,2015-12-01,Total dissolved solids,73.0,73.0,2
+sacramento,2015-12-01,pH,7.9,7.9,2
+sacramento,2016-01-01,Chloride,5.0,5.0,1
+sacramento,2016-01-01,Sulfate,8.0,8.0,1
+sacramento,2016-01-01,Total dissolved solids,87.0,87.0,1
+sacramento,2016-01-01,pH,7.9750000000000005,7.85,4
+sacramento,2016-02-01,Chloride,4.0,4.0,3
+sacramento,2016-02-01,Specific conductance,116.33333333333333,126.0,3
+sacramento,2016-02-01,Sulfate,6.0,6.0,3
+sacramento,2016-02-01,Total dissolved solids,79.0,86.0,3
+sacramento,2016-02-01,pH,7.824999999999999,7.85,4
+sacramento,2016-03-01,Chloride,3.5,3.5,4
+sacramento,2016-03-01,Sulfate,4.25,3.5,4
+sacramento,2016-03-01,Total dissolved solids,67.33333333333333,64.0,3
+sacramento,2016-03-01,pH,7.75,7.75,2
+sacramento,2016-04-01,Chloride,3.05125,4.0,8
+sacramento,2016-04-01,Phosphorus,0.2265,0.2265,2
+sacramento,2016-04-01,Specific conductance,109.025,106.05,4
+sacramento,2016-04-01,Sulfate,5.535,5.64,8
+sacramento,2016-04-01,Total dissolved solids,74.25,78.5,4
+sacramento,2016-04-01,pH,7.8,7.8,2
+sacramento,2016-05-01,pH,7.583333333333333,7.55,6
+sacramento,2016-06-01,Chloride,5.13,5.13,1
+sacramento,2016-06-01,Phosphorus,0.0715,0.0715,1
+sacramento,2016-06-01,Sulfate,4.44,4.44,1
+sacramento,2016-06-01,pH,7.775,7.75,4
+sacramento,2016-07-01,pH,7.65,7.65,2
+sacramento,2016-08-01,pH,7.75,7.75,2
+sacramento,2016-10-01,pH,7.5,7.4,4
+sacramento,2016-12-01,pH,7.75,7.75,2
+sacramento,2017-01-01,pH,7.725,7.75,4
+sacramento,2017-02-01,pH,7.575,7.55,4
+sacramento,2017-03-01,pH,7.7,7.7,2
+sacramento,2017-05-01,pH,7.75,7.800000000000001,4
+sacramento,2017-06-01,Chloride,42.762,42.762,2
+sacramento,2017-06-01,Sulfate,18.316,18.316,2
+sacramento,2017-06-01,pH,7.76,7.8,5
+sacramento,2017-07-01,pH,8.0,8.0,3
+sacramento,2017-08-01,pH,7.576470588235295,7.7,17
+sacramento,2017-09-01,pH,7.8,7.75,6
+sacramento,2017-10-01,pH,7.833333333333333,7.8,6
+sacramento,2017-11-01,pH,7.7,7.699999999999999,4
+sacramento,2017-12-01,pH,7.9,7.9,2
+sacramento,2018-01-01,pH,7.9,7.85,4
+sacramento,2018-02-01,pH,7.94,7.9,5
+sacramento,2018-03-01,pH,7.6,7.6,2
+sacramento,2018-04-01,pH,7.6,7.6,2
+sacramento,2018-05-01,pH,7.741666666666667,7.8,12
+sacramento,2018-06-01,pH,7.766666666666667,7.7,3
+sacramento,2018-07-01,pH,7.722222222222222,7.7,9
+sacramento,2018-08-01,pH,7.7875,7.800000000000001,8
+sacramento,2018-09-01,pH,7.575,7.55,4
+sacramento,2018-10-01,pH,7.8090909090909095,7.8,11
+sacramento,2018-11-01,pH,7.9,7.9,2
+sacramento,2018-12-01,pH,7.75,7.7,4
+sacramento,2019-02-01,pH,7.85,7.85,2
+sacramento,2019-03-01,pH,7.75,7.8,4
+sacramento,2019-04-01,pH,7.866666666666667,8.1,3
+sacramento,2019-05-01,pH,7.875,7.85,4
+sacramento,2019-06-01,pH,7.459999999999999,7.6,5
+sacramento,2019-07-01,pH,7.533333333333334,7.4,3
+sacramento,2019-08-01,pH,7.866666666666666,7.8,9
+sacramento,2019-09-01,pH,7.642857142857143,7.5,7
+sacramento,2019-10-01,pH,7.757142857142857,7.7,7
+sacramento,2019-12-01,pH,7.55,7.55,2
+sacramento,2020-01-01,pH,7.683333333333334,7.55,12
+sacramento,2020-02-01,pH,7.779999999999999,8.0,5
+sacramento,2020-03-01,pH,8.0,8.0,1
+sacramento,2020-05-01,pH,7.825,7.85,4
+sacramento,2020-06-01,pH,7.683333333333334,7.7,6
+sacramento,2020-07-01,pH,7.828571428571428,7.8,7
+sacramento,2020-08-01,pH,7.7,7.7,11
+sacramento,2020-09-01,pH,7.95,7.95,4
+sacramento,2020-10-01,pH,7.949999999999999,7.949999999999999,2
+sacramento,2020-11-01,pH,8.128571428571428,8.2,7
+sacramento,2020-12-01,pH,7.833333333333333,7.9,3
+sacramento,2021-01-01,pH,8.025,8.05,4
+sacramento,2021-02-01,pH,7.975,8.0,4
+sacramento,2021-03-01,pH,8.033333333333333,8.0,3
+sacramento,2021-04-01,pH,7.566666666666666,7.7,3
+sacramento,2021-05-01,pH,7.875,7.9,4
+sacramento,2021-06-01,pH,7.88,7.9,5
+sacramento,2021-07-01,pH,7.949999999999999,7.949999999999999,2
+sacramento,2021-08-01,pH,7.85,7.8,4
+sacramento,2021-09-01,pH,7.8999999999999995,8.0,3
+sacramento,2021-10-01,pH,7.933333333333334,7.9,3
+sacramento,2021-12-01,pH,7.85,7.85,2
+st_louis,2010-01-01,Chloride,60.4,60.4,1
+st_louis,2010-01-01,Phosphorus,0.0865,0.0865,2
+st_louis,2010-01-01,Sulfate,64.6,64.6,1
+st_louis,2010-03-01,Chloride,73.3,73.3,1
+st_louis,2010-03-01,Phosphorus,0.060000000000000005,0.060000000000000005,2
+st_louis,2010-03-01,Sulfate,60.4,60.4,1
+st_louis,2010-04-01,Chloride,104.8,95.3,7
+st_louis,2010-04-01,Phosphorus,0.06257142857142857,0.0635,14
+st_louis,2010-04-01,Sulfate,75.4,75.4,1
+st_louis,2010-05-01,Chloride,65.36666666666666,53.1,3
+st_louis,2010-05-01,Phosphorus,0.4676666666666667,0.375,6
+st_louis,2010-05-01,Sulfate,71.23333333333333,67.2,3
+st_louis,2010-06-01,Chloride,104.51428571428572,83.6,7
+st_louis,2010-06-01,Phosphorus,0.22968750000000002,0.1495,16
+st_louis,2010-06-01,Sulfate,52.8,52.8,1
+st_louis,2010-07-01,Chloride,118.08333333333333,91.5,6
+st_louis,2010-07-01,Phosphorus,0.25923076923076926,0.145,13
+st_louis,2010-08-01,Chloride,100.83333333333333,92.4,9
+st_louis,2010-08-01,Phosphorus,0.32705555555555554,0.1945,18
+st_louis,2010-08-01,Sulfate,75.63333333333334,81.4,3
+st_louis,2010-09-01,Chloride,65.76666666666667,71.1,3
+st_louis,2010-09-01,Phosphorus,0.5363333333333333,0.362,9
+st_louis,2010-09-01,Sulfate,63.70000000000001,73.2,3
+st_louis,2010-10-01,Chloride,106.1875,108.5,8
+st_louis,2010-10-01,Phosphorus,0.097625,0.10450000000000001,16
+st_louis,2010-10-01,Sulfate,38.95,38.95,2
+st_louis,2010-12-01,Chloride,28.1,28.1,1
+st_louis,2010-12-01,Phosphorus,0.325,0.325,2
+st_louis,2010-12-01,Sulfate,24.1,24.1,1
+st_louis,2011-01-01,Chloride,134.0,134.0,1
+st_louis,2011-01-01,Phosphorus,0.10049999999999999,0.10049999999999999,2
+st_louis,2011-01-01,Sulfate,31.7,31.7,1
+st_louis,2011-02-01,Chloride,103.0,103.0,1
+st_louis,2011-02-01,Phosphorus,0.1755,0.1755,2
+st_louis,2011-02-01,Sulfate,35.4,35.4,1
+st_louis,2011-04-01,Chloride,77.4,77.4,1
+st_louis,2011-04-01,Phosphorus,0.1225,0.1225,2
+st_louis,2011-04-01,Sulfate,18.0,18.0,1
+st_louis,2011-05-01,Chloride,55.5,55.5,1
+st_louis,2011-05-01,Phosphorus,0.14350000000000002,0.14350000000000002,2
+st_louis,2011-05-01,Sulfate,23.4,23.4,1
+st_louis,2011-06-01,Chloride,31.1,31.1,1
+st_louis,2011-06-01,Phosphorus,0.3015,0.3015,2
+st_louis,2011-06-01,Sulfate,20.6,20.6,1
+st_louis,2011-07-01,Chloride,83.65,83.65,2
+st_louis,2011-07-01,Phosphorus,0.23800000000000002,0.23800000000000002,2
+st_louis,2011-08-01,Chloride,38.0,38.0,1
+st_louis,2011-08-01,Phosphorus,0.11449999999999999,0.11449999999999999,2
+st_louis,2011-08-01,Sulfate,52.8,52.8,1
+st_louis,2011-09-01,Chloride,17.8,17.8,1
+st_louis,2011-09-01,Phosphorus,0.07550000000000001,0.07550000000000001,2
+st_louis,2011-09-01,Sulfate,35.1,35.1,1
+st_louis,2011-10-01,Chloride,21.4,21.4,1
+st_louis,2011-10-01,Phosphorus,0.08499999999999999,0.08499999999999999,2
+st_louis,2011-10-01,Sulfate,46.5,46.5,1
+st_louis,2011-11-01,Chloride,43.1,43.1,1
+st_louis,2011-11-01,Phosphorus,0.194,0.194,2
+st_louis,2011-11-01,Sulfate,27.5,27.5,1
+st_louis,2012-01-01,Chloride,72.4,72.4,1
+st_louis,2012-01-01,Phosphorus,0.0535,0.0535,2
+st_louis,2012-01-01,Sulfate,41.2,41.2,1
+st_louis,2012-02-01,Chloride,68.9,68.9,1
+st_louis,2012-02-01,Phosphorus,0.1235,0.1235,2
+st_louis,2012-02-01,Sulfate,34.3,34.3,1
+st_louis,2012-04-01,Chloride,80.5,80.5,1
+st_louis,2012-04-01,Phosphorus,0.124,0.124,2
+st_louis,2012-04-01,Sulfate,24.8,24.8,1
+st_louis,2012-05-01,Chloride,56.6,56.6,1
+st_louis,2012-05-01,Phosphorus,0.1815,0.1815,2
+st_louis,2012-05-01,Sulfate,26.3,26.3,1
+st_louis,2012-06-01,Phosphorus,0.55,0.55,1
+st_louis,2012-06-01,Specific conductance,433.0,433.0,1
+st_louis,2012-07-01,Chloride,20.1,20.1,1
+st_louis,2012-07-01,Phosphorus,0.082,0.082,2
+st_louis,2012-07-01,Sulfate,102.0,102.0,1
+st_louis,2012-08-01,Chloride,16.5,16.5,1
+st_louis,2012-08-01,Phosphorus,0.076,0.076,2
+st_louis,2012-08-01,Sulfate,70.6,70.6,1
+st_louis,2012-09-01,Chloride,24.0,24.0,1
+st_louis,2012-09-01,Phosphorus,0.17500000000000002,0.1915,4
+st_louis,2012-09-01,Specific conductance,650.8,650.8,1
+st_louis,2012-09-01,Sulfate,58.3,58.3,1
+st_louis,2012-10-01,Chloride,21.9,21.9,1
+st_louis,2012-10-01,Phosphorus,0.0675,0.0675,2
+st_louis,2012-10-01,Sulfate,55.6,55.6,1
+st_louis,2012-11-01,Chloride,20.0,20.0,1
+st_louis,2012-11-01,Phosphorus,0.0485,0.0485,2
+st_louis,2012-11-01,Sulfate,59.1,59.1,1
+st_louis,2013-01-01,Chloride,66.3,66.3,1
+st_louis,2013-01-01,Phosphorus,0.16699999999999998,0.16699999999999998,2
+st_louis,2013-01-01,Sulfate,53.8,53.8,1
+st_louis,2013-02-01,Chloride,53.4,53.4,1
+st_louis,2013-02-01,Phosphorus,0.063,0.063,2
+st_louis,2013-02-01,Sulfate,69.9,69.9,1
+st_louis,2013-04-01,Chloride,103.0,103.0,1
+st_louis,2013-04-01,Phosphorus,0.126,0.126,2
+st_louis,2013-04-01,Sulfate,50.2,50.2,1
+st_louis,2013-05-01,Chloride,43.2,43.2,1
+st_louis,2013-05-01,Phosphorus,0.288,0.345,3
+st_louis,2013-05-01,Specific conductance,428.1,428.1,1
+st_louis,2013-05-01,Sulfate,14.7,14.7,1
+st_louis,2013-06-01,Chloride,23.1,23.1,1
+st_louis,2013-06-01,Phosphorus,0.5953333333333333,0.69,3
+st_louis,2013-06-01,Specific conductance,434.0,434.0,1
+st_louis,2013-06-01,Sulfate,19.4,19.4,1
+st_louis,2013-07-01,Chloride,47.6,47.6,1
+st_louis,2013-07-01,Phosphorus,0.1105,0.1105,2
+st_louis,2013-07-01,Sulfate,69.1,69.1,1
+st_louis,2013-08-01,Phosphorus,0.3,0.3,1
+st_louis,2013-08-01,Specific conductance,524.0,524.0,1
+st_louis,2013-09-01,Chloride,51.2,51.2,1
+st_louis,2013-09-01,Phosphorus,0.142,0.142,2
+st_louis,2013-09-01,Sulfate,35.1,35.1,1
+st_louis,2013-10-01,Chloride,34.5,34.5,1
+st_louis,2013-10-01,Phosphorus,0.058,0.058,2
+st_louis,2013-10-01,Sulfate,40.7,40.7,1
+st_louis,2013-11-01,Chloride,42.2,42.2,1
+st_louis,2013-11-01,Phosphorus,0.11,0.11,2
+st_louis,2013-11-01,Sulfate,102.0,102.0,1
+st_louis,2014-01-01,Chloride,206.0,206.0,1
+st_louis,2014-01-01,Phosphorus,0.156,0.156,2
+st_louis,2014-01-01,Sulfate,39.4,39.4,1
+st_louis,2014-02-01,Chloride,227.0,227.0,1
+st_louis,2014-02-01,Phosphorus,0.361,0.361,2
+st_louis,2014-04-01,Chloride,97.3,97.3,1
+st_louis,2014-04-01,Phosphorus,0.20049999999999998,0.20049999999999998,2
+st_louis,2014-04-01,Sulfate,40.6,40.6,1
+st_louis,2014-05-01,Chloride,104.0,104.0,1
+st_louis,2014-05-01,Phosphorus,0.5465,0.5465,2
+st_louis,2014-05-01,Sulfate,22.2,22.2,1
+st_louis,2014-06-01,Phosphorus,0.83,0.83,1
+st_louis,2014-06-01,Specific conductance,477.0,477.0,2
+st_louis,2014-07-01,Chloride,72.5,72.5,2
+st_louis,2014-07-01,Phosphorus,0.08124999999999999,0.0655,4
+st_louis,2014-07-01,Sulfate,38.25,38.25,2
+st_louis,2014-08-01,Phosphorus,0.62,0.62,1
+st_louis,2014-08-01,Specific conductance,719.0,719.0,2
+st_louis,2014-09-01,Chloride,73.4,73.4,1
+st_louis,2014-09-01,Phosphorus,0.446,0.254,3
+st_louis,2014-09-01,Specific conductance,506.9,506.9,2
+st_louis,2014-09-01,Sulfate,18.1,18.1,1
+st_louis,2014-10-01,Chloride,86.6,86.6,1
+st_louis,2014-10-01,Phosphorus,0.092,0.092,2
+st_louis,2014-12-01,Chloride,86.2,86.2,1
+st_louis,2014-12-01,Phosphorus,0.1035,0.1035,2
+st_louis,2014-12-01,Sulfate,34.0,34.0,1
+st_louis,2015-01-01,Chloride,90.0,90.0,1
+st_louis,2015-01-01,Phosphorus,0.0695,0.0695,2
+st_louis,2015-01-01,Sulfate,65.7,65.7,1
+st_louis,2015-03-01,Chloride,118.0,118.0,2
+st_louis,2015-03-01,Phosphorus,0.072,0.06999999999999999,4
+st_louis,2015-03-01,Sulfate,22.35,22.35,2
+st_louis,2015-04-01,Phosphorus,0.4,0.4,1
+st_louis,2015-05-01,Chloride,93.6,93.6,1
+st_louis,2015-05-01,Phosphorus,0.11414285714285713,0.121,14
+st_louis,2015-05-01,Sulfate,55.0,55.0,1
+st_louis,2015-06-01,Chloride,60.23333333333333,51.9,3
+st_louis,2015-06-01,Phosphorus,0.26435294117647057,0.177,17
+st_louis,2015-06-01,Sulfate,43.300000000000004,41.9,3
+st_louis,2015-07-01,Chloride,79.6,79.6,1
+st_louis,2015-07-01,Phosphorus,0.29491666666666666,0.197,12
+st_louis,2015-07-01,Sulfate,44.8,44.8,1
+st_louis,2015-08-01,Chloride,66.46666666666667,62.9,3
+st_louis,2015-08-01,Phosphorus,0.3575294117647059,0.197,17
+st_louis,2015-08-01,Sulfate,66.05,66.05,2
+st_louis,2015-09-01,Chloride,66.55,66.55,2
+st_louis,2015-09-01,Phosphorus,0.33016666666666666,0.3095,6
+st_louis,2015-09-01,Sulfate,42.4,42.4,2
+st_louis,2015-10-01,Chloride,69.6,69.6,2
+st_louis,2015-10-01,Phosphorus,0.09435714285714285,0.085,14
+st_louis,2015-10-01,Sulfate,71.8,71.8,2
+st_louis,2015-11-01,Chloride,67.4,67.4,1
+st_louis,2015-11-01,Phosphorus,0.127,0.127,2
+st_louis,2015-11-01,Sulfate,46.6,46.6,1
+st_louis,2016-01-01,Chloride,74.2,74.2,1
+st_louis,2016-01-01,Phosphorus,0.091,0.091,2
+st_louis,2016-01-01,Sulfate,58.9,58.9,1
+st_louis,2016-02-01,Chloride,168.0,168.0,1
+st_louis,2016-02-01,Phosphorus,0.0535,0.0535,2
+st_louis,2016-02-01,Sulfate,71.4,71.4,1
+st_louis,2016-03-01,Chloride,83.9,83.9,1
+st_louis,2016-03-01,Phosphorus,0.0575,0.0575,2
+st_louis,2016-03-01,Sulfate,77.9,77.9,1
+st_louis,2016-04-01,Phosphorus,0.3,0.3,1
+st_louis,2016-04-01,Specific conductance,608.3,608.3,1
+st_louis,2016-05-01,Chloride,52.7,52.7,1
+st_louis,2016-05-01,Phosphorus,0.128,0.128,2
+st_louis,2016-05-01,Sulfate,58.7,58.7,1
+st_louis,2016-06-01,Chloride,58.0,58.0,1
+st_louis,2016-06-01,Phosphorus,0.22966666666666669,0.162,3
+st_louis,2016-06-01,Specific conductance,429.0,429.0,1
+st_louis,2016-06-01,Sulfate,65.6,65.6,1
+st_louis,2016-08-01,Chloride,15.9,15.9,1
+st_louis,2016-08-01,Phosphorus,0.4766666666666666,0.29,3
+st_louis,2016-08-01,Specific conductance,586.9,586.9,1
+st_louis,2016-08-01,Sulfate,7.79,7.79,1
+st_louis,2016-09-01,Chloride,29.6,29.6,1
+st_louis,2016-09-01,Phosphorus,0.246,0.246,2
+st_louis,2016-09-01,Sulfate,21.4,21.4,1
+st_louis,2016-10-01,Chloride,122.0,122.0,1
+st_louis,2016-10-01,Phosphorus,0.1835,0.1835,2
+st_louis,2016-10-01,Sulfate,88.0,88.0,1
+st_louis,2016-11-01,Chloride,49.5,49.5,1
+st_louis,2016-11-01,Phosphorus,0.135,0.135,2
+st_louis,2016-11-01,Sulfate,39.9,39.9,1
+st_louis,2016-12-01,Chloride,136.5,133.0,10
+st_louis,2016-12-01,Specific conductance,1035.2412962962962,1115.9,1620
+st_louis,2017-01-01,Chloride,2147.9363636363637,177.5,11
+st_louis,2017-01-01,Phosphorus,0.0955,0.0955,2
+st_louis,2017-01-01,Specific conductance,1385.5123271889402,985.7,2604
+st_louis,2017-01-01,Sulfate,52.5,52.5,1
+st_louis,2017-02-01,Chloride,172.64285714285714,177.5,7
+st_louis,2017-02-01,Phosphorus,0.31,0.31,1
+st_louis,2017-02-01,Specific conductance,1029.1314213412063,1091.7,2371
+st_louis,2017-03-01,Chloride,93.98888888888888,94.0,9
+st_louis,2017-03-01,Phosphorus,0.13025,0.0905,4
+st_louis,2017-03-01,Specific conductance,518.7129032258065,229.95,2976
+st_louis,2017-03-01,Sulfate,41.9,41.9,2
+st_louis,2017-04-01,Phosphorus,1.2,1.2,1
+st_louis,2017-04-01,Specific conductance,487.1166608816383,315.2,2881
+st_louis,2017-05-01,Chloride,162.76,116.0,10
+st_louis,2017-05-01,Phosphorus,0.227,0.227,2
+st_louis,2017-05-01,Specific conductance,427.7320026178011,166.64999999999998,1528
+st_louis,2017-05-01,Sulfate,38.2,38.2,1
+st_louis,2017-06-01,Chloride,53.6,53.6,1
+st_louis,2017-06-01,Phosphorus,0.19666666666666666,0.141,3
+st_louis,2017-06-01,Specific conductance,562.0,562.0,1
+st_louis,2017-06-01,Sulfate,59.3,59.3,1
+st_louis,2017-08-01,Chloride,34.5,34.5,1
+st_louis,2017-08-01,Phosphorus,0.289,0.228,3
+st_louis,2017-08-01,Specific conductance,482.6,482.6,1
+st_louis,2017-08-01,Sulfate,45.5,45.5,1
+st_louis,2017-09-01,Chloride,28.0,28.0,1
+st_louis,2017-09-01,Phosphorus,0.106,0.106,2
+st_louis,2017-09-01,Sulfate,72.4,72.4,1
+st_louis,2017-10-01,Chloride,40.0,40.0,1
+st_louis,2017-10-01,Phosphorus,0.0965,0.0965,2
+st_louis,2017-10-01,Sulfate,56.6,56.6,1
+st_louis,2017-11-01,Chloride,94.7,81.1,6
+st_louis,2017-11-01,Phosphorus,0.088,0.088,2
+st_louis,2017-11-01,Specific conductance,657.5747047244095,783.85,1016
+st_louis,2017-11-01,Sulfate,69.1,69.1,1
+st_louis,2017-12-01,Chloride,97.875,104.5,8
+st_louis,2017-12-01,Specific conductance,1076.4534610215053,656.3,2976
+st_louis,2018-01-01,Chloride,464.35555555555555,90.7,9
+st_louis,2018-01-01,Phosphorus,0.1025,0.1025,2
+st_louis,2018-01-01,Specific conductance,2035.5743279569892,617.7,2976
+st_louis,2018-01-01,Sulfate,60.6,60.6,1
+st_louis,2018-02-01,Chloride,127.4909090909091,120.0,11
+st_louis,2018-02-01,Phosphorus,0.36400000000000005,0.33,3
+st_louis,2018-02-01,Specific conductance,818.3685410334347,153.6,2632
+st_louis,2018-02-01,Sulfate,18.1,18.1,1
+st_louis,2018-02-01,Total dissolved solids,455.0,455.0,1
+st_louis,2018-03-01,Chloride,66.4,66.4,1
+st_louis,2018-03-01,Phosphorus,0.159,0.159,2
+st_louis,2018-03-01,Specific conductance,404.77972350230414,168.9,2604
+st_louis,2018-03-01,Sulfate,43.7,43.7,1
+st_louis,2018-04-01,Chloride,139.5,112.0,7
+st_louis,2018-04-01,Phosphorus,0.371,0.371,1
+st_louis,2018-04-01,Specific conductance,410.32190476190476,73.9,2520
+st_louis,2018-05-01,Chloride,124.15555555555557,136.0,9
+st_louis,2018-05-01,Phosphorus,0.088,0.088,2
+st_louis,2018-05-01,Specific conductance,289.68550458715595,9.5,545
+st_louis,2018-05-01,Sulfate,59.9,59.9,1
+st_louis,2018-06-01,Chloride,34.7,34.7,1
+st_louis,2018-06-01,Phosphorus,0.3773333333333333,0.384,3
+st_louis,2018-06-01,Sulfate,30.2,30.2,1
+st_louis,2018-07-01,Chloride,51.0,51.0,1
+st_louis,2018-07-01,Phosphorus,0.1045,0.1045,2
+st_louis,2018-07-01,Sulfate,42.1,42.1,1
+st_louis,2018-08-01,Chloride,51.1,51.1,1
+st_louis,2018-08-01,Phosphorus,0.17533333333333334,0.195,3
+st_louis,2018-08-01,Specific conductance,760.72,761.1,5
+st_louis,2018-08-01,Sulfate,34.4,34.4,1
+st_louis,2018-08-01,Total dissolved solids,494.6,495.0,5
+st_louis,2018-10-01,Chloride,52.8,52.8,1
+st_louis,2018-10-01,Phosphorus,0.1075,0.1075,2
+st_louis,2018-10-01,Sulfate,87.2,87.2,1
+st_louis,2018-11-01,Chloride,85.3,85.3,1
+st_louis,2018-11-01,Phosphorus,0.086,0.086,2
+st_louis,2018-11-01,Sulfate,60.3,60.3,1
+st_louis,2019-01-01,Chloride,359.0,359.0,1
+st_louis,2019-01-01,Phosphorus,0.0785,0.0785,2
+st_louis,2019-01-01,Sulfate,39.2,39.2,1
+st_louis,2019-02-01,Chloride,109.0,109.0,1
+st_louis,2019-02-01,Phosphorus,0.101,0.101,2
+st_louis,2019-02-01,Sulfate,47.6,47.6,1
+st_louis,2019-04-01,Chloride,28.5,28.5,1
+st_louis,2019-04-01,Phosphorus,0.1525,0.1525,2
+st_louis,2019-04-01,Sulfate,68.3,68.3,1
+st_louis,2019-05-01,Chloride,51.5,51.5,1
+st_louis,2019-05-01,Phosphorus,0.376,0.376,2
+st_louis,2019-05-01,Sulfate,39.4,39.4,1
+st_louis,2019-06-01,Chloride,47.0,47.0,1
+st_louis,2019-06-01,Phosphorus,0.1875,0.1875,2
+st_louis,2019-06-01,Sulfate,44.3,44.3,1
+st_louis,2019-07-01,Chloride,56.2,56.2,1
+st_louis,2019-07-01,Phosphorus,0.17,0.17,2
+st_louis,2019-07-01,Sulfate,29.9,29.9,1
+st_louis,2019-09-01,Chloride,42.4,42.4,1
+st_louis,2019-09-01,Phosphorus,0.1775,0.1775,2
+st_louis,2019-09-01,Sulfate,33.2,33.2,1
+st_louis,2019-10-01,Chloride,43.6,43.6,1
+st_louis,2019-10-01,Phosphorus,0.0915,0.0915,2
+st_louis,2019-10-01,Sulfate,63.3,63.3,1
+st_louis,2019-11-01,Chloride,141.0,141.0,1
+st_louis,2019-11-01,Phosphorus,0.0955,0.0955,2
+st_louis,2019-11-01,Sulfate,56.2,56.2,1
+st_louis,2020-01-01,Chloride,89.0,89.0,1
+st_louis,2020-01-01,Phosphorus,0.096,0.096,2
+st_louis,2020-01-01,Sulfate,46.4,46.4,1
+st_louis,2020-03-01,Chloride,84.9,84.9,1
+st_louis,2020-03-01,Phosphorus,0.278,0.278,2
+st_louis,2020-03-01,Sulfate,31.4,31.4,1
+st_louis,2020-07-01,Chloride,72.43333333333334,67.3,3
+st_louis,2020-07-01,Phosphorus,0.15916666666666665,0.16999999999999998,6
+st_louis,2020-07-01,Sulfate,75.3,74.3,3
+st_louis,2020-09-01,Chloride,60.666666666666664,60.2,3
+st_louis,2020-09-01,Phosphorus,0.15933333333333333,0.1665,6
+st_louis,2020-09-01,Sulfate,77.89999999999999,87.7,3
+st_louis,2020-10-01,Chloride,84.03333333333335,90.4,3
+st_louis,2020-10-01,Phosphorus,0.26716666666666666,0.3095,6
+st_louis,2020-10-01,Sulfate,102.76666666666667,88.3,3
+st_louis,2020-12-01,Chloride,58.8,58.8,1
+st_louis,2020-12-01,Phosphorus,0.0935,0.0935,2
+st_louis,2020-12-01,Sulfate,47.0,47.0,1
+toledo,2012-05-01,Chloride,46.1,32.6,6
+toledo,2012-05-01,Phosphorus,0.10266666666666667,0.1435,6
+toledo,2012-05-01,Sulfate,13.466666666666667,11.45,6
+toledo,2012-05-01,Total dissolved solids,360.0,402.0,6
+toledo,2012-06-01,Chloride,68.08333333333333,64.25,6
+toledo,2012-06-01,Phosphorus,0.06683333333333334,0.07150000000000001,6
+toledo,2012-06-01,Sulfate,61.879999999999995,64.6,5
+toledo,2012-06-01,Total dissolved solids,336.6666666666667,309.0,6
+toledo,2012-07-01,Chloride,70.62,71.9,5
+toledo,2012-07-01,Phosphorus,0.10525,0.11,4
+toledo,2012-07-01,Sulfate,53.379999999999995,57.4,5
+toledo,2012-07-01,Total dissolved solids,341.2,356.0,5
+toledo,2012-08-01,Chloride,91.2,79.1,7
+toledo,2012-08-01,Phosphorus,0.12971428571428573,0.104,7
+toledo,2012-08-01,Sulfate,138.9,97.4,7
+toledo,2012-08-01,Total dissolved solids,494.0,390.0,7
+toledo,2012-09-01,Chloride,67.475,68.15,4
+toledo,2012-09-01,Phosphorus,0.0435,0.0435,4
+toledo,2012-09-01,Sulfate,44.675000000000004,43.95,4
+toledo,2012-09-01,Total dissolved solids,298.5,299.0,4
+toledo,2012-09-01,pH,8.25,8.25,2
+toledo,2012-10-01,Chloride,200.0,200.0,1
+toledo,2012-10-01,Phosphorus,0.055,0.055,1
+toledo,2012-10-01,Sulfate,158.0,158.0,1
+toledo,2012-10-01,Total dissolved solids,812.0,812.0,1
+toledo,2012-11-01,Chloride,156.0,156.0,1
+toledo,2012-11-01,Phosphorus,0.095,0.095,1
+toledo,2012-11-01,Sulfate,180.0,180.0,1
+toledo,2012-11-01,Total dissolved solids,788.0,788.0,1
+toledo,2013-07-01,Chloride,42.0,42.0,1
+toledo,2013-07-01,Phosphorus,0.06,0.06,1
+toledo,2013-07-01,Sulfate,64.3,64.3,1
+toledo,2013-07-01,Total dissolved solids,334.0,334.0,1
+toledo,2013-11-01,Chloride,119.0,119.0,1
+toledo,2013-11-01,Phosphorus,0.392,0.392,1
+toledo,2013-11-01,Total dissolved solids,560.0,560.0,1
+toledo,2014-09-01,Chloride,241.0,241.0,1
+toledo,2014-09-01,Phosphorus,0.027,0.027,1
+toledo,2014-09-01,Sulfate,147.0,147.0,1
+toledo,2014-09-01,Total dissolved solids,848.0,848.0,1
+toledo,2014-10-01,Chloride,212.0,212.0,1
+toledo,2014-10-01,Phosphorus,0.037,0.037,1
+toledo,2014-10-01,Sulfate,126.0,126.0,1
+toledo,2014-10-01,Total dissolved solids,826.0,826.0,1
+toledo,2014-11-01,Chloride,123.0,123.0,1
+toledo,2014-11-01,Phosphorus,0.156,0.156,1
+toledo,2014-11-01,Sulfate,64.9,64.9,1
+toledo,2014-11-01,Total dissolved solids,580.0,580.0,1
+toledo,2014-12-01,Chloride,207.0,207.0,1
+toledo,2014-12-01,Phosphorus,0.012,0.012,1
+toledo,2014-12-01,Sulfate,134.0,134.0,1
+toledo,2014-12-01,Total dissolved solids,784.0,784.0,1
+toledo,2015-01-01,Chloride,356.0,356.0,1
+toledo,2015-01-01,Phosphorus,0.076,0.076,1
+toledo,2015-01-01,Sulfate,81.5,81.5,1
+toledo,2015-01-01,Total dissolved solids,906.0,906.0,1
+toledo,2015-03-01,Chloride,247.5,247.5,2
+toledo,2015-03-01,Phosphorus,0.082,0.082,2
+toledo,2015-03-01,Sulfate,59.900000000000006,59.900000000000006,2
+toledo,2015-03-01,Total dissolved solids,656.0,656.0,2
+toledo,2015-04-01,Chloride,157.5,157.5,2
+toledo,2015-04-01,Phosphorus,0.019,0.019,2
+toledo,2015-04-01,Sulfate,72.2,72.2,2
+toledo,2015-04-01,Total dissolved solids,640.0,640.0,2
+toledo,2015-05-01,Chloride,158.5,158.5,2
+toledo,2015-05-01,Phosphorus,0.0365,0.0365,2
+toledo,2015-05-01,Sulfate,57.7,57.7,2
+toledo,2015-05-01,Total dissolved solids,629.0,629.0,2
+toledo,2015-06-01,Chloride,95.65,95.65,2
+toledo,2015-06-01,Phosphorus,0.1195,0.1195,2
+toledo,2015-06-01,Sulfate,33.5,33.5,2
+toledo,2015-06-01,Total dissolved solids,413.0,413.0,2
+toledo,2015-07-01,Chloride,138.0,138.0,2
+toledo,2015-07-01,Phosphorus,0.0885,0.0885,2
+toledo,2015-07-01,Sulfate,59.9,59.9,2
+toledo,2015-07-01,Total dissolved solids,564.0,564.0,2
+toledo,2015-08-01,Chloride,134.5,134.5,2
+toledo,2015-08-01,Phosphorus,0.054000000000000006,0.054000000000000006,2
+toledo,2015-08-01,Sulfate,64.3,64.3,2
+toledo,2015-08-01,Total dissolved solids,599.0,599.0,2
+toledo,2015-09-01,Chloride,208.0,208.0,2
+toledo,2015-09-01,Phosphorus,0.041,0.041,2
+toledo,2015-09-01,Sulfate,102.35,102.35,2
+toledo,2015-09-01,Total dissolved solids,735.0,735.0,2
+toledo,2015-10-01,Chloride,85.7,85.7,2
+toledo,2015-10-01,Phosphorus,0.056499999999999995,0.056499999999999995,2
+toledo,2015-10-01,Sulfate,76.45,76.45,2
+toledo,2015-10-01,Total dissolved solids,415.0,415.0,2
+toledo,2015-12-01,Chloride,155.0,155.0,2
+toledo,2015-12-01,Phosphorus,0.025,0.025,2
+toledo,2015-12-01,Sulfate,92.15,92.15,2
+toledo,2015-12-01,Total dissolved solids,669.0,669.0,2
+toledo,2016-01-01,Chloride,123.0,123.0,2
+toledo,2016-01-01,Sulfate,87.75,87.75,2
+toledo,2016-01-01,Total dissolved solids,606.0,606.0,2
+toledo,2016-02-01,Chloride,129.0,129.0,2
+toledo,2016-02-01,Sulfate,69.5,69.5,2
+toledo,2016-02-01,Total dissolved solids,522.0,522.0,2
+toledo,2016-03-01,Chloride,113.5,113.5,2
+toledo,2016-03-01,Sulfate,60.349999999999994,60.349999999999994,2
+toledo,2016-03-01,Total dissolved solids,564.0,564.0,2
+toledo,2016-04-01,Chloride,97.55,97.55,2
+toledo,2016-04-01,Sulfate,55.7,55.7,2
+toledo,2016-04-01,Total dissolved solids,485.0,485.0,2
+toledo,2016-05-01,Chloride,131.5,131.5,2
+toledo,2016-05-01,Sulfate,79.45,79.45,2
+toledo,2016-05-01,Total dissolved solids,626.0,626.0,2
+toledo,2016-05-01,pH,7.8,7.8,1
+toledo,2016-06-01,Chloride,91.05,91.05,2
+toledo,2016-06-01,Sulfate,58.95,58.95,2
+toledo,2016-06-01,Total dissolved solids,368.0,368.0,2
+toledo,2016-06-01,pH,8.3,8.3,1
+toledo,2016-07-01,Chloride,101.55,101.55,2
+toledo,2016-07-01,Sulfate,61.550000000000004,61.550000000000004,2
+toledo,2016-07-01,Total dissolved solids,420.0,420.0,2
+toledo,2016-08-01,Chloride,102.1,102.1,2
+toledo,2016-08-01,Sulfate,60.349999999999994,60.349999999999994,2
+toledo,2016-08-01,Total dissolved solids,492.0,492.0,2
+toledo,2016-09-01,Chloride,110.825,118.0,4
+toledo,2016-09-01,Sulfate,65.0,66.25,4
+toledo,2016-09-01,Total dissolved solids,540.5,548.0,4
+toledo,2016-11-01,Chloride,89.35,89.35,2
+toledo,2016-11-01,Sulfate,53.5,53.5,2
+toledo,2016-11-01,Total dissolved solids,503.0,503.0,2
+toledo,2016-12-01,Chloride,108.5,108.5,2
+toledo,2016-12-01,Sulfate,68.0,68.0,2
+toledo,2016-12-01,Total dissolved solids,566.0,566.0,2
+toledo,2017-01-01,Chloride,92.15,92.15,2
+toledo,2017-01-01,Sulfate,51.05,51.05,2
+toledo,2017-01-01,Total dissolved solids,524.0,524.0,2
+toledo,2017-02-01,Chloride,76.25,76.25,2
+toledo,2017-02-01,Sulfate,35.4,35.4,2
+toledo,2017-02-01,Total dissolved solids,411.0,411.0,2
+toledo,2017-03-01,Chloride,160.33333333333334,161.0,3
+toledo,2017-03-01,Sulfate,68.39999999999999,59.6,3
+toledo,2017-03-01,Total dissolved solids,608.6666666666666,564.0,3
+toledo,2017-04-01,Chloride,84.31428571428572,81.6,7
+toledo,2017-04-01,Sulfate,48.05714285714286,46.6,7
+toledo,2017-04-01,Total dissolved solids,458.57142857142856,466.0,7
+toledo,2017-05-01,Chloride,83.51428571428572,84.1,7
+toledo,2017-05-01,Sulfate,45.228571428571435,42.4,7
+toledo,2017-05-01,Total dissolved solids,437.14285714285717,434.0,7
+toledo,2017-06-01,Chloride,109.55714285714285,98.55,14
+toledo,2017-06-01,Sulfate,57.0,43.05,14
+toledo,2017-06-01,Total dissolved solids,479.14285714285717,491.0,14
+toledo,2017-06-01,pH,7.9,7.9,1
+toledo,2017-07-01,Chloride,82.86296296296297,80.4,27
+toledo,2017-07-01,Sulfate,40.56785714285714,36.2,28
+toledo,2017-07-01,Total dissolved solids,405.46153846153845,425.0,26
+toledo,2017-08-01,Chloride,112.71428571428571,116.0,21
+toledo,2017-08-01,Sulfate,66.6047619047619,59.1,21
+toledo,2017-08-01,Total dissolved solids,478.3809523809524,500.0,21
+toledo,2017-09-01,Chloride,98.22727272727273,98.2,11
+toledo,2017-09-01,Sulfate,66.0,44.6,11
+toledo,2017-09-01,Total dissolved solids,449.09090909090907,426.0,11
+toledo,2017-10-01,Chloride,137.75,138.5,4
+toledo,2017-10-01,Sulfate,107.5,129.0,4
+toledo,2017-10-01,Total dissolved solids,602.5,649.0,4
+toledo,2017-11-01,Chloride,103.175,117.5,4
+toledo,2017-11-01,Sulfate,79.975,78.9,4
+toledo,2017-11-01,Total dissolved solids,512.5,544.0,4
+toledo,2017-12-01,Chloride,144.66666666666666,153.0,3
+toledo,2017-12-01,Sulfate,90.2,94.1,3
+toledo,2017-12-01,Total dissolved solids,586.0,616.0,3
+toledo,2018-03-01,Chloride,121.75,112.0,4
+toledo,2018-03-01,Sulfate,54.3,49.55,4
+toledo,2018-03-01,Total dissolved solids,543.0,539.0,4
+toledo,2018-04-01,Chloride,88.39999999999999,81.0,3
+toledo,2018-04-01,Sulfate,45.166666666666664,42.9,3
+toledo,2018-04-01,Total dissolved solids,410.6666666666667,404.0,3
+toledo,2018-05-01,Chloride,77.25,77.25,2
+toledo,2018-05-01,Sulfate,52.7,52.7,2
+toledo,2018-05-01,Total dissolved solids,473.0,473.0,2
+toledo,2018-06-01,Chloride,84.3,79.2,5
+toledo,2018-06-01,Sulfate,49.86,40.7,5
+toledo,2018-06-01,Total dissolved solids,453.2,448.0,5
+toledo,2018-07-01,Chloride,211.0,211.0,1
+toledo,2018-07-01,Sulfate,120.0,120.0,1
+toledo,2018-07-01,Total dissolved solids,770.0,770.0,1
+toledo,2018-08-01,Chloride,143.25,115.5,4
+toledo,2018-08-01,Sulfate,72.475,71.55,4
+toledo,2018-08-01,Total dissolved solids,537.5,492.0,4
+toledo,2018-09-01,Chloride,237.0,237.0,1
+toledo,2018-09-01,Sulfate,126.0,126.0,1
+toledo,2018-09-01,Total dissolved solids,854.0,854.0,1
+toledo,2018-10-01,Chloride,187.0,187.0,1
+toledo,2018-10-01,Sulfate,99.4,99.4,1
+toledo,2018-10-01,Total dissolved solids,676.0,676.0,1
+toledo,2018-11-01,Chloride,112.05,112.05,2
+toledo,2018-11-01,Sulfate,80.25,80.25,2
+toledo,2018-11-01,Total dissolved solids,563.0,563.0,2
+toledo,2018-12-01,Chloride,77.65,77.65,2
+toledo,2018-12-01,Sulfate,53.7,53.7,2
+toledo,2018-12-01,Total dissolved solids,468.0,468.0,2
+toledo,2019-01-01,Chloride,109.0,109.0,1
+toledo,2019-01-01,Sulfate,88.4,88.4,1
+toledo,2019-01-01,Total dissolved solids,594.0,594.0,1
+toledo,2019-02-01,Chloride,65.7,65.7,1
+toledo,2019-02-01,Sulfate,29.7,29.7,1
+toledo,2019-02-01,Total dissolved solids,358.0,358.0,1
+toledo,2019-03-01,Chloride,287.0,287.0,1
+toledo,2019-03-01,Sulfate,96.9,96.9,1
+toledo,2019-03-01,Total dissolved solids,880.0,880.0,1
+toledo,2019-04-01,Chloride,104.0,104.0,1
+toledo,2019-04-01,Sulfate,71.8,71.8,1
+toledo,2019-04-01,Total dissolved solids,468.0,468.0,2
+toledo,2019-05-01,Chloride,62.75,62.75,2
+toledo,2019-05-01,Sulfate,44.4,44.5,3
+toledo,2019-05-01,Total dissolved solids,388.6666666666667,386.0,3
+toledo,2019-06-01,Chloride,43.300000000000004,41.1,3
+toledo,2019-06-01,Sulfate,34.56666666666667,36.1,3
+toledo,2019-06-01,Total dissolved solids,370.0,396.0,3
+toledo,2019-07-01,Chloride,144.0,144.0,1
+toledo,2019-07-01,Sulfate,73.0,73.0,2
+toledo,2019-07-01,Total dissolved solids,567.0,567.0,2
+toledo,2019-08-01,Chloride,93.94999999999999,93.94999999999999,2
+toledo,2019-08-01,Sulfate,65.56666666666668,73.9,3
+toledo,2019-08-01,Total dissolved solids,452.0,518.0,3
+toledo,2019-09-01,Chloride,114.0,114.0,1
+toledo,2019-09-01,Sulfate,109.0,109.0,1
+toledo,2019-09-01,Total dissolved solids,646.0,646.0,1
+toledo,2019-10-01,Chloride,40.8,40.8,1
+toledo,2019-10-01,Sulfate,43.0,43.0,1
+toledo,2019-10-01,Total dissolved solids,370.0,370.0,1
+toledo,2019-11-01,Chloride,139.0,139.0,1
+toledo,2019-11-01,Sulfate,88.95,88.95,2
+toledo,2019-11-01,Total dissolved solids,631.0,631.0,2
+toledo,2020-01-01,Chloride,86.5,86.5,1
+toledo,2020-01-01,Sulfate,79.3,79.3,1
+toledo,2020-01-01,Total dissolved solids,568.0,568.0,1
+toledo,2020-02-01,Chloride,74.1,74.1,1
+toledo,2020-02-01,Sulfate,71.6,71.6,1
+toledo,2020-02-01,Total dissolved solids,512.0,512.0,1
+toledo,2020-03-01,Chloride,247.0,247.0,1
+toledo,2020-03-01,Sulfate,65.3,65.3,1
+toledo,2020-03-01,Total dissolved solids,746.0,746.0,1
+toledo,2021-11-01,Phosphorus,0.0445,0.0445,2
