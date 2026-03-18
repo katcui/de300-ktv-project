@@ -48,3 +48,17 @@
 10. **Final Deliverables**:
     - Forecasts of water quality 3 months ahead
     - Interpretable risk scores per location
+
+
+## Instructions to run/use code:
+1. To install dependencies: 
+```bash 
+pip install -r requirements.txt
+```
+2. To test locations feasibility:
+- With biological characteristics: change bbox in `location_tester_biological_samples.ipynb` to the one from your location and run the whole file 
+- With physical/chemical characteristics: change bbox in `location_tester_physical_chemical_samples.ipynb` to the one from your location and run the whole file
+- Already checked locations have the completed location tester files in `location-test-data` folder (divided by usable and not usable, BL stands for biological, PC stands for physical/chemical)
+
+3. To create a global dataset, train and evaluate the prediction model:
+- Run `main.ipynb`
